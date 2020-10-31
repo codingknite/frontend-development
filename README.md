@@ -12,7 +12,7 @@ It will also include a Credit section to all the Github repositories from which 
 We have made an effort to include as many free resources as possible. However we also understand that there are quality resources out there that might cost you a penny but totally worth it.
 We will be sure to indicate the resources that are paid.
 
-Resources with 💵💵💵 indicate that the resource is a paid resource.
+Resources with 💵💵 indicate that the resource is a paid resource.
 
 We Invite as many contributions as possible.
 Be sure to read [How To Contribute](CONTRIBUTING.MD)
