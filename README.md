@@ -330,7 +330,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 
 You're very welcome to contribute to this list.
 
-Be sure to read [How to Contribute]() before making your contribution.
+Be sure to read [How to Contribute](#) before making your contribution.
 
 # Authors
 
