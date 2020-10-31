@@ -28,6 +28,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [CSS](#css)
 - [Icons](#icons)
 - [Fonts and Typography](#fonts-and-typography)
+- [Optimization](#optimization)
 - [Color Inspiration](#color-inspiration)
 - [Images and Videos](#images-and-videos)
 - [Hosting Sites](#hosting-sites)
@@ -182,6 +183,20 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Abstract Fonts](http://www.abstractfonts.com/)
 - [Free Script Fonts](https://www.freescriptfonts.net/)
 - [The 100 best fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
+
+# Optimization
+
+- [Sizzy](https://sizzy.co/) - A tool for developing responsive websites crazy-fast. See your page on multiple devices at once.
+- [Who Is](https://who.is/) - Quick tool to check the availability of a domain name.
+- [Nibbler](https://nibbler.silktide.com/en_US) - Website testing tool for 10 key areas including accessibility, SEO, social media and technology.
+- [Woorank](https://www.woorank.com/) - Get a review of your website to address issues and identify opportunities to get ahead of competition.
+- [Optimizilla](http://optimizilla.com/) - Compress up to 20 JPEG and PNG images while keeping a good level of quality.
+- [Namecheap](https://www.namecheap.com/) - Premium and cost-effective domain names and web hosting.
+- [CSS Validator](https://jigsaw.w3.org/css-validator/) - Check if your CSS code is valid and contains no errors.
+- [HTML Validator](https://validator.w3.org/) - Check if your HTML markup is valid and contains no errors.
+- [Google Analytics](https://marketingplatform.google.com/about/analytics/) - Free insights about traffic, visitors and conversions.
+- [Usability Checklist](https://stayintech.com/info/UX) - Catch common usability problems of your website before deployment.
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Quick tool to test your webpage for performance on all devices.
 
 # Color Inspiration
 
