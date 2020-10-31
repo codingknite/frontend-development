@@ -28,10 +28,10 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [CSS](#css)
 - [Icons](#icons)
 - [Fonts and Typography](#fonts-and-typography)
-- [Color Inspirations](#color-inspirations)
+- [Color Inspiration](#color-inspiration)
 - [Images and Videos](#images-and-videos)
 - [Hosting Sites](#hosting-sites)
-- [Design Inspirations](#design-inspirations)
+- [Design Inspiration](#design-inspiration)
 - [Portfolio Inspiration](#portfolio-inspiration)
 - [Youtube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
@@ -183,7 +183,8 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Free Script Fonts](https://www.freescriptfonts.net/)
 - [The 100 best fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
 
-# Color Inspirations
+# Color Inspiration
+
 - [0to255](https://www.0to255.com/)
 - [Paletton](http://paletton.com/)
 - [Coolors](https://coolors.co/)
@@ -196,6 +197,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [LOL Color Palettes](https://www.webdesignrankings.com/resources/lolcolors/)
 
 # Images and Videos
+
 - [Coverr](http://www.coverr.co/)
 - [Pexels](https://www.pexels.com/)
 - [Burst](https://burst.shopify.com/)
@@ -213,6 +215,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Startup Stock Photos](http://startupstockphotos.com/)
 
 # Hosting Sites
+
 - [Vercel](https://vercel.com/)
 - [Github](https://pages.github.com/)
 - [Netlify](https://netlify.com/)
@@ -222,7 +225,8 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Amazon Web Services](https://aws.amazon.com/)
 
-# Design Inspirations
+# Design Inspiration
+
 - [Dribble](https://dribbble.com/)
 - [Site Inspire](http://www.siteinspire.com/)
 - [Media Queries](http://mediaqueri.es/)
@@ -241,6 +245,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [UI Movement](https://uimovement.com/)
 
 # Portfolio Inspiration
+
 - [Brittany Chiang](https://brittanychiang.com/)
 - [Fidalgo Pedro](https://fidalgo.dev/)
 - [Julia Johnson](https://www.juliacodes.com/)
@@ -250,6 +255,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Developer Portfolios](https://github.com/emmabostian/developer-portfolios)
 
 # Youtube Channels
+
 - [freeCodeCamp](https://www.youtube.com/c/FreeCodeCamp)
 - [The Net Ninja](https://youtube.com/c/TheNetNinja)
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
@@ -265,6 +271,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Clement Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 
 # Podcasts
+
 - [Syntax](https://syntax.fm/)
 - [codeNewbies](https://www.codenewbie.org/podcast)
 - [freeCodeCamp](https://freecodecamp.libsyn.com/)
@@ -279,6 +286,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/)
 
 # Blogs
+
 - [freeCodeCamp](https://freecodecamp.org/news)
 - [Medium](https://medium.com/)
 - [Dev.to](https://dev.to/)
@@ -296,6 +304,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Codrops](https://tympanus.net/codrops/)
 
 # Newsletters
+
 - [CSS-Tricks](https://css-tricks.com/newsletters/)
 - [FrontEnd Focus](https://frontendfoc.us/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
@@ -303,8 +312,10 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Smashing News Letter](https://www.smashingmagazine.com/the-smashing-newsletter/)
 
 # Contributing
+
 You're very welcome to contribute to this list.
 Be sure to read [How to Contribute]()
 
 # Authors
+
 [Joel P. Mugalu](https://twitter.com/joelpmugalu)
