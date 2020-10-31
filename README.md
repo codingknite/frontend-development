@@ -1,4 +1,4 @@
-![Banner](/Img/Banner.jpg 'Banner')
+![Banner](/img/Banner.jpg 'Banner')
 
 # Summary
 
@@ -51,7 +51,7 @@ Some of the resources listed in here were first listed in these amazing reposito
 
 This is complete roadmap of technologies you need to learn to go from beginner to a competent frontend developer.
 
-![Roadmap](/Img/frontend.png 'Roadmap')
+![Roadmap](/img/frontend.png 'Roadmap')
 
 # How the Internet Works
 
@@ -329,7 +329,8 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 # Contributing
 
 You're very welcome to contribute to this list.
-Be sure to read [How to Contribute]()
+
+Be sure to read [How to Contribute]() before making your contribution.
 
 # Authors
 
