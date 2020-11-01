@@ -26,10 +26,10 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [How the Internet Works](#how-the-internet-works)
 - [HTML](#html)
 - [CSS](#css)
-- [CSS Frameworks and Libraries](#css-frameworks-and-libraries)
 - [JavaScript](#javascript)
 - [Git](#git)
 - [React](#react)
+- [Angular](#angular)
 - [Icons](#icons)
 - [Fonts and Typography](#fonts-and-typography)
 - [Illustrations](#illustrations)
@@ -164,6 +164,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
   - [Cubic Berzier Function Generator](https://cubic-bezier.com/#.17,.67,.83,.67) - Free insights about traffic, visitors and conversions.
 
 - Practice your CSS Skills
+
   - [Codepen](http://codepen.io/)
   - [JSFiddle](https://jsfiddle.net/)
   - [CSS Deck](http://cssdeck.com/)
@@ -172,27 +173,25 @@ This is complete roadmap of technologies you need to learn to go from beginner t
   - [Liveweave](http://liveweave.com/)
   - [JS Bin](http://jsbin.com/)
 
-[🔼 Back To Top](#table-of-contents)
+- Frameworks and Libraries
 
-# CSS Frameworks and Libraries
-
-- [Bootstrap](https://getbootstrap.com/)
-- [Foundation](https://foundation.zurb.com/)
-- [Pure](https://purecss.io/)
-- [Bulma](https://bulma.io/)
-- [Semantic UI](https://semantic-ui.com/)
-- [UI Kit](https://getuikit.com/)
-- [Materialize CSS](https://materializecss.com/)
-- [Milligram](https://milligram.io/)
-- [Skeleton](http://getskeleton.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Spectre](https://picturepan2.github.io/spectre/)
-- [Base](https://getbase.org/)
-- [Picnic CSS](https://picnicss.com/)
-- [Mustard UI](https://mustard-ui.com/)
-- [Dead Simple Grid](https://github.com/mourner/dead-simple-grid)
-- [Tent CSS](https://css.sitetent.com/)
-- [Animate.css](https://daneden.github.io/animate.css/)
+  - [Bootstrap](https://getbootstrap.com/)
+  - [Foundation](https://foundation.zurb.com/)
+  - [Pure](https://purecss.io/)
+  - [Bulma](https://bulma.io/)
+  - [Semantic UI](https://semantic-ui.com/)
+  - [UI Kit](https://getuikit.com/)
+  - [Materialize CSS](https://materializecss.com/)
+  - [Milligram](https://milligram.io/)
+  - [Skeleton](http://getskeleton.com/)
+  - [Tailwind CSS](https://tailwindcss.com/)
+  - [Spectre](https://picturepan2.github.io/spectre/)
+  - [Base](https://getbase.org/)
+  - [Picnic CSS](https://picnicss.com/)
+  - [Mustard UI](https://mustard-ui.com/)
+  - [Dead Simple Grid](https://github.com/mourner/dead-simple-grid)
+  - [Tent CSS](https://css.sitetent.com/)
+  - [Animate.css](https://daneden.github.io/animate.css/)
 
 [🔼 Back To Top](#table-of-contents)
 
@@ -240,6 +239,10 @@ This is complete roadmap of technologies you need to learn to go from beginner t
   - [Pramp](https://www.pramp.com/#/)
   - [JavaScript Gekk]()
 
+- Style Guides
+  - [Standardjs](https://standardjs.com/)
+  - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - Visual Studio Code Extensions
   - [Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Snippets for JavaScript ES6 syntax and TypeScript.
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Code Linter that can find out any problematic patterns. You can even make your own set of rules to check and reuse logic.
@@ -263,7 +266,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - Courses
   - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git/)
   - [A Guide to Git & Version Control](https://www.educative.io/courses/guide-to-git-and-version-control/)
-  - [Getting Started with Git PAID](https://www.pluralsight.com/courses/getting-started-git/)
+  - [Getting Started with Git 💵](https://www.pluralsight.com/courses/getting-started-git/)
   - [Learn Git](https://www.codecademy.com/learn/learn-git)
   - [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/)
   - [Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html)
@@ -273,45 +276,84 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 # React
 
 - Roadmap
+
   ![](img/react.png)
 
 - Documentation
   - [React Docs](https://reactjs.org/docs/getting-started.html)
   - [React Cheatsheet](https://devhints.io/react)
-  
 - Courses
+
   - Egghead - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
   - Scrimba - [Learn React](https://scrimba.com/course/glearnreact)
   - freeCodeCamp - [Introduction to React](https://www.freecodecamp.org/learn/front-end-libraries/react/)
   - FullStackOpen - [Introduction to React](https://fullstackopen.com/en/part1)
   - Wes Bos - [React for Beginners](https://reactforbeginners.com/)
   - LevelUpTutorials - [React for Everyone](https://www.leveluptutorials.com/tutorials/react-for-everyone)
-  - EpicReact - [Epic React PAID](https://epicreact.dev/) 
+  - EpicReact - [Epic React 💵](https://epicreact.dev/)
 
 - Books
-  - [Road to React PAID](https://www.roadtoreact.com/)
+
+  - [Road to React 💵](https://www.roadtoreact.com/)
   - [Build Your Own React](https://pomb.us/build-your-own-react/)
   - [Pure React](https://daveceddia.com/pure-react/)
   - [React Explained](https://www.ostraining.com/books/react/)
   - [Under the hood ReactJS](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
-  - [Fullstack React PAID](https://www.newline.co/fullstack-react/)
-  - [React from Zero PAID](https://www.newline.co/react-from-zero/)
+  - [Fullstack React 💵](https://www.newline.co/fullstack-react/)
+  - [React from Zero 💵](https://www.newline.co/react-from-zero/)
 
 - Podcasts
   - [React Podcast](https://reactpodcast.com/)
-  
 - Youtube Channels
   - [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
   - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
   - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
   - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
   - [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
-  
 - Articles
+
   - [How to React](https://kentcdodds.com/blog/how-to-react)
   - [React Fundamentals - Props Vs State](https://kentcdodds.com/blog/props-vs-state)
   - [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
   - [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications)
+
+- React Libraries
+
+  - [Create React App](https://github.com/facebook/create-react-app)
+  - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
+  - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+  - [Styled Components](https://github.com/styled-components/styled-components)
+  - [Redux](https://github.com/reduxjs/redux)
+  - [React Virtualized](https://github.com/bvaughn/react-virtualized)
+  - [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+  - [React Router](https://github.com/ReactTraining/react-router)
+  - [React DnD](https://github.com/react-dnd/react-dnd/)
+  - [React Suite](https://github.com/rsuite/rsuite)
+  - [Prime React](https://github.com/primefaces/primereact)
+  - [Grommet](https://github.com/grommet/grommet)
+  - [Onsen UI](https://github.com/OnsenUI/OnsenUI)
+  - [Shards React](https://github.com/DesignRevision/shards-react)
+
+- Server Side Rendering
+
+  - [Next.js](https://nextjs.org/)
+  - [Gatsby](https://www.gatsbyjs.com/)
+
+- Experts on Twitter
+  - [Andrew Clark](https://twitter.com/acdlite)
+  - [Brian Vaughn](https://twitter.com/brian_d_vaughn)
+  - [Dan Abramov](https://twitter.com/dan_abramov)
+  - [Luna Ruan](https://twitter.com/lunaruan)
+  - [Rachel Nabors](https://twitter.com/rachelnabors)
+  - [Rick Hanlon](https://twitter.com/rickhanlonii)
+  - [Sebastian Markbåge](https://twitter.com/sebmarkbage)
+  - [Seth Webster](https://twitter.com/sethwebster)
+  - [Kent C. Dodds](https://twitter.com/kentcdodds)
+
+[🔼 Back To Top](#table-of-contents)
+
+# Angular
+
 # Icons
 
 - [Icons8](https://icons8.com/)
