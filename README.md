@@ -3,11 +3,11 @@
 # Summary
 
 Developer Resources is a collection of all the resources for developers.
-In this section we're going to cover all the resources for Frontend development from Beginner to Advanced. These will be indicated respectively.
+In this section we're going to cover all the resources for Frontend development.
 
 This section will include a table of contents in order for you to navigate to the sections that matter the most to you.
 
-It will also include a Credit section to all the Github repositories from which we could have gotten some of resources listed in here.
+It will also include a Credit section to all the Github repositories from which we got some of resources listed in here.
 
 We have made an effort to include as many free resources as possible. However we also understand that there are quality resources out there that might cost you a penny but totally worth it.
 We will be sure to indicate the resources that are paid.
@@ -15,7 +15,7 @@ We will be sure to indicate the resources that are paid.
 Resources with 💵 indicate that the resource is a paid resource.
 
 We Invite as many contributions as possible.
-Be sure to read [How To Contribute](CONTRIBUTING.MD)
+Be sure to read [How To Contribute](#CONTRIBUTING.md)
 
 # Table of Contents
 
