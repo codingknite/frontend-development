@@ -29,8 +29,6 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [JavaScript](#javascript)
 - [Git](#git)
 - [React](#react)
-- [Angular](#angular)
-- [Vue.Js](#vuejs)
 - [Icons](#icons)
 - [Fonts and Typography](#fonts-and-typography)
 - [Illustrations](#illustrations)
@@ -59,7 +57,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 
 ![Roadmap](/img/frontend.png 'Roadmap')
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # How the Internet Works
 
@@ -77,7 +75,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
   - Youtube - [Computer Networks: Crash Course Computer Science](https://www.youtube.com/watch?v=3QhU9jd03a0&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=29&ab_channel=CrashCourse)
   - Youtube - [The World Wide Web: Crash Course Computer Science](https://www.youtube.com/watch?v=guvsH5OFizE&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=31&ab_channel=CrashCourse)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # HTML
 
@@ -116,7 +114,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
   - [HTML-5-TUTORIAL](https://www.html-5-tutorial.com/) - Another Great Website for everything HTML
   - [HTML Validator](https://validator.w3.org/) - Check if your HTML markup is valid and contains no errors.
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # CSS
 
@@ -194,7 +192,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
   - [Tent CSS](https://css.sitetent.com/)
   - [Animate.css](https://daneden.github.io/animate.css/)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # JavaScript
 
@@ -260,7 +258,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
   - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client for Visual Studio Code
   - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debugging tool.
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Git
 
@@ -351,19 +349,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
   - [Seth Webster](https://twitter.com/sethwebster)
   - [Kent C. Dodds](https://twitter.com/kentcdodds)
 
-[🔼 Back To Top](#table-of-contents)
-
-# Angular
-
-<div align=center>
-<h2> <strong>COMING SOON!</strong>😉</h2>
-</div>
-
-# Vue.Js
-
-<div align=center>
-<h2> <strong>COMING SOON!</strong>😉</h2>
-</div>
+[👆 Back To Top](#table-of-contents)
 
 # Icons
 
@@ -388,7 +374,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Material Icons](https://material.io/resources/icons/)
 - [Font Awesome](https://fontawesome.com/?from=io)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Fonts and Typography
 
@@ -410,7 +396,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Free Script Fonts](https://www.freescriptfonts.net/)
 - [The 100 best fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Illustrations
 
@@ -423,7 +409,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Icons 8](https://icons8.com/ouch)
 - [Manypixels](https://gallery.manypixels.co/)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Optimization
 
@@ -438,7 +424,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Usability Checklist](https://stayintech.com/info/UX) - Catch common usability problems of your website before deployment.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Quick tool to test your webpage for performance on all devices.
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Color Inspiration
 
@@ -453,7 +439,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Material Palette](https://www.materialpalette.com/)
 - [LOL Color Palettes](https://www.webdesignrankings.com/resources/lolcolors/)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Images and Videos
 
@@ -473,7 +459,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Subtle Patterns](http://subtlepatterns.com/)
 - [Startup Stock Photos](http://startupstockphotos.com/)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Hosting Sites
 
@@ -486,7 +472,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Amazon Web Services](https://aws.amazon.com/)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Design Inspiration
 
@@ -507,7 +493,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Design Inspiration](https://www.designspiration.net/)
 - [Webdesign Inspiration](http://webdesign-inspiration.com/)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Portfolio Inspiration
 
@@ -519,7 +505,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Brittany Chiang](https://brittanychiang.com/)
 - [Developer Portfolios](https://github.com/emmabostian/developer-portfolios)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Youtube Channels
 
@@ -537,7 +523,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Programming With Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 - [Clement Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Podcasts
 
@@ -554,7 +540,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Frontend Happy Hour](https://frontendhappyhour.com/)
 - [JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Blogs
 
@@ -574,7 +560,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Scotch](https://scotch.io/)
 - [Codrops](https://tympanus.net/codrops/)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Newsletters
 
@@ -584,7 +570,7 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Responsive Design Weekly](https://responsivedesign.is/newsletter/)
 - [Smashing News Letter](https://www.smashingmagazine.com/the-smashing-newsletter/)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
 
 # Contributing
 
@@ -596,4 +582,4 @@ Be sure to read [How to Contribute](#) before making your contribution.
 
 [Joel P. Mugalu](https://twitter.com/joelpmugalu)
 
-[🔼 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents)
