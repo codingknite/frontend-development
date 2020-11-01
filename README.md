@@ -30,6 +30,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Git](#git)
 - [React](#react)
 - [Angular](#angular)
+- [Vue.Js](#vuejs)
 - [Icons](#icons)
 - [Fonts and Typography](#fonts-and-typography)
 - [Illustrations](#illustrations)
@@ -354,6 +355,16 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 
 # Angular
 
+<div align=center>
+<h2> <strong>COMING SOON!</strong>😉</h2>
+</div>
+
+# Vue.Js
+
+<div align=center>
+<h2> <strong>COMING SOON!</strong>😉</h2>
+</div>
+
 # Icons
 
 - [Icons8](https://icons8.com/)
@@ -490,22 +501,22 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Site Inspire](https://www.siteinspire.com/)
 - [Pinterest](http://pinterest.com/)
 - [Behance](https://www.behance.net/)
+- [UI Movement](https://uimovement.com/)
 - [From Up North](http://www.fromupnorth.com/)
 - [Template Monster](https://www.templatemonster.com/)
 - [Design Inspiration](https://www.designspiration.net/)
 - [Webdesign Inspiration](http://webdesign-inspiration.com/)
-- [UI Movement](https://uimovement.com/)
 
 [🔼 Back To Top](#table-of-contents)
 
 # Portfolio Inspiration
 
-- [Brittany Chiang](https://brittanychiang.com/)
-- [Fidalgo Pedro](https://fidalgo.dev/)
-- [Julia Johnson](https://www.juliacodes.com/)
-- [Jack Jeznach](http://jacekjeznach.com/)
-- [Matt Farley](http://mattfarley.ca/)
 - [Aral Tasher](https://araltasher.com/)
+- [Matt Farley](http://mattfarley.ca/)
+- [Jack Jeznach](http://jacekjeznach.com/)
+- [Julia Johnson](https://www.juliacodes.com/)
+- [Fidalgo Pedro](https://fidalgo.dev/)
+- [Brittany Chiang](https://brittanychiang.com/)
 - [Developer Portfolios](https://github.com/emmabostian/developer-portfolios)
 
 [🔼 Back To Top](#table-of-contents)
