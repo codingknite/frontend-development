@@ -15,7 +15,7 @@ We will be sure to indicate the resources that are paid.
 Resources with 💵 indicate that the resource is a paid resource.
 
 We Invite as many contributions as possible.
-Be sure to read [How To Contribute](CONTRIBUTING.md)
+Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 # Table of Contents
 
