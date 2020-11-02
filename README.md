@@ -7,8 +7,6 @@ In this section we're going to cover all the resources for Frontend development.
 
 This section will include a table of contents in order for you to navigate to the sections that matter the most to you.
 
-<!-- It will also include a Credit section to all the Github repositories from which we got some of resources listed in here. -->
-
 We have made an effort to include as many free resources as possible. However we also understand that there are quality resources out there that might cost you a penny but totally worth it.
 We will be sure to indicate the resources that are paid.
 
@@ -42,20 +40,6 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Newsletters](#newsletters)
 - [Contributing](#contributing)
 - [Authors](#authors)
-
-<!-- # Credits
-
-Some of the resources listed in here were first listed in these amazing repositories:
-
-- [Frontend Roadmap](https://github.com/kamranahmedse/developer-roadmap) -->
-
-<!-- # Roadmap
-
-This is complete roadmap of technologies you need to learn to go from beginner to a competent frontend developer.
-
-![Roadmap](/img/frontend.png 'Roadmap')
-
-[👆 Back To Top](#table-of-contents) -->
 
 # How the Internet Works
 
@@ -272,10 +256,6 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 
 # React
 
-<!-- - Roadmap -->
-
-  <!-- ![](img/react.png) -->
-
 - Documentation
   - [React Docs](https://reactjs.org/docs/getting-started.html)
   - [React Cheatsheet](https://devhints.io/react)
@@ -314,22 +294,36 @@ This is complete roadmap of technologies you need to learn to go from beginner t
   - [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
   - [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications)
 
-- React Libraries
+- React Tooling
 
-  - [Create React App](https://github.com/facebook/create-react-app)
-  - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
-  - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-  - [Styled Components](https://github.com/styled-components/styled-components)
+  - [npm](https://www.npmjs.com/)
+  - [Axios](https://www.npmjs.com/package/axios)
   - [Redux](https://github.com/reduxjs/redux)
-  - [React Virtualized](https://github.com/bvaughn/react-virtualized)
-  - [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
-  - [React Router](https://github.com/ReactTraining/react-router)
+  - [ES Lint](https://eslint.org/)
+  - [Rebass](https://rebassjs.org/)
+  - [Lodash](https://lodash.com/)
+  - [Storybok](https://storybook.js.org/)
+  - [Onsen UI](https://onsen.io/react/)
+  - [Grommet](https://v2.grommet.io/components)
+  - [Evergreen](https://evergreen.segment.com/)
+  - [Reactstrap](https://reactstrap.github.io/)
   - [React DnD](https://github.com/react-dnd/react-dnd/)
   - [React Suite](https://github.com/rsuite/rsuite)
+  - [React Sight](http://www.reactsight.com/)
+  - [Material UI](https://material-ui.com/)
   - [Prime React](https://github.com/primefaces/primereact)
-  - [Grommet](https://github.com/grommet/grommet)
-  - [Onsen UI](https://github.com/OnsenUI/OnsenUI)
   - [Shards React](https://github.com/DesignRevision/shards-react)
+  - [React Router](https://github.com/ReactTraining/react-router)
+  - [React Toolbox](http://react-toolbox.io/)
+  - [React Bootstrap](https://react-bootstrap.github.io/)
+  - [Create React App](https://github.com/facebook/create-react-app)
+  - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
+  - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
+  - [Semantic UI React](https://react.semantic-ui.com/)
+  - [Styled Components](https://github.com/styled-components/styled-components)
+  - [Styled Components](https://github.com/styled-components/styled-components)
+  - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+  - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 - Server Side Rendering
 
