@@ -6,8 +6,7 @@ This is a collection of resources for Frontend development.
 
 It will include a table of contents in order for you to navigate to the sections that matter the most to you.
 
-We have made an effort to include as many free resources as possible. However we also understand tha
-t there are quality resources out there that might cost you a penny but totally worth it.
+We have made an effort to include as many free resources as possible. However we also understand that there are quality resources out there that might cost you a penny but totally worth it.
 We will be sure to indicate the resources that are paid.
 
 Resources with 💵 indicate that the resource is a paid resource.
