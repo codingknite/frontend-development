@@ -6,7 +6,8 @@ This is a collection of resources for Frontend development.
 
 It will include a table of contents in order for you to navigate to the sections that matter the most to you.
 
-We have made an effort to include as many free resources as possible. However we also understand that there are quality resources out there that might cost you a penny but totally worth it.
+We have made an effort to include as many free resources as possible. However we also understand tha
+t there are quality resources out there that might cost you a penny but totally worth it.
 We will be sure to indicate the resources that are paid.
 
 Resources with 💵 indicate that the resource is a paid resource.
@@ -69,6 +70,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - CSS-Tricks - [HTML Entity Refernce](https://css-tricks.com/snippets/html/glyphs/)
   - W3Schools - [Introduction to HTML](https://www.w3schools.com/html/html_intro.asp)
   - Cheat Sheet - [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+  - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/html)
 
 - Courses
 
@@ -76,12 +78,13 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - W3Schools - [HTML Tutorial](https://www.w3schools.com/html/)
   - Udacity - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
   - Scrimba - [Introduction to HTML](https://scrimba.com/learn/html)
-  - EDX - [HTML5 and CSSS Fundemantals](https://www.edx.org/course/html5-and-css-fundamentals)
+  - EDX - [HTML5 and CSS Fundemantals](https://www.edx.org/course/html5-and-css-fundamentals)
   - Youtube - [HTML Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org)
   - Udemy - [HTML and CSS3 Course 💵](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
   - CodeCademy - [Learn HTML 💵](https://www.codecademy.com/learn/learn-html)
   - Pluralsight - [HTML Fundamentals 💵](https://www.pluralsight.com/courses/html-fundamentals)
   - Team Treehouse - [Introduction to HTML and CSS 💵](https://teamtreehouse.com/library/introduction-to-html-and-css)
+  - The Odin Project - [HTML & CSS](https://www.theodinproject.com/courses/html-and-css)
 
 - Books
 
@@ -107,6 +110,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - MDN - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   - [Extensive CSS Reference](https://tympanus.net/codrops/css_reference/)
   - [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+  - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/css)
 
 - Courses
 
@@ -184,6 +188,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - MDN - [JavaScript Reference]()
   - MDN - [Operator Precedence Table]()
   - MDN - [JavaScript Event Refernce]()
+  - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/javascript)
 
 - Courses
 
@@ -194,6 +199,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - EDX - [Programming the Web with JavaScript](https://www.edx.org/course/programming-for-the-web-with-javascript)
   - [GeekforGeeks](https://www.geeksforgeeks.org/javascript-tutorial/)
   - Udemy [The Complete JavaScript Course 💵](https://www.udemy.com/course/the-complete-javascript-course/)
+  - The Odin Project[Javascript Course- includes some backend related content too](https://www.theodinproject.com/courses/javascript)
 
 - Books
 
@@ -514,6 +520,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 - [Programming With Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 - [Clement Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+- [Leon Noel](https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)
 
 [👆 Back To Top](#table-of-contents)
 
