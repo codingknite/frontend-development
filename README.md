@@ -574,5 +574,6 @@ Be sure to read [How to Contribute](CONTRIBUTING.MD) before making your contribu
 
 [Joel P. Mugalu](https://github.com/mojpm)
 
-This repository exists because of the wonderful contributions made by 
+This  repository exists because of the wonderful contributions made by [these Contributors](CONTRIBUTORS.md)
+
 [👆 Back To Top](#table-of-contents)
