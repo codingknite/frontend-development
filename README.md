@@ -2,15 +2,16 @@
 
 # Summary
 
-Developer Resources is a collection of all the resources for developers.
-In this section we're going to cover all the resources for Frontend development.
+This is a collection of resources for Frontend development.
 
-This section will include a table of contents in order for you to navigate to the sections that matter the most to you.
+It will include a table of contents in order for you to navigate to the sections that matter the most to you.
 
 We have made an effort to include as many free resources as possible. However we also understand that there are quality resources out there that might cost you a penny but totally worth it.
 We will be sure to indicate the resources that are paid.
 
 Resources with 💵 indicate that the resource is a paid resource.
+
+Note that you're not required to use these resources one by one. This is just a reference and not a guide. It is practically impossible to use all the resources listed in here. Use this as a reference. It is not a guide.
 
 We Invite as many contributions as possible.
 Be sure to read [How To Contribute](CONTRIBUTING.MD)
@@ -571,6 +572,7 @@ Be sure to read [How to Contribute](CONTRIBUTING.MD) before making your contribu
 
 # Authors
 
-[Joel P. Mugalu](https://twitter.com/joelpmugalu)
+[Joel P. Mugalu](https://github.com/mojpm)
 
+This repository exists because of the wonderful contributions made by 
 [👆 Back To Top](#table-of-contents)
