@@ -16,8 +16,9 @@ If you're already familiar with contributing to open source then follow these st
 2. Clone the forked repository to your local machine.
 3. Create a branch with a concise name for your contribution.
 4. Make your contribution.
-5. Commit your changes and push the new branch
-6. Open and submit a Pull Request.
+5. Add your name to the list of contributors
+6. Commit your changes and push the new branch
+7. Open and submit a Pull Request.
 
 If you need any help, feel free to ask [here.]()
 
