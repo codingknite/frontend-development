@@ -7,7 +7,7 @@ In this section we're going to cover all the resources for Frontend development.
 
 This section will include a table of contents in order for you to navigate to the sections that matter the most to you.
 
-It will also include a Credit section to all the Github repositories from which we got some of resources listed in here.
+<!-- It will also include a Credit section to all the Github repositories from which we got some of resources listed in here. -->
 
 We have made an effort to include as many free resources as possible. However we also understand that there are quality resources out there that might cost you a penny but totally worth it.
 We will be sure to indicate the resources that are paid.
@@ -21,8 +21,6 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - [Summary](#summary)
 - [Table of Contents](#table-of-contents)
-- [Credits](#credits)
-- [Roadmap](#roadmap)
 - [How the Internet Works](#how-the-internet-works)
 - [HTML](#html)
 - [CSS](#css)
@@ -45,19 +43,19 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Contributing](#contributing)
 - [Authors](#authors)
 
-# Credits
+<!-- # Credits
 
 Some of the resources listed in here were first listed in these amazing repositories:
 
-- [Frontend Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Frontend Roadmap](https://github.com/kamranahmedse/developer-roadmap) -->
 
-# Roadmap
+<!-- # Roadmap
 
 This is complete roadmap of technologies you need to learn to go from beginner to a competent frontend developer.
 
 ![Roadmap](/img/frontend.png 'Roadmap')
 
-[👆 Back To Top](#table-of-contents)
+[👆 Back To Top](#table-of-contents) -->
 
 # How the Internet Works
 
@@ -274,9 +272,9 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 
 # React
 
-- Roadmap
+<!-- - Roadmap -->
 
-  ![](img/react.png)
+  <!-- ![](img/react.png) -->
 
 - Documentation
   - [React Docs](https://reactjs.org/docs/getting-started.html)
