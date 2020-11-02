@@ -480,7 +480,6 @@ This is complete roadmap of technologies you need to learn to go from beginner t
 - [Site Inspire](http://www.siteinspire.com/)
 - [Media Queries](http://mediaqueri.es/)
 - [Call To idea](http://www.calltoidea.com/)
-- [Site Inspire](http://www.siteinspire.com/)
 - [One Page Love](https://onepagelove.com/)
 - [Land Book](http://land-book.com/)
 - [Awwwards](https://www.awwwards.com/)
