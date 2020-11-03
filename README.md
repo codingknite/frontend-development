@@ -147,6 +147,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [CSS reference by Codrops](http://tympanus.net/codrops/css_reference/)
   - [CSS for People Who Hate CSS](https://paulcpederson.com/articles/css-for-people-who-hate-css/) -Excellent guide on how to write better, cleaner and more reusable CSS code.
   - [Cubic Berzier Function Generator](https://cubic-bezier.com/#.17,.67,.83,.67) - Free insights about traffic, visitors and conversions.
+  - [CSS Layout](https://csslayout.io/) - A collection of popular layouts and patterns made with CSS
 
 - Practice your CSS Skills
 
@@ -311,22 +312,15 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Storybok](https://storybook.js.org/)
   - [Onsen UI](https://onsen.io/react/)
   - [Grommet](https://v2.grommet.io/components)
-  - [Evergreen](https://evergreen.segment.com/)
   - [Reactstrap](https://reactstrap.github.io/)
-  - [React DnD](https://github.com/react-dnd/react-dnd/)
-  - [React Suite](https://github.com/rsuite/rsuite)
   - [React Sight](http://www.reactsight.com/)
   - [Material UI](https://material-ui.com/)
-  - [Prime React](https://github.com/primefaces/primereact)
-  - [Shards React](https://github.com/DesignRevision/shards-react)
   - [React Router](https://github.com/ReactTraining/react-router)
   - [React Toolbox](http://react-toolbox.io/)
   - [React Bootstrap](https://react-bootstrap.github.io/)
   - [Create React App](https://github.com/facebook/create-react-app)
   - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
-  - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
   - [Semantic UI React](https://react.semantic-ui.com/)
-  - [Styled Components](https://github.com/styled-components/styled-components)
   - [Styled Components](https://github.com/styled-components/styled-components)
   - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
   - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
@@ -580,6 +574,6 @@ Be sure to read [How to Contribute](CONTRIBUTING.MD) before making your contribu
 
 [Joel P. Mugalu](https://github.com/mojpm)
 
-This  repository exists because of the wonderful contributions made by [these Contributors](CONTRIBUTORS.md)
+This repository exists because of the wonderful contributions made by [these Contributors](CONTRIBUTORS.md)
 
 [👆 Back To Top](#table-of-contents)
