@@ -29,7 +29,7 @@ And that's it. Well, almost.
 Please be sure to keep the following in mind before adding a new resource:
 
 - Make sure you indicate whether the resource is a paid resource. Do that by adding 💵 at the end of the resource name.
-- If your resource is a course, please indicate the platfoarm or instructor of the course before it's name.
+- If your resource is a course, please indicate the platform or instructor of the course before it's name.
 
   `course platform / intructor - [course name](course link)`
 
