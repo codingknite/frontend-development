@@ -144,6 +144,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [CSS reference by Codrops](http://tympanus.net/codrops/css_reference/)
   - [CSS for People Who Hate CSS](https://paulcpederson.com/articles/css-for-people-who-hate-css/) -Excellent guide on how to write better, cleaner and more reusable CSS code.
   - [Cubic Berzier Function Generator](https://cubic-bezier.com/#.17,.67,.83,.67) - Free insights about traffic, visitors and conversions.
+  - [CSS Layout](https://csslayout.io/) - A collection of popular layouts and patterns made with CSS
 
 - Practice your CSS Skills
 
