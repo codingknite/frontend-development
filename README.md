@@ -159,6 +159,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Plunker](http://plnkr.co/)
   - [Liveweave](http://liveweave.com/)
   - [JS Bin](http://jsbin.com/)
+  - [CodeSandbox](https://codesandbox.io/)
+  - [StackBlitz](https://stackblitz.com/)
 
 - Frameworks and Libraries
   - [Tachyons](https://tachyons.io/)
@@ -212,6 +214,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   - [JavaScripts The Good Parts 💵](https://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596517742&linkCode=as2&tag=eldoradohills-20)
   - [JavaScrit and JQuery 💵](http://javascriptbook.com/)
+  - [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja)
 
 - Challenge Websites
 
@@ -227,6 +230,10 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Coderbyte](https://coderbyte.com/)
   - [Pramp](https://www.pramp.com/#/)
   - [JavaScript Gekk]()
+  - [Leetcode](https://leetcode.com/)
+  - [AtCoder](https://atcoder.jp/)
+  - [CodeChef](https://www.codechef.com/)
+  - [SPOJ](https://www.spoj.com/)
 
 - Snippets and cheetsheets
   - [A ridiculous collection of cheatsheets](https://devhints.io/)
@@ -280,16 +287,22 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Learn Git](https://www.codecademy.com/learn/learn-git)
   - [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/)
   - [Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html)
+
+- Books
+  - [Pro Git](https://git-scm.com/book/en/v2)
+
 - Tools
   - [Github](http://github.com/)
+  - [Sourcetree](https://www.sourcetreeapp.com/)
+  - [Git Extensions for Windows](https://github.com/gitextensions/gitextensions)
 
 # React
 
 - Documentation
   - [React Docs](https://reactjs.org/docs/getting-started.html)
   - [React Cheatsheet](https://devhints.io/react)
-- Courses
 
+- Courses
   - Pluralsight - [React Getting Started](https://www.pluralsight.com/courses/react-js-getting-started)
   - Egghead - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
   - Scrimba - [Learn React](https://scrimba.com/course/glearnreact)
@@ -310,12 +323,14 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - Podcasts
   - [React Podcast](https://reactpodcast.com/)
+
 - Youtube Channels
   - [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
   - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
   - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
   - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
   - [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
+
 - Articles
 
   - [How to React](https://kentcdodds.com/blog/how-to-react)
@@ -324,28 +339,47 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications)
 
 - React Tooling
-
   - [npm](https://www.npmjs.com/)
-  - [Axios](https://www.npmjs.com/package/axios)
-  - [Redux](https://github.com/reduxjs/redux)
   - [ES Lint](https://eslint.org/)
-  - [Rebass](https://rebassjs.org/)
   - [Lodash](https://lodash.com/)
-  - [Storybok](https://storybook.js.org/)
-  - [Onsen UI](https://onsen.io/react/)
-  - [Grommet](https://v2.grommet.io/components)
-  - [Reactstrap](https://reactstrap.github.io/)
+  - [Storybook](https://storybook.js.org/)
   - [React Sight](http://www.reactsight.com/)
-  - [Material UI](https://material-ui.com/)
   - [React Router](https://github.com/ReactTraining/react-router)
-  - [React Toolbox](http://react-toolbox.io/)
-  - [React Bootstrap](https://react-bootstrap.github.io/)
-  - [Create React App](https://github.com/facebook/create-react-app)
-  - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
-  - [Semantic UI React](https://react.semantic-ui.com/)
-  - [Styled Components](https://github.com/styled-components/styled-components)
-  - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
   - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+  
+  - State Management 
+    - [Redux](https://github.com/reduxjs/redux)
+    - [Mobx](https://mobx.js.org/README.html)
+    - [Recoil](https://github.com/facebookexperimental/Recoil)
+
+  - UI Framework / UI Library
+    - [Reactstrap](https://reactstrap.github.io/)
+    - [React Bootstrap](https://react-bootstrap.github.io/)
+    - [Onsen UI](https://onsen.io/react/)
+    - [Material UI](https://material-ui.com/)
+    - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
+    - [React Toolbox (Material Design)](http://react-toolbox.io/)
+    - [Semantic UI React](https://react.semantic-ui.com/)
+    - [Rebass](https://rebassjs.org/)
+    - [Grommet](https://v2.grommet.io/components)
+
+  - Unit Testing
+    - [Jest](https://jestjs.io/docs/en/tutorial-react)
+    - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+    - [Enzyme](https://github.com/enzymejs/enzyme)
+
+  - Create React App
+    - [Create React App](https://github.com/facebook/create-react-app)
+    - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+
+  - CSS in JS
+    - [Styled Components](https://github.com/styled-components/styled-components)
+    - [Emotion (css in js)](https://emotion.sh/)
+
+  - Remote Data Fetching
+      - [Axios](https://www.npmjs.com/package/axios)
+      - [swr](https://github.com/vercel/swr)
+      - [React Query](https://github.com/tannerlinsley/react-query)
 
 - Server Side Rendering
 
@@ -573,6 +607,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Echo.Js](https://www.echojs.com/)
 - [Scotch](https://scotch.io/)
 - [Codrops](https://tympanus.net/codrops/)
+- [Frontend Focus](https://frontendfoc.us/)
 
 [👆 Back To Top](#table-of-contents)
 
