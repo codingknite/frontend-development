@@ -221,10 +221,17 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Pramp](https://www.pramp.com/#/)
   - [JavaScript Gekk]()
 
+- Snippets and cheetsheets
+  - [A ridiculous collection of cheatsheets](https://devhints.io/)
+  - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+  - [Favorite JavaScript utilities in single line of code](https://1loc.dev/)
+  - [Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code)
+
 - Style Guides
   - [Standardjs](https://standardjs.com/)
   - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
   - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
 - Visual Studio Code Extensions
   - [Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Snippets for JavaScript ES6 syntax and TypeScript.
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Code Linter that can find out any problematic patterns. You can even make your own set of rules to check and reuse logic.
