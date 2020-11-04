@@ -38,6 +38,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Youtube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
+- [Interview Prep](#interview-prep)
 - [Newsletters](#newsletters)
 - [Contributing](#contributing)
 - [Authors](#authors)
@@ -569,6 +570,83 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 [👆 Back To Top](#table-of-contents)
 
+# Interview Prep
+
+- Resume Templates
+
+  - [Canva]()
+  - [ResumeWorded]()
+  - [Creddle]()
+  - [Resume.io]()
+  - [MyPerfectResume]()
+  - [Harvard Office Of Career Services](https://ocs.fas.harvard.edu/guide-template-library)
+
+- Resume Editing
+  - [Grammarly](https://www.grammarly.com/)
+- ATS Resources
+
+  - [JobScan](https://www.jobscan.co/)
+  - [SkillSyncer](https://skillsyncer.com/)
+  - [Top Resume](https://www.topresume.com/)
+
+- Job Sites
+
+  - [JustRemote](https://justremote.co/remote-developer-jobs)
+  - [Powertofly Jobs](https://powertofly.com/jobs/?location=Remote)
+  - [Producthunt Jobs](https://www.producthunt.com/jobs?categories=Engineering&remote_ok=true)
+  - [Startupers](https://www.startupers.com/)
+  - [Working Nomads](https://www.workingnomads.co/remote-development-jobs)
+  - [Remoteco](https://remote.co/remote-jobs/developer/)
+  - [Jobspresso](https://jobspresso.co/remote-work/)
+  - [We Work Remotely](https://weworkremotely.com/remote-jobs/)
+  - [Stackoverflow Jobs](https://stackoverflow.com/jobs)
+  - [Remotehub]()
+  - [JSRemotely](https://jsremotely.com/)
+  - [Angel List](https://angel.co/jobs)
+  - [Github Jobs](https://jobs.github.com/)
+  - [Mashable Job Board](https://jobs.mashable.com/)
+  - [Remoters](https://remoters.net/jobs/)
+  - [JavaScript Job](https://javascriptjob.xyz/)
+  - [Find Remote Jobs](https://frontendremotejobs.com/)
+  - [Outsourcely](https://www.outsourcely.com/)
+  - [YC Startup Jobs](https://www.workatastartup.com/)
+  - [React Jobs Board](https://reactjobsboard.com/c/remote-react-jobs)
+  - [Remote Hub](https://remotehub.io/)
+  - [Jr Dev Jobs](http://jrdevjobs.com/)
+  - [Women Who Code](http://womenwhocode.com/jobs)
+
+- Freelance Jobs Sites
+
+  - [Freelancer](https://www.freelancer.com/)
+  - [Upwork](https://www.upwork.com/)
+  - [FlexJobs](https://www.flexjobs.com/)
+  - [FreelancerMap](https://www.freelancermap.com/)
+  - [Gun.io](https://www.gun.io/)
+  - [Guru](https://www.guru.com/d/jobs/)
+  - [People Per Hour](https://www.peopleperhour.com/)
+
+- Mock Interviews
+
+  - [Pramp](https://www.pramp.com/)
+  - [Interviewing.io](https://interviewing.io/)
+
+- Articles
+  - [How to Write a Developer Résumé Hiring Managers Will Actually Read](https://www.freecodecamp.org/news/how-to-write-a-resume-that-works/)
+  - [Finding your first remote job](https://joshwcomeau.com/career/remote-work-pt2/)
+  - [How to Get a Software Engineer Job at Google and Other Top Tech Companies](https://www.freecodecamp.org/news/how-to-get-a-software-engineer-job-at-google-and-other-top-tech-companies-efa235a33a6d/)
+  - [Resources that help me land a job at FANG]()
+  - [Resources that help me land a job at FANG](https://towardsdatascience.com/these-are-all-the-resources-that-help-me-land-a-fang-job-452341dd6bed)
+  - [Why I studied full-time for 8 months for a Google interview](https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13/)
+  - [How to Get a Remote Developer Job and Become a Digital Nomad](https://www.codementor.io/@npostolovski/how-to-get-a-remote-developer-job-and-become-a-digital-nomad-if04nmm1s)
+  - [Tips to get a job as a Developer](https://dev.to/devpato/tips-to-get-a-job-as-a-developer-4ic3)
+  - [How To Get Your First Web Developer Job: The Ultimate Guide for Junior Developers](https://careerfoundry.com/en/blog/web-development/how-to-get-your-first-web-developer-job-the-ultimate-guide-for-junior-developers/#2-where-should-i-look-for-web-development-jobs)
+  - [Want to Know How to Get a Remote Job? I Asked 30 Remote Companies - This is What They Said](https://www.freecodecamp.org/news/how-to-get-a-remote-job/)
+  - [5 things you need to know in a programming interview](https://www.freecodecamp.org/news/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b/amp/)
+  - [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/amp/)
+  - [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+  - [How to Get a Programming Job Without a Degree]()
+  - [How To Get A Programming Job Without A Degree](https://selftaught.blog/get-programming-job-without-degree/)
+
 # Newsletters
 
 - [CSS-Tricks](https://css-tricks.com/newsletters/)
@@ -589,6 +667,6 @@ Be sure to read [How to Contribute](CONTRIBUTING.MD) before making your contribu
 
 [Joel P. Mugalu](https://github.com/mojpm)
 
-This repository exists because of the wonderful contributions made by [these Contributors](CONTRIBUTORS.md)
+This repository exists because of the wonderful contributions made by [these Contributors.](https://github.com/developer-resources/frontend-development/graphs/contributors)
 
 [👆 Back To Top](#table-of-contents)
