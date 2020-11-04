@@ -160,7 +160,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [JS Bin](http://jsbin.com/)
 
 - Frameworks and Libraries
-  - [Tachyons- CSS toolkit](https://tachyons.io/)
+  - [Tachyons](https://tachyons.io/)
   - [Bootstrap](https://getbootstrap.com/)
   - [Foundation](https://foundation.zurb.com/)
   - [Pure](https://purecss.io/)
@@ -228,11 +228,13 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [JavaScript Gekk]()
 
 - Style Guides
+
   - [Standardjs](https://standardjs.com/)
   - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
   - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 - Visual Studio Code Extensions
+
   - [Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Snippets for JavaScript ES6 syntax and TypeScript.
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Code Linter that can find out any problematic patterns. You can even make your own set of rules to check and reuse logic.
   - [Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Can show code completion and information on a certain function, variables, and properties by hover.
@@ -249,8 +251,16 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debugging tool.
 
 - Websites
+
   - [HTML DOM](https://htmldom.dev/) - Common tasks of managing HTML DOM with vanilla JavaScript
-  - [this vs that](https://thisthat.dev/) - The differences between ___ and ___ in the front-end development
+  - [this vs that](https://thisthat.dev/) - The differences between **_ and _** in the front-end development
+
+- Articles
+  - [A Study Plan To Cure JavaScript Fatigue](https://www.freecodecamp.org/news/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1/)
+  - [How to Manage JavaScript Fatigue](https://auth0.com/blog/how-to-manage-javascript-fatigue/)
+  - [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
+  - [10 JavaScript concepts you need to know for interviews](https://codeburst.io/10-javascript-concepts-you-need-to-know-for-interviews-136df65ecce)
+  - [10 Interview QuestionsEvery JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -273,12 +283,12 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [React Cheatsheet](https://devhints.io/react)
 - Courses
 
+  - Pluralsight - [React Getting Started](https://www.pluralsight.com/courses/react-js-getting-started)
   - Egghead - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
   - Scrimba - [Learn React](https://scrimba.com/course/glearnreact)
   - freeCodeCamp - [Introduction to React](https://www.freecodecamp.org/learn/front-end-libraries/react/)
   - FullStackOpen - [Introduction to React](https://fullstackopen.com/en/part1)
   - Wes Bos - [React for Beginners](https://reactforbeginners.com/)
-  - LevelUpTutorials - [React for Everyone](https://www.leveluptutorials.com/tutorials/react-for-everyone)
   - EpicReact - [Epic React 💵](https://epicreact.dev/)
 
 - Books
