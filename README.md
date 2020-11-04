@@ -231,6 +231,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Standardjs](https://standardjs.com/)
   - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
   - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
 - Visual Studio Code Extensions
   - [Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Snippets for JavaScript ES6 syntax and TypeScript.
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Code Linter that can find out any problematic patterns. You can even make your own set of rules to check and reuse logic.
@@ -246,6 +247,10 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronise your editor settings using Github.
   - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client for Visual Studio Code
   - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debugging tool.
+
+- Websites
+  - [HTML DOM](https://htmldom.dev/) - Common tasks of managing HTML DOM with vanilla JavaScript
+  - [this vs that](https://thisthat.dev/) - The differences between ___ and ___ in the front-end development
 
 [👆 Back To Top](#table-of-contents)
 
