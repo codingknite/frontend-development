@@ -26,6 +26,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [JavaScript](#javascript)
 - [Git](#git)
 - [React](#react)
+- [Vue](#vue)
 - [Icons](#icons)
 - [Fonts and Typography](#fonts-and-typography)
 - [Illustrations](#illustrations)
@@ -235,7 +236,9 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [CodeChef](https://www.codechef.com/)
   - [SPOJ](https://www.spoj.com/)
 
-- Snippets and cheetsheets
+
+- Snippets and cheatsheets
+  
   - [A ridiculous collection of cheatsheets](https://devhints.io/)
   - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
   - [Favorite JavaScript utilities in single line of code](https://1loc.dev/)
@@ -396,6 +399,94 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Sebastian Markbåge](https://twitter.com/sebmarkbage)
   - [Seth Webster](https://twitter.com/sethwebster)
   - [Kent C. Dodds](https://twitter.com/kentcdodds)
+
+[👆 Back To Top](#table-of-contents)
+
+# Vue
+
+- Documentation
+
+  - [Vue Docs](https://vuejs.org/v2/guide/)
+  - [Vue Cheatsheet](https://devhints.io/vue)
+
+- Courses
+
+  - [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/) - This course is focused on teaching the fundamentals of Vue by building and testing a web application using Test-Driven Development (TDD).
+  - [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/) - Learn how to build more accessible routing, state management, form validation and internationalization libraries from the ground up!
+  - [Become a Ninja with Vue 3](https://vue-exercises.ninja-squad.com) - This course teaches how to build a complete application with Vue 3, step by step, using Vue CLI, TypeScript and the Composition API. Each exercise comes with instructions and tests to check 100% of your code.
+
+- Books
+
+  - [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) 
+  - [Learning Vue.js 2](https://www.packtpub.com/web-development/learning-vuejs-2) 
+  - [The Majesty Of Vue.js 2](https://leanpub.com/vuejs2) 
+  - [Vue.js 2 Cookbook](https://www.packtpub.com/web-development/vuejs-2-cookbook) 
+  - [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) 
+  - [Testing Vue.js Applications](https://www.manning.com/books/testing-vuejs-applications) 
+  - [Vue.js 2 and Bootstrap 4 Web Development](https://www.packtpub.com/web-development/vuejs-2-and-bootstrap-4-web-development) 
+  - [Full-Stack Vue.js 2 and Laravel 5](https://www.packtpub.com/application-development/full-stack-vuejs-2-and-laravel-5) 
+  - [Mastering Vue.js](https://masteringvuejs.com) 
+  - [Fullstack Vue: The Complete Guide to Vue.js](https://www.fullstack.io/vue/) 
+  - [Vue.js 2 Design Patterns and Best Practices](https://www.amazon.com/dp/178883979X) 
+  - [Vuex Quick Start Guide](https://www.amazon.com/dp/1788999932) 
+  - [Full-Stack Web Development with Vue.js and Node](https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144) 
+  - [The Vue Handbook](https://vuehandbook.com) 
+  - [ASP.NET Core 2 and Vue.js](https://www.amazon.com/dp/1788839463) 
+  - [Getting to Know Vue.js](https://www.apress.com/us/book/9781484237809) 
+  - [Vue: Build & Deploy](https://leanpub.com/vue-book) 
+  - [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/application-development/building-applications-spring-5-and-vuejs-2) 
+  - [Vue.js Quick Start Guide](https://www.packtpub.com/application-development/vuejs-quick-start-guide) 
+  - [Vue.js Component Patterns Course](https://fdietz.de/pages/vue-component-patterns-course/) 
+  - [Vue.js: Understanding its Tools and Ecosystem](https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem?utm_source=vue.js.org&utm_medium=referral&utm_campaign=OutreachB15894fivedollar) 
+  - [Building Forms with Vue.js](https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachB15411) 
+  - [Testing Vue.js Components with Jest](https://www.packtpub.com/programming/testing-vue-js-components-with-jest?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachB15653) 
+  - [Vue.js](https://www.amazon.com/Vue-js-Actionable-Chris-Minnick/dp/1951959019)
+  - [Become a Ninja with Vue 3](https://books.ninja-squad.com/vue) 
+  - [Large Scale Apps with Vue 3 and TypeScript](http://leanpub.com/vue-typescript/c/vaYXLEFWbMi7)
+
+- Podcasts
+
+  - [Enjoy the Vue: The new Vue.js podcast](https://enjoythevue.io/)
+  - [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)
+  - [JavaScript Jabber #187 (11-25-2015)](https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you)
+  - [Changelog #184 (11-27-2015)](https://changelog.com/podcast/184)
+  - [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
+  - [JavaScript Air 016 (03-30-2016)](https://javascriptair.com/episodes/2016-03-30/)
+  - [Full Stack Radio #50 (09-21-2016)](http://www.fullstackradio.com/50)
+  - [MW S04E08 - Vue.js with Evan You and Sarah Drasner (04-27-2017)](https://modernweb.podbean.com/e/mw-s04e09-evan-yu-sarah-drasner/)
+  - [Request For Commits #12 - Crowdfunding Open Source (Vue.js) (06-15-2017)](https://changelog.com/rfc/12)
+  - [The Web Platform Podcast 132: Vue.js (07-27-2017)](http://thewebplatformpodcast.com/132-vuejs)
+  - [JavaScript Jabber #276 with Maximilian Schwarzmüller (08-29-2017)](https://devchat.tv/js-jabber/jsj-276-vue-js-with-maximilian-schwarzmuller/)
+  - [Animating VueJS with Sarah Drasner(Software Engineering Daily 01-12-2017)](https://softwareengineeringdaily.com/2017/12/01/animating-vuejs-with-sarah-drasner/)
+  - [Views on Vue (weekly podcast on Vue started 03-06-2018)](https://devchat.tv/views-on-vue)
+  - [Vue podcast list via The QIT Tech Podcast Indexer](https://qit.cloud/search/vue)
+  - [Cynical Developer #99 (10-15-2018)](https://cynicaldeveloper.com/podcast/99/)
+  - [Syntax #130 (03-27-2019)](https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes)
+  - [和 Vue.js 框架的作者聊聊前端框架开发背后的故事 [zh-CN]](https://teahour.fm/78)
+
+- Youtube Channels
+
+  - [VueNYC](https://www.youtube.com/vuenyc)
+  - [VueConf EU](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw)
+
+- Vue Tooling
+
+  - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small development server for building `vue` components.
+  - [Storybook](https://storybook.js.org) - The UI Development Environment. works with v3.2+ later.
+  - [Font Awesome Finder](https://chrome.google.com/webstore/detail/font-awesome-icon-finder/kjejboahkcobalmgldloeinebmbomgog) - Chrome extension to search, preview and choose Font Awesome icons and copy the selected icon HTML code & Unicode to clipboard.
+  - [vue-dummy](https://github.com/paulcollett/vue-dummy) - Placeholder Text and Dummy Images as a simple `v-dummy` directive.
+  - [Bit](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
+  - [ComponentFixture](https://github.com/David-Desmaisons/ComponentFixture) - is a component design to develop and test other components, automatically binding their props.
+  - [vue-cli-template-dev-server](https://github.com/eliranmal/vue-cli-template-dev-server) - A development server for building vue-cli custom templates.
+  - [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) - Collection of codemod scripts that help update and refactor Vue and JavaScript files.
+  - [codesandbox](https://codesandbox.io/s/vue-vue) - An online IDE and prototyping tool for rapid Vue development.
+  - [vue-dom-hints](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
+
+- Server Side Rendering
+
+  - [Nuxt.js](https://nuxtjs.org/)
+
+- Experts on Twitter
 
 [👆 Back To Top](#table-of-contents)
 
