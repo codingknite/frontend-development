@@ -228,8 +228,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Pramp](https://www.pramp.com/#/)
   - [JavaScript Gekk]()
 
-- Snippets and cheetsheets
-  - [A ridiculous collection of cheatsheets](https://devhints.io/)
+- Snippets and cheatsheets
+- - [A ridiculous collection of cheatsheets](https://devhints.io/)
   - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
   - [Favorite JavaScript utilities in single line of code](https://1loc.dev/)
   - [Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code)
