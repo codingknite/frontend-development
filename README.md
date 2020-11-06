@@ -160,6 +160,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Plunker](http://plnkr.co/)
   - [Liveweave](http://liveweave.com/)
   - [JS Bin](http://jsbin.com/)
+  - [CodeSandbox](https://codesandbox.io/)
+  - [StackBlitz](https://stackblitz.com/)
 
 - Frameworks and Libraries
   - [Tachyons](https://tachyons.io/)
@@ -213,6 +215,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   - [JavaScripts The Good Parts 💵](https://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596517742&linkCode=as2&tag=eldoradohills-20)
   - [JavaScrit and JQuery 💵](http://javascriptbook.com/)
+  - [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja)
 
 - Challenge Websites
 
@@ -228,8 +231,12 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Coderbyte](https://coderbyte.com/)
   - [Pramp](https://www.pramp.com/#/)
   - [JavaScript Gekk]()
+  - [Leetcode](https://leetcode.com/)
+  - [AtCoder](https://atcoder.jp/)
+  - [CodeChef](https://www.codechef.com/)
+  - [SPOJ](https://www.spoj.com/)
 
-- Snippets and cheetsheets
+- Snippets and cheatsheets
 
   - [A ridiculous collection of cheatsheets](https://devhints.io/)
   - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
@@ -276,20 +283,31 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 # Git
 
 - Courses
+
   - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git/)
   - [A Guide to Git & Version Control](https://www.educative.io/courses/guide-to-git-and-version-control/)
   - [Getting Started with Git 💵](https://www.pluralsight.com/courses/getting-started-git/)
   - [Learn Git](https://www.codecademy.com/learn/learn-git)
   - [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/)
   - [Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html)
+
+- Books
+
+  - [Pro Git](https://git-scm.com/book/en/v2)
+
 - Tools
   - [Github](http://github.com/)
+  - [Bitbucket](https://bitbucket.org/)
+  - [Sourcetree](https://www.sourcetreeapp.com/)
+  - [Git Extensions for Windows](https://github.com/gitextensions/gitextensions)
 
 # React
 
 - Documentation
+
   - [React Docs](https://reactjs.org/docs/getting-started.html)
   - [React Cheatsheet](https://devhints.io/react)
+
 - Courses
 
   - Pluralsight - [React Getting Started](https://www.pluralsight.com/courses/react-js-getting-started)
@@ -311,43 +329,72 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [React from Zero 💵](https://www.newline.co/react-from-zero/)
 
 - Podcasts
-  - [React Podcast](https://reactpodcast.com/)
+
+  - [The React Podcast](https://reactpodcast.com/)
+  - [React Round Up](https://devchat.tv/react-round-up)
+
+- Blog Sites
+
+  - [Official React Blog](https://reactjs.org/blog/)
+  - [Kent C. Dodds' Blog](https://blog.kentcdodds.com/)
+
 - Youtube Channels
+
   - [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
   - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
   - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
   - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
   - [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
-- Articles
-
-  - [How to React](https://kentcdodds.com/blog/how-to-react)
-  - [React Fundamentals - Props Vs State](https://kentcdodds.com/blog/props-vs-state)
-  - [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
-  - [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications)
 
 - React Tooling
 
   - [npm](https://www.npmjs.com/)
-  - [Axios](https://www.npmjs.com/package/axios)
-  - [Redux](https://github.com/reduxjs/redux)
   - [ES Lint](https://eslint.org/)
-  - [Rebass](https://rebassjs.org/)
   - [Lodash](https://lodash.com/)
-  - [Storybok](https://storybook.js.org/)
-  - [Onsen UI](https://onsen.io/react/)
-  - [Grommet](https://v2.grommet.io/components)
-  - [Reactstrap](https://reactstrap.github.io/)
+  - [Storybook](https://storybook.js.org/)
   - [React Sight](http://www.reactsight.com/)
-  - [Material UI](https://material-ui.com/)
   - [React Router](https://github.com/ReactTraining/react-router)
-  - [React Toolbox](http://react-toolbox.io/)
-  - [React Bootstrap](https://react-bootstrap.github.io/)
-  - [Create React App](https://github.com/facebook/create-react-app)
-  - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
-  - [Semantic UI React](https://react.semantic-ui.com/)
-  - [Styled Components](https://github.com/styled-components/styled-components)
-  - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
   - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
+- State Management
+
+  - [Redux](https://github.com/reduxjs/redux)
+  - [Mobx](https://mobx.js.org/README.html)
+  - [Recoil](https://github.com/facebookexperimental/Recoil)
+
+- UI Framework / UI Library
+
+  - [Reactstrap](https://reactstrap.github.io/)
+  - [React Bootstrap](https://react-bootstrap.github.io/)
+  - [Onsen UI](https://onsen.io/react/)
+  - [Material UI](https://material-ui.com/)
+  - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
+  - [React Toolbox (Material Design)](http://react-toolbox.io/)
+  - [Semantic UI React](https://react.semantic-ui.com/)
+  - [Rebass](https://rebassjs.org/)
+  - [Grommet](https://v2.grommet.io/components)
+
+- Unit Testing
+
+  - [Jest](https://jestjs.io/docs/en/tutorial-react)
+  - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+  - [Enzyme](https://github.com/enzymejs/enzyme)
+
+- Create React App
+
+  - [Create React App](https://github.com/facebook/create-react-app)
+  - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+
+- CSS in JS
+
+  - [Styled Components](https://github.com/styled-components/styled-components)
+  - [Emotion (css in js)](https://emotion.sh/)
+
+- Remote Data Fetching
+
+  - [Axios](https://www.npmjs.com/package/axios)
+  - [swr](https://github.com/vercel/swr)
+  - [React Query](https://github.com/tannerlinsley/react-query)
 
 - Server Side Rendering
 
@@ -355,6 +402,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Gatsby](https://www.gatsbyjs.com/)
 
 - Experts on Twitter
+
   - [Andrew Clark](https://twitter.com/acdlite)
   - [Brian Vaughn](https://twitter.com/brian_d_vaughn)
   - [Dan Abramov](https://twitter.com/dan_abramov)
@@ -365,6 +413,17 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Seth Webster](https://twitter.com/sethwebster)
   - [Kent C. Dodds](https://twitter.com/kentcdodds)
 
+- Conferences
+  - [ReactNext](https://react-next.com/)
+  - [React Rally](http://www.reactrally.com/)
+  - [ReactFest](https://reactfest.uk/)
+  - [React Europe](https://www.react-europe.org/)
+- Community
+  - [React Forum](https://discuss.reactjs.org/)
+  - [Reactiflux](https://www.reactiflux.com/)
+  - [Reddit](https://www.reddit.com/r/reactjs/)
+  - [React Spectrum](https://spectrum.chat/react)
+
 [👆 Back To Top](#table-of-contents)
 
 # Vue
@@ -373,140 +432,131 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
   - [Vue Docs](https://vuejs.org/v2/guide/)
   - [Vue Cheatsheet](https://devhints.io/vue)
+  - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
+  - MDN - [Getting started with Vue](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 
 - Courses
 
-  - [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/) - This course is focused on teaching the fundamentals of Vue by building and testing a web application using Test-Driven Development (TDD).
-  - [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/) - Learn how to build more accessible routing, state management, form validation and internationalization libraries from the ground up!
-  - [Become a Ninja with Vue 3](https://vue-exercises.ninja-squad.com) - This course teaches how to build a complete application with Vue 3, step by step, using Vue CLI, TypeScript and the Composition API. Each exercise comes with instructions and tests to check 100% of your code.
+  - Laracasts - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step)
+  - Vuemastery - [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+  - Scotch - [Getting Started with Vue.js](https://scotch.io/courses/getting-started-with-vuejs?ref=home-start-here)
+  - freeCodeCamp - [Learn Vue.js - Full Course for Beginners](https://www.freecodecamp.org/news/vue-js-full-course/)
+  - Testdriven - [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/)
+  - Frontend Masters - [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/)
+  - Vue-Exercises Ninja Squad - [Become a Ninja with Vue 3](https://vue-exercises.ninja-squad.com)
+  - VueSchool - [Learn Vue 💵](https://vueschool.io/)
+  - Vuemastery - [Premium Beginner to Advanced Vue Course 💵](https://www.vuemastery.com/courses)
 
 - Books
 
-  - [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) by Alex Kyriakidis & Kostas Maniatis, Packt. (Nov 2016)
-  - [Learning Vue.js 2](https://www.packtpub.com/web-development/learning-vuejs-2) by Olga Filipova, Packt. (Dec 2016)
-  - [The Majesty Of Vue.js 2](https://leanpub.com/vuejs2) by Alex Kyriakidis and Kostas Maniatis, Leanpub. (Mar 2017)
-  - [Vue.js 2 Cookbook](https://www.packtpub.com/web-development/vuejs-2-cookbook) by Andrea Passaglia, Packt. (May 2017)
-  - [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) by Erik Hanchett and Benjamin Listwon (Spring 2018)
-  - [Testing Vue.js Applications](https://www.manning.com/books/testing-vuejs-applications) by Edd Yerburgh (Summer 2018)
-  - [Vue.js 2 and Bootstrap 4 Web Development](https://www.packtpub.com/web-development/vuejs-2-and-bootstrap-4-web-development) by Olga Filipova, Packt. (September 2017)
-  - [Front-end com Vue.js](https://www.casadocodigo.com.br/products/livro-frontend-vue) by Leonardo Vilarinho, Casa do Código. (November 2017)
-  - [Vue.js 2 Web Development Projects](https://www.packtpub.com/web-development/vuejs-2-web-development-projects) by Guillaume Chau, Packt. (November 2017)
-  - [Full-Stack Vue.js 2 and Laravel 5](https://www.packtpub.com/application-development/full-stack-vuejs-2-and-laravel-5) by Anthony Gore, Packt. (December 2017)
-  - [Vue.js 2.x by Example](https://www.packtpub.com/application-development/vuejs-2x-example) by Mike Street, Packt. (December 2017)
-  - [Mastering Vue.js](https://masteringvuejs.com) by Oleksandr Kocherhin. (January 2018)
-  - [Fullstack Vue: The Complete Guide to Vue.js](https://www.fullstack.io/vue/) by Hassan Djirdeh, Nate Murray, & Ari Lerner. (March 2018)
-  - [Vue.js 2 Design Patterns and Best Practices](https://www.amazon.com/dp/178883979X) by Paul Halliday, Packt. (March 2018)
-  - [Vuex Quick Start Guide](https://www.amazon.com/dp/1788999932) by Andrea Koutifaris, Packt. (April 2018)
-  - [Full-Stack Web Development with Vue.js and Node](https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144) by Aneeta Sharma, Packt. (May 2018)
-  - [The Vue Handbook](https://vuehandbook.com) by Flavio Copes. (July 2018)
-  - [ASP.NET Core 2 and Vue.js](https://www.amazon.com/dp/1788839463) by Stuart Ratcliffe, Packt. (July 2018)
-  - [Vue.js: Construa aplicações incríveis](https://www.casadocodigo.com.br/products/livro-vue) by Caio Incau, Casa do Código. (September 2017)
-  - [Getting to Know Vue.js](https://www.apress.com/us/book/9781484237809) by Brett Nelson, Apress. (August 2018)
-  - [Vue: Build & Deploy](https://leanpub.com/vue-book) by Daniel Schmitz, Leanpub. (September 2018)
-  - [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/application-development/building-applications-spring-5-and-vuejs-2) by James J. Ye, Packt. (October 2018)
-  - [Vue.js Quick Start Guide](https://www.packtpub.com/application-development/vuejs-quick-start-guide) by Ajdin Imsirovic, Packt. (October 2018)
-  - [Vue.js Component Patterns Course](https://fdietz.de/pages/vue-component-patterns-course/) by Frederik Dietz (April 2019)
-  - [Vue.js: Understanding its Tools and Ecosystem](https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem?utm_source=vue.js.org&utm_medium=referral&utm_campaign=OutreachB15894fivedollar) by Dave Berning (November 2019)
-  - [Building Forms with Vue.js](https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachB15411) by Marina Mosti (October 2019)
-  - [Testing Vue.js Components with Jest](https://www.packtpub.com/programming/testing-vue-js-components-with-jest?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachB15653) by Alex Jover Morales, Packt (October 2019)
-  - [Vue.js](https://www.amazon.com/Vue-js-Actionable-Chris-Minnick/dp/1951959019) by Chris Minnick and Nat Dunn, Webucator (February, 2020)
-  - [Become a Ninja with Vue 3](https://books.ninja-squad.com/vue) by Cédric Exbrayat (English and French versions) (May, 2020)
-  - [Large Scale Apps with Vue 3 and TypeScript](http://leanpub.com/vue-typescript/c/vaYXLEFWbMi7) Damiano Fusco, Leanpub (September, 2020)
+  - [The Mastery Of Vue.js 2 💵](https://leanpub.com/vuejs2)
+  - [Vue.js: Up and Running 💵](http://shop.oreilly.com/product/0636920103455.do)
+  - [Fullstack Vue 💵](https://www.fullstack.io/vue/)
+  - [Vue.js in Action 💵](https://www.manning.com/books/vue-js-in-action)
+  - [Testing Vue.js components with Jest 💵](https://leanpub.com/testingvuejscomponentswithjest)
+  - [Large Scale Apps with Vue 3 and TypeScript 💵](http://leanpub.com/vue-typescript/c/vaYXLEFWbMi7)
+  - [Mastering Vue.js 💵](https://masteringvuejs.com)
+  - [Full-Stack Web Development with Vue.js and Node 💵](https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144)
+  - [Vue.js: Understanding its Tools and Ecosystem 💵](https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem)
+  - [The Vue Handbook 💵](https://vuehandbook.com)
+  - [Vue.js 2 Design Patterns and Best Practices 💵](https://www.amazon.com/dp/178883979X)
+  - [Vue: Build & Deploy 💵](https://leanpub.com/vue-book)
 
 - Podcasts
 
-  - [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)
-  - [JavaScript Jabber #187 (11-25-2015)](https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you)
-  - [Changelog #184 (11-27-2015)](https://changelog.com/podcast/184)
-  - [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
-  - [JavaScript Air 016 (03-30-2016)](https://javascriptair.com/episodes/2016-03-30/)
-  - [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) [pt-BR]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
-  - [Full Stack Radio #50 (09-21-2016)](http://www.fullstackradio.com/50)
-  - [和 Vue.js 框架的作者聊聊前端框架开发背后的故事 [zh-CN]](https://teahour.fm/78)
-  - [MW S04E08 - Vue.js with Evan You and Sarah Drasner (04-27-2017)](https://modernweb.podbean.com/e/mw-s04e09-evan-yu-sarah-drasner/)
-  - [Request For Commits #12 - Crowdfunding Open Source (Vue.js) (06-15-2017)](https://changelog.com/rfc/12)
-  - [The Web Platform Podcast 132: Vue.js (07-27-2017)](http://thewebplatformpodcast.com/132-vuejs)
-  - [JavaScript Jabber #276 with Maximilian Schwarzmüller (08-29-2017)](https://devchat.tv/js-jabber/jsj-276-vue-js-with-maximilian-schwarzmuller/)
-  - [Animating VueJS with Sarah Drasner(Software Engineering Daily 01-12-2017)](https://softwareengineeringdaily.com/2017/12/01/animating-vuejs-with-sarah-drasner/)
-  - [Views on Vue (weekly podcast on Vue started 03-06-2018)](https://devchat.tv/views-on-vue)
-  - [Vue podcast list via The QIT Tech Podcast Indexer](https://qit.cloud/search/vue)
-  - [DNE 138 - Vale a pena VueJS? (01-05-2018)](https://devnaestrada.com.br/2018/01/05/vale-pena-vuejs.html)
-  - [Cynical Developer #99 (10-15-2018)](https://cynicaldeveloper.com/podcast/99/)
-  - [Syntax #130 (03-27-2019)](https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes)
-  - [Enjoy the Vue: The new Vue.js podcast](https://enjoythevue.io/)
+  - [Vue News Podcast](https://news.vuejs.org/)
+  - [Enjoy the Vue](https://enjoythevue.io/)
+  - [Views on Vue](https://devchat.tv/views-on-vue)
+  - [Software Engineering Daily](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
+  - [JavaScript Jabber Episode 276](https://devchat.tv/js-jabber/jsj-276-vue-js-with-maximilian-schwarzmuller/)
+  - [Syntax Episode 130](https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes)
+  - [Cynical Developer Episode 99](https://cynicaldeveloper.com/podcast/99/)
 
 - Youtube Channels
 
-  - [VueNYC](https://www.youtube.com/vuenyc)
+  - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+  - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+  - [Vue NYC](https://www.youtube.com/vuenyc)
   - [VueConf EU](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw)
 
-- Articles
+- Tools
 
-- Vue Tooling
-
-  - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small development server for building `vue` components.
-  - [Storybook](https://storybook.js.org) - The UI Development Environment. works with v3.2+ later.
-  - [Font Awesome Finder](https://chrome.google.com/webstore/detail/font-awesome-icon-finder/kjejboahkcobalmgldloeinebmbomgog) - Chrome extension to search, preview and choose Font Awesome icons and copy the selected icon HTML code & Unicode to clipboard.
-  - [vue-dummy](https://github.com/paulcollett/vue-dummy) - Placeholder Text and Dummy Images as a simple `v-dummy` directive.
-  - [Bit](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
-  - [ComponentFixture](https://github.com/David-Desmaisons/ComponentFixture) - is a component design to develop and test other components, automatically binding their props.
-  - [vue-cli-template-dev-server](https://github.com/eliranmal/vue-cli-template-dev-server) - A development server for building vue-cli custom templates.
-  - [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) - Collection of codemod scripts that help update and refactor Vue and JavaScript files.
-  - [codesandbox](https://codesandbox.io/s/vue-vue) - An online IDE and prototyping tool for rapid Vue development.
-  - [vue-dom-hints](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
-
-- Server Side Rendering
-
+  - [Bit](https://github.com/teambit/bit)
   - [Nuxt.js](https://nuxtjs.org/)
+  - [Vuex](https://vuex.vuejs.org/en/)
+  - [Vue Router](https://router.vuejs.org/en/)
+  - [Vue Dev Tools](https://github.com/vuejs/vue-devtools)
+  - [Vue CLI](https://github.com/vuejs/vue-cli)
+  - [Vuetify](https://vuetifyjs.com/en/)
+  - [Bootstrap Vue](https://bootstrap-vue.js.org/)
+  - [Onseen UI](https://onsen.io/vue/)
+  - [Quansar Framework](http://quasar-framework.org/)
+  - [Vue Dev Server](https://github.com/paulpflug/vue-dev-server)
 
-- Experts on Twitter
+- Blogs
+
+  - [The Vue Point](https://medium.com/the-vue-point)
+  - [Vue.js Developers](https://vuejsdevelopers.com/)
+  - [CSS-Tricks - Vue](https://css-tricks.com/guides/vue/)
+  - [Aligator.io](https://alligator.io/vuejs/)
+
+- Community
+
+  - [Vuejs Forum](https://forum.vuejs.org/)
+  - [Vue Land](https://vue-land.js.org/)
+  - [Reddit](https://www.reddit.com/r/vuejs/)
+
+- Conferences
+  - [Vue Conf](https://conf.vuejs.org/)
+  - [Vue Conf US](http://us.vuejs.org/)
+  - [Vue.js London](http://vuejs.london/)
+  - [Vue.js Amsterdam](https://www.vuejs.amsterdam/)
 
 [👆 Back To Top](#table-of-contents)
 
 # Icons
 
-- [Icons8](https://icons8.com/)
-- [Iconjar](https://geticonjar.com/)
-- [CSS.gg](https://css.gg/)
-- [Freepik](https://www.freepik.com/)
-- [Icontre](https://iconstore.co/)
-- [Flaticon](https://www.flaticon.com/home)
-- [Pngtree](https://pngtree.com/free-icon)
-- [Ionicons](https://ionicons.com/)
-- [UXWing](https://uxwing.com/)
-- [Icomoon](https://icomoon.io/)
-- [Fontastic](http://fontastic.me/)
-- [BoxIcons](https://boxicons.com/)
-- [Heroicons](https://heroicons.com/)
-- [Iconshock](https://www.iconshock.com/free-icons/)
-- [IconFinder](https://www.iconfinder.com/free_icons)
-- [Swift Icons](https://www.swifticons.com/)
-- [Iconfactory](https://freeware.iconfactory.com/icons)
-- [Iconmonstr](https://iconmonstr.com/)
-- [Material Icons](https://material.io/resources/icons/)
 - [Font Awesome](https://fontawesome.com/?from=io)
+- [Flaticon](https://www.flaticon.com/home)
+- [Iconfactory](https://freeware.iconfactory.com/icons)
+- [CSS.gg](https://css.gg/)
+- [Icons8](https://icons8.com/)
+- [Icontre](https://iconstore.co/)
+- [Heroicons](https://heroicons.com/)
+- [Iconjar](https://geticonjar.com/)
+- [IconFinder](https://www.iconfinder.com/free_icons)
+- [Pngtree](https://pngtree.com/free-icon)
+- [Freepik](https://www.freepik.com/)
+- [Iconmonstr](https://iconmonstr.com/)
+- [Ionicons](https://ionicons.com/)
+- [Icomoon](https://icomoon.io/)
+- [UXWing](https://uxwing.com/)
+- [Fontastic](http://fontastic.me/)
+- [Swift Icons](https://www.swifticons.com/)
+- [Iconshock](https://www.iconshock.com/free-icons/)
+- [BoxIcons](https://boxicons.com/)
+- [Material Icons](https://material.io/resources/icons/)
 
 [👆 Back To Top](#table-of-contents)
 
 # Fonts and Typography
 
+- [PinSpiry Fonts](https://pinspiry.com/category/free-resources/fonts/)
 - [FFonts](https://www.ffonts.net/)
 - [Befonts](https://befonts.com/)
-- [DaFont](https://www.dafont.com/)
 - [Unblast](https://unblast.com/fonts/)
-- [MyFonts](https://www.myfonts.com/)
 - [1001Fonts](https://www.1001fonts.com/)
-- [FontSpace](https://www.fontspace.com/)
+- [Google Fonts](https://fonts.google.com/)
 - [TypeTester](https://www.typetester.org/)
 - [FonstSpace](https://www.fontspace.com/)
 - [FontsArena](https://fontsarena.com/)
+- [MyFonts](https://www.myfonts.com/)
+- [FontSpace](https://www.fontspace.com/)
 - [Typo Guide](http://www.typogui.de/)
+- [DaFont](https://www.dafont.com/)
 - [Fontsquirrel](https://www.fontsquirrel.com/)
-- [Google Fonts](https://fonts.google.com/)
-- [PinSpiry Fonts](https://pinspiry.com/category/free-resources/fonts/)
 - [Abstract Fonts](http://www.abstractfonts.com/)
 - [Free Script Fonts](https://www.freescriptfonts.net/)
-- [The 100 best fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -540,48 +590,48 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 # Color Inspiration
 
+- [UIGradients](https://uigradients.com/#Kyoto)
 - [0to255](https://www.0to255.com/)
 - [Paletton](http://paletton.com/)
+- [Material Palette](https://www.materialpalette.com/)
 - [Coolors](https://coolors.co/)
 - [Color Hex](https://www.color-hex.com/)
 - [Color Hunt](https://colorhunt.co/)
-- [UIGradients](https://uigradients.com/#Kyoto)
 - [Flat UI Colors](https://flatuicolors.com/)
 - [myColor Space](https://mycolor.space/)
-- [Material Palette](https://www.materialpalette.com/)
 - [LOL Color Palettes](https://www.webdesignrankings.com/resources/lolcolors/)
 
 [👆 Back To Top](#table-of-contents)
 
 # Images and Videos
 
+- [Unsplash](https://unsplash.com/)
 - [Coverr](http://www.coverr.co/)
-- [Pexels](https://www.pexels.com/)
-- [Burst](https://burst.shopify.com/)
 - [Canva](https://www.canva.com/photos/free/)
+- [Pexels](https://www.pexels.com/)
+- [ISO Republic](http://isorepublic.com/)
+- [Burst](https://burst.shopify.com/)
 - [Flickr](https://www.flickr.com/)
+- [Subtle Patterns](http://subtlepatterns.com/)
 - [Reshot](https://reshot.com/)
 - [Pixabay](https://pixabay.com/en/)
-- [Unsplash](https://unsplash.com/)
+- [Gratisography](https://gratisography.com/)
 - [Life of Pix](https://www.lifeofpix.com/)
 - [The Stocks](http://thestocks.im/)
 - [Free Images](https://www.freeimages.com/)
-- [ISO Republic](http://isorepublic.com/)
-- [Gratisography](https://gratisography.com/)
-- [Subtle Patterns](http://subtlepatterns.com/)
 - [Startup Stock Photos](http://startupstockphotos.com/)
 
 [👆 Back To Top](#table-of-contents)
 
 # Hosting Sites
 
-- [Vercel](https://vercel.com/)
-- [Github](https://pages.github.com/)
 - [Netlify](https://netlify.com/)
+- [Github](https://pages.github.com/)
+- [Vercel](https://vercel.com/)
 - [Render](https://render.com/)
+- [Digital Ocean](https://www.digitalocean.com/)
 - [Heroku](https://heroku.com/)
 - [Firebase](https://firebase.google.com/)
-- [Digital Ocean](https://www.digitalocean.com/)
 - [Amazon Web Services](https://aws.amazon.com/)
 
 [👆 Back To Top](#table-of-contents)
@@ -671,6 +721,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Echo.Js](https://www.echojs.com/)
 - [Scotch](https://scotch.io/)
 - [Codrops](https://tympanus.net/codrops/)
+- [Frontend Focus](https://frontendfoc.us/)
 
 [👆 Back To Top](#table-of-contents)
 
