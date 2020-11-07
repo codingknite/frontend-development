@@ -27,6 +27,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Git](#git)
 - [React](#react)
 - [Vue](#vue)
+- [Angular](#angular)
+- [Svelte](#svelte)
 - [Icons](#icons)
 - [Fonts and Typography](#fonts-and-typography)
 - [Illustrations](#illustrations)
@@ -300,6 +302,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Bitbucket](https://bitbucket.org/)
   - [Sourcetree](https://www.sourcetreeapp.com/)
   - [Git Extensions for Windows](https://github.com/gitextensions/gitextensions)
+  - [Git CLI](https://cli.github.com/)
+  - [Git Desktop](https://desktop.github.com/)
 
 # React
 
@@ -348,19 +352,19 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - React Tooling
 
-  - [npm](https://www.npmjs.com/)
-  - [ES Lint](https://eslint.org/)
-  - [Lodash](https://lodash.com/)
-  - [Storybook](https://storybook.js.org/)
   - [React Sight](http://www.reactsight.com/)
   - [React Router](https://github.com/ReactTraining/react-router)
   - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+  - [Redux DevTools](https://github.com/zalmoxisus/redux-devtools-extension)
 
 - State Management
 
   - [Redux](https://github.com/reduxjs/redux)
   - [Mobx](https://mobx.js.org/README.html)
   - [Recoil](https://github.com/facebookexperimental/Recoil)
+  - [Rematch](https://github.com/rematch/rematch)
+  - [xState](https://github.com/davidkpiano/xstate)
+  - [Flux](http://facebook.github.io/flux/)
 
 - UI Framework / UI Library
 
@@ -482,7 +486,6 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - Tools
 
   - [Bit](https://github.com/teambit/bit)
-  - [Nuxt.js](https://nuxtjs.org/)
   - [Vuex](https://vuex.vuejs.org/en/)
   - [Vue Router](https://router.vuejs.org/en/)
   - [Vue Dev Tools](https://github.com/vuejs/vue-devtools)
@@ -493,24 +496,124 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Quansar Framework](http://quasar-framework.org/)
   - [Vue Dev Server](https://github.com/paulpflug/vue-dev-server)
 
+- Server Side Rendering
+
+  - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
+  - [Ream](https://github.com/ream/ream) - A minimalistic framework for building server-rendered and static websites.
+  - [Universal vue](https://github.com/universal-vue/uvue) - Vue CLI plugin to create universal Vue applications with ease
+  - [Vapper](https://github.com/shuidi-fed/vapper) - A Vue-based server-side rendering framework.)
+
+- UI Framework / UI Library
+
+  - [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with VueJs 2.
+  - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js.
+  - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
+  - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
+  - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
+  - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
+  - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue)
+
 - Blogs
 
   - [The Vue Point](https://medium.com/the-vue-point)
   - [Vue.js Developers](https://vuejsdevelopers.com/)
   - [CSS-Tricks - Vue](https://css-tricks.com/guides/vue/)
   - [Aligator.io](https://alligator.io/vuejs/)
+  - [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf)
+  - [Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3](https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457)
+  - [Dockerizing a Vue App](https://mherman.org/blog/dockerizing-a-vue-app/)
+  - [Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI](https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/)
 
 - Community
 
   - [Vuejs Forum](https://forum.vuejs.org/)
   - [Vue Land](https://vue-land.js.org/)
   - [Reddit](https://www.reddit.com/r/vuejs/)
+  - [Twitter](https://twitter.com/vuejs)
 
 - Conferences
   - [Vue Conf](https://conf.vuejs.org/)
   - [Vue Conf US](http://us.vuejs.org/)
   - [Vue.js London](http://vuejs.london/)
   - [Vue.js Amsterdam](https://www.vuejs.amsterdam/)
+
+[👆 Back To Top](#table-of-contents)
+
+# Angular
+
+- Document
+
+  - [Site](https://angular.io)
+  - [Blog](https://blog.angular.io)
+  - [Documentation](https://angular.io/docs)
+  - [Cheatsheet](https://angular.io/guide/cheatsheet)
+
+- Books
+  - [ng-book 2](https://www.ng-book.com/2/)
+  - [Become a ninja with Angular 2](https://books.ninja-squad.com/angular)
+  - [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
+  - [Angular in Action](https://www.manning.com/books/angular-in-action)
+  - [Practical Angular 2](https://leanpub.com/practical-angular-2)
+  - [Switching to Angular 2](https://www.packtpub.com/product/switching-to-angular-2/9781785886201)
+  - [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
+  - [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications)
+  - [Angular-Buch (German)](https://angular-buch.com/)
+  - [Angular Institute](https://angular.institute/)
+  - [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase)
+- Youtube Channels
+  - [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
+  - [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
+  - [HiRez.io - Angular Basics](https://www.hirez.io/c/angular-basics-1/e/episode-1-course-overview)
+  - [HiRez.io - Angular In Depth - Components](https://www.hirez.io/c/components-1/e/episode-1-course-overview)
+  - [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+  - [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
+  - [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
+  - [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
+  - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
+  - [Channel9 - The Future of TypeScript: ECMAScript 6, Async/Await and Richer Libraries](https://channel9.msdn.com/Events/Build/2015/3-644)
+  - [Channel9 - Creating Cross-Platform Apps with Angular 2](https://channel9.msdn.com/Events/Build/2016/T627)
+  - [Code School - Accelerating Through Angular 2](https://www.codeschool.com/courses/accelerating-through-angular)
+  - [Angular Pro Screencast](https://www.youtube.com/playlist?list=PLLf-VBOaoVk1E9fTBZdq1CfnRa2TtL_Kb)
+  - [Angular typed Store](https://www.youtube.com/watch?v=bEkPEnudm7s&feature=youtu.be)
+  - [Angular advanced tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
+  - [Angular Fullstack JavaScript Channel](https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw)
+  - [Angular 4 Master Class: Beginner to Advanced](https://www.udemy.com/angular-crash-course-for-beginners)
+  - [List of over 140 Angular Courses (free and paid) at Classpert](https://classpert.com/angularjs)
+- Tools
+  - [Official web page](https://cli.angular.io/)
+  - [Official repository](https://github.com/angular/angular-cli)
+- Server Side Rendering
+  - [Angular Universal Repository (GitHub)](https://github.com/angular/universal)
+  - [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
+  - [ng-web-apis/universal — an opensource set of native API fallbacks and stubs](https://github.com/ng-web-apis/universal)
+- Blogs
+- Community \* `#angular2` channel on Freenode IRC Server
+  - [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter
+  - [Gitter Channel](https://gitter.im/angular/angular)
+  - [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
+  - [@Angular on Twitter](https://twitter.com/angular)
+  - [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
+  - [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
+  - [AngularJS on Google+](https://plus.google.com/+AngularJS)
+  - [AngularAir](https://angularair.com/) podcast and live broadcast
+  - [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
+  - [Angular Expo](https://angularexpo.com/) showcase
+  - [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
+  - [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
+  - [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
+
+[👆 Back To Top](#table-of-contents)
+
+# Svelte
+
+- Document
+  - [Svelte Docs](https://svelte.dev/)
+- Tools
+  - [svelte-cli](https://github.com/sveltejs/svelte-cli)
+- Community
+  - [Gitter](https://gitter.im/sveltejs/svelte)
+  - [Twitter](https://twitter.com/sveltejs)
+  - [Stack Overflow](http://stackoverflow.com/questions/tagged/svelte)
 
 [👆 Back To Top](#table-of-contents)
 
