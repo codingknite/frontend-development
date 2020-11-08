@@ -140,6 +140,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [CSS Diner](https://flukeout.github.io/) - Learn CSS Selectors through a game
   - [Flexbox Froggy](https://flexboxfroggy.com/) - Learn CSS Flexbox through a game
   - [CSS Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid through a game
+  - [CSSBattle](https://cssbattle.dev) - Learn CSS through a fun code-golfing game
   - [Can I use](https://caniuse.com/) - Up-to-date browser support tables for front-end technologies on desktop and mobile browsers.
   - [CSS-tricks](-tricks.com) - A wonderful blog site for everything CSS
   - [Responsinator](https://www.responsinator.com/) - A quick tool to check the responsiveness of a site across different devices.
