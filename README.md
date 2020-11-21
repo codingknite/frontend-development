@@ -27,6 +27,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Git](#git)
 - [React](#react)
 - [Vue](#vue)
+- [Browser extensions](#browser-extensions)
 - [Icons](#icons)
 - [Fonts and Typography](#fonts-and-typography)
 - [Illustrations](#illustrations)
@@ -512,6 +513,15 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Vue Conf US](http://us.vuejs.org/)
   - [Vue.js London](http://vuejs.london/)
   - [Vue.js Amsterdam](https://www.vuejs.amsterdam/)
+
+[👆 Back To Top](#table-of-contents)
+
+# Browser extensions
+
+- [Check Browsers Support 💵](https://checkbrowsers.support/) - Check browser compatibility without leaving your tab
+- [CSS Inspector 💵](https://cssinspector.com/) - Get the CSS code of any web element with CSS Inspector
+- [CSS Scan 💵](https://getcssscan.com/) - The fastest and easiest way to check, copy and edit CSS
+- [CSS Spider](https://cssspider.fresalabs.com/) - The quickest and convenient way to copy, visualize, edit and export CSS
 
 [👆 Back To Top](#table-of-contents)
 
