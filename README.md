@@ -665,6 +665,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Fidalgo Pedro](https://fidalgo.dev/)
 - [Brittany Chiang](https://brittanychiang.com/)
 - [Developer Portfolios](https://github.com/emmabostian/developer-portfolios)
+- [Nathan Simpson](https://nathansimpson.design/)
 
 [👆 Back To Top](#table-of-contents)
 
