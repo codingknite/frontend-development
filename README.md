@@ -141,7 +141,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Flexbox Froggy](https://flexboxfroggy.com/) - Learn CSS Flexbox through a game
   - [CSS Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid through a game
   - [Can I use](https://caniuse.com/) - Up-to-date browser support tables for front-end technologies on desktop and mobile browsers.
-  - [CSS-tricks](-tricks.com) - A wonderful blog site for everything CSS
+  - [CSS-tricks](https://css-tricks.com) - A wonderful blog site for everything CSS
   - [Responsinator](https://www.responsinator.com/) - A quick tool to check the responsiveness of a site across different devices.
   - [7 Days, 7 Websites](https://7days7websites.glitch.me/) - A challenge site to build 7 websites in 7 days
   - [CSS Easing functions](https://easings.net/) - An amazing collection of easing functions bo be used in CSS transitions and animations.
