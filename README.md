@@ -27,6 +27,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Git](#git)
 - [React](#react)
 - [Vue](#vue)
+- [Browser extensions](#browser-extensions)
 - [Icons](#icons)
 - [Fonts and Typography](#fonts-and-typography)
 - [Illustrations](#illustrations)
@@ -140,8 +141,9 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [CSS Diner](https://flukeout.github.io/) - Learn CSS Selectors through a game
   - [Flexbox Froggy](https://flexboxfroggy.com/) - Learn CSS Flexbox through a game
   - [CSS Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid through a game
+  - [CSSBattle](https://cssbattle.dev) - Learn CSS through a fun code-golfing game
   - [Can I use](https://caniuse.com/) - Up-to-date browser support tables for front-end technologies on desktop and mobile browsers.
-  - [CSS-tricks](-tricks.com) - A wonderful blog site for everything CSS
+  - [CSS-tricks](https://css-tricks.com) - A wonderful blog site for everything CSS
   - [Responsinator](https://www.responsinator.com/) - A quick tool to check the responsiveness of a site across different devices.
   - [7 Days, 7 Websites](https://7days7websites.glitch.me/) - A challenge site to build 7 websites in 7 days
   - [CSS Easing functions](https://easings.net/) - An amazing collection of easing functions bo be used in CSS transitions and animations.
@@ -514,6 +516,15 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 [👆 Back To Top](#table-of-contents)
 
+# Browser extensions
+
+- [Check Browsers Support 💵](https://checkbrowsers.support/) - Check browser compatibility without leaving your tab
+- [CSS Inspector 💵](https://cssinspector.com/) - Get the CSS code of any web element with CSS Inspector
+- [CSS Scan 💵](https://getcssscan.com/) - The fastest and easiest way to check, copy and edit CSS
+- [CSS Spider](https://cssspider.fresalabs.com/) - The quickest and convenient way to copy, visualize, edit and export CSS
+
+[👆 Back To Top](#table-of-contents)
+
 # Icons
 
 - [Font Awesome](https://fontawesome.com/?from=io)
@@ -665,6 +676,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Fidalgo Pedro](https://fidalgo.dev/)
 - [Brittany Chiang](https://brittanychiang.com/)
 - [Developer Portfolios](https://github.com/emmabostian/developer-portfolios)
+- [Nathan Simpson](https://nathansimpson.design/)
 
 [👆 Back To Top](#table-of-contents)
 
