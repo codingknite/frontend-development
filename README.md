@@ -35,7 +35,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Images and Videos](#images-and-videos)
 - [Hosting Sites](#hosting-sites)
 - [Design Inspiration](#design-inspiration)
-- [Portfolio Inspiration](#portfolio-inspiration)
+- [Portfolio Inspirationgit](#portfolio-inspirationgit)
 - [Youtube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
@@ -630,7 +630,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Vercel](https://vercel.com/)
 - [Render](https://render.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Heroku](https://heroku.com/)
+
 - [Firebase](https://firebase.google.com/)
 - [Amazon Web Services](https://aws.amazon.com/)
 
@@ -656,7 +656,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 [👆 Back To Top](#table-of-contents)
 
-# Portfolio Inspiration
+# Portfolio Inspirationgit 
 
 - [Aral Tasher](https://araltasher.com/)
 - [Matt Farley](http://mattfarley.ca/)
