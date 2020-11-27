@@ -73,7 +73,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - W3Schools - [Introduction to HTML](https://www.w3schools.com/html/html_intro.asp)
   - Cheat Sheet - [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
   - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/html)
-
+  - Josh Buchea - [HEAD](https://htmlhead.dev/), A free guide to HTML5 `<head>` elements
 - Courses
 
   - FreeCodeCamp - [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
