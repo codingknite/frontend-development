@@ -72,17 +72,17 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   
 - Courses
 
+  - CodeCademy - [Learn HTML 💵](https://www.codecademy.com/learn/learn-html)
   - EDX - [HTML5 and CSS Fundemantals](https://www.edx.org/course/html5-and-css-fundamentals)
   - FreeCodeCamp - [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+  - Pluralsight - [HTML Fundamentals 💵](https://www.pluralsight.com/courses/html-fundamentals)
   - Scrimba - [Introduction to HTML](https://scrimba.com/learn/html)
+  - Team Treehouse - [Introduction to HTML and CSS 💵](https://teamtreehouse.com/library/introduction-to-html-and-css)
   - The Odin Project - [HTML & CSS](https://www.theodinproject.com/courses/html-and-css)
+  - Udemy - [HTML and CSS3 Course 💵](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
   - Udacity - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
   - W3Schools - [HTML Tutorial](https://www.w3schools.com/html/)
   - Youtube - [HTML Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org)
-  - CodeCademy - [Learn HTML 💵](https://www.codecademy.com/learn/learn-html)
-  - Pluralsight - [HTML Fundamentals 💵](https://www.pluralsight.com/courses/html-fundamentals)
-  - Team Treehouse - [Introduction to HTML and CSS 💵](https://teamtreehouse.com/library/introduction-to-html-and-css)
-  - Udemy - [HTML and CSS3 Course 💵](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
  
 - Documentation
 
