@@ -113,11 +113,11 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - Courses
 
+  - CodeCademy - [Learn CSS 💵](https://www.codecademy.com/learn/learn-css)
   - FreeCodeCamp - [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
   - Scrimba - [Introduction to CSS](https://scrimba.com/learn/introtocss)
-  - W3School - [CSS Tutorial](https://www.w3schools.com/css/)
-  - CodeCademy - [Learn CSS 💵](https://www.codecademy.com/learn/learn-css)
   - Team Treehouse - [CSS Basics 💵](https://teamtreehouse.com/library/css-basics)
+  - W3School - [CSS Tutorial](https://www.w3schools.com/css/)
 
 - Documentation
   - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/css)
