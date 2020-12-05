@@ -65,8 +65,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 # HTML
   
 - Books
-  - [HTML Notes for Pros](https://goalkicker.com/HTML5Book/HTML5NotesForProfessionals.pdf)
   - [Design and Build Websites 💵](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+  - [HTML Notes for Pros](https://goalkicker.com/HTML5Book/HTML5NotesForProfessionals.pdf)
   - [Head First HTML with CSS 💵](https://www.amazon.com/Head-First-HTML-CSS-XHTML/dp/059610197X)
   - [HTML5 Pocket Reference 💵](https://www.amazon.com/HTML5-Pocket-Reference-Comprehensive-Indispensable/dp/1449363350)
   
