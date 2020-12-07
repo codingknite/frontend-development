@@ -36,7 +36,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Images and Videos](#images-and-videos)
 - [Hosting Sites](#hosting-sites)
 - [Design Inspiration](#design-inspiration)
-- [Portfolio Inspirationgit](#portfolio-inspirationgit)
+- [Portfolio Inspiration](#portfolio-inspiration)
 - [Youtube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
@@ -47,8 +47,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 # How the Internet Works
 
-
 - Documentation and Articles
+
   - HowStuffWorks - [How does the Internet Work?](https://computer.howstuffworks.com/internet/basics/internet.htm)
   - Medium - [How the Internet Works](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=It%20is%20a%20network%20that,their%20source%20to%20their%20destination.)
   - MDN - [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
@@ -64,8 +64,18 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 [👆 Back To Top](#table-of-contents)
 
 # HTML
-  
+- Documentation
+
+  - Cheat Sheet - [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+  - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/html)
+  - CSS-Tricks - [HTML Entity Refernce](https://css-tricks.com/snippets/html/glyphs/)
+  - Josh Buchea - [HEAD](https://htmlhead.dev/), A free guide to HTML5 `<head>` elements
+  - MDN - [HTML5 Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+  - Reference - [HTML Reference](https://htmlreference.io/)
+  - W3Schools - [Introduction to HTML](https://www.w3schools.com/html/html_intro.asp)
+
 - Books
+  
   - [Design and Build Websites 💵](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
   - [HTML Notes for Pros](https://goalkicker.com/HTML5Book/HTML5NotesForProfessionals.pdf)
   - [Head First HTML with CSS 💵](https://www.amazon.com/Head-First-HTML-CSS-XHTML/dp/059610197X)
@@ -84,18 +94,9 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - Udacity - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
   - W3Schools - [HTML Tutorial](https://www.w3schools.com/html/)
   - Youtube - [HTML Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org)
- 
-- Documentation
-
-  - Cheat Sheet - [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
-  - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/html)
-  - CSS-Tricks - [HTML Entity Refernce](https://css-tricks.com/snippets/html/glyphs/)
-  - Josh Buchea - [HEAD](https://htmlhead.dev/), A free guide to HTML5 `<head>` elements
-  - MDN - [HTML5 Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-  - Reference - [HTML Reference](https://htmlreference.io/)
-  - W3Schools - [Introduction to HTML](https://www.w3schools.com/html/html_intro.asp)
 
 - Websites
+  
   - [HTML5 Doctor](http://html5doctor.com/) - A great reference for HTML Elements
   - [HTML-5-TUTORIAL](https://www.html-5-tutorial.com/) - Another Great Website for everything HTML
   - [HTML5 Up](http://html5up.net/) - Responsive HTML5 and CSS3 site templates.
@@ -105,6 +106,13 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 [👆 Back To Top](#table-of-contents)
 
 # CSS
+- Documentation
+
+  - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/css)
+  - [Extensive CSS Reference](https://tympanus.net/codrops/css_reference/)
+  - [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+  - MDN - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - Reference - [CSS Reference](https://cssreference.io/)
 
 - Books
 
@@ -120,14 +128,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - Team Treehouse - [CSS Basics 💵](https://teamtreehouse.com/library/css-basics)
   - W3School - [CSS Tutorial](https://www.w3schools.com/css/)
 
-- Documentation
-  - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/css)
-  - [Extensive CSS Reference](https://tympanus.net/codrops/css_reference/)
-  - [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
-  - MDN - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - Reference - [CSS Reference](https://cssreference.io/)
-
 - Frameworks and Libraries
+
   - [Animate.css](https://daneden.github.io/animate.css/)
   - [Base](https://getbase.org/)
   - [Bootstrap](https://getbootstrap.com/)
@@ -160,6 +162,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [StackBlitz](https://stackblitz.com/)
 
 - Style Guides
+
   - [AirBnb Style Guide](https://github.com/airbnb/css)
   - [CSS Guidelines](https://cssguidelin.es/)
   - [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
@@ -181,12 +184,13 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Flexbox Froggy](https://flexboxfroggy.com/) - Learn CSS Flexbox through a game
   - [Responsinator](https://www.responsinator.com/) - A quick tool to check the responsiveness of a site across different devices.
   - [Responsive Grid System](http://www.responsivegridsystem.com/) - A quick, flexible and easy fluid grid for easy responsive web design.
-  
+
 [👆 Back To Top](#table-of-contents)
 
 # JavaScript
 
 - Documentation
+
   - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/javascript)
   - MDN - [JavaScript Reference]()
   - MDN - [Operator Precedence Table]()
@@ -246,6 +250,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
   - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
   - [Standardjs](https://standardjs.com/)
+
 - Visual Studio Code Extensions
 
   - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - Syntax highlighting for today's JavaScript
@@ -274,7 +279,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [10 Interview QuestionsEvery JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
   - [A Study Plan To Cure JavaScript Fatigue](https://www.freecodecamp.org/news/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1/)
   - [How to Manage JavaScript Fatigue](https://auth0.com/blog/how-to-manage-javascript-fatigue/)
-[👆 Back To Top](#table-of-contents)
+    [👆 Back To Top](#table-of-contents)
 
 # Git
 
@@ -513,6 +518,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 [👆 Back To Top](#table-of-contents)
 
 # Browser extensions
+
 - [CSS Spider](https://cssspider.fresalabs.com/) - The quickest and convenient way to copy, visualize, edit and export CSS
 - [Check Browsers Support 💵](https://checkbrowsers.support/) - Check browser compatibility without leaving your tab
 - [CSS Inspector 💵](https://cssinspector.com/) - Get the CSS code of any web element with CSS Inspector
@@ -639,7 +645,6 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Render](https://render.com/)
 - [Vercel](https://vercel.com/)
 
-
 [👆 Back To Top](#table-of-contents)
 
 # Design Inspiration
@@ -662,7 +667,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 [👆 Back To Top](#table-of-contents)
 
-# Portfolio Inspirationgit 
+# Portfolio Inspiration
 
 - [Aral Tasher](https://araltasher.com/)
 - [Brittany Chiang](https://brittanychiang.com/)
