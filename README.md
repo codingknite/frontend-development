@@ -12,7 +12,7 @@ We will be sure to indicate the resources that are paid.
 If you're starting out with web development, you DON'T need to use every resource on this list. It is practically impossible to use all the resources listed in here.
 This is just a reference with most of the resources that can help you with frontend development. Use this as a reference. It is not a guide.
 
-Simply check the resources out and use the one that works best for you.
+Simply check out the resources and use the one that works best for you.
 
 ## Key
 
