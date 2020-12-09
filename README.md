@@ -9,16 +9,32 @@ It will include a table of contents in order for you to navigate to the sections
 We have made an effort to include as many free resources as possible. However we also understand that there are quality resources out there that might cost you a penny but totally worth it.
 We will be sure to indicate the resources that are paid.
 
-Resources with 💵 indicate that the resource is a paid resource.
+If you're starting out with web development, you DON'T need to use every resource on this list. It is practically impossible to use all the resources listed in here
+This is just a reference with most of the resources that can help you with frontend development. Use this as a reference. It is not a guide.
 
-Note that you're not required to use these resources one by one. This is just a reference and not a guide. It is practically impossible to use all the resources listed in here. Use this as a reference. It is not a guide.
+Simply check the resources out and use the one that works best for you.
+
+## Key
+
+- Resources with 💵 indicate that the resource is a paid resource.
+
+- Resources with ⭐ indicate learning resources I would recommended. This doesn't indicate that the unstarred resources are 'bad'. This is only meant to help absolute beginners. Check out the starred courses and choose which teaching style suits you the most. 
+Again, you don't have to do all of them. Practice & building projects is the best way to learn.
+
+
+## Contibuting
 
 We Invite as many contributions as possible.
+
+If you know of a resource that would be a great addition to this list, feel free to make a contribution.
+
 Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 # Table of Contents
 
 - [Summary](#summary)
+  - [Key](#key)
+  - [Contibuting](#contibuting)
 - [Table of Contents](#table-of-contents)
 - [How the Internet Works](#how-the-internet-works)
 - [HTML](#html)
@@ -51,7 +67,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
   - HowStuffWorks - [How does the Internet Work?](https://computer.howstuffworks.com/internet/basics/internet.htm)
   - Medium - [How the Internet Works](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=It%20is%20a%20network%20that,their%20source%20to%20their%20destination.)
-  - MDN - [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+  - MDN - [How does the Internet work? ⭐](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
   - Stanford - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 
 - Videos
@@ -64,39 +80,40 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 [👆 Back To Top](#table-of-contents)
 
 # HTML
+
 - Documentation
 
   - Cheat Sheet - [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
   - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/html)
   - CSS-Tricks - [HTML Entity Refernce](https://css-tricks.com/snippets/html/glyphs/)
   - Josh Buchea - [HEAD](https://htmlhead.dev/), A free guide to HTML5 `<head>` elements
-  - MDN - [HTML5 Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+  - MDN - [HTML5 Reference ⭐](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   - Reference - [HTML Reference](https://htmlreference.io/)
-  - W3Schools - [Introduction to HTML](https://www.w3schools.com/html/html_intro.asp)
+  - W3Schools - [Introduction to HTML ⭐](https://www.w3schools.com/html/html_intro.asp)
 
 - Books
-  
+
   - [Design and Build Websites 💵](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
   - [HTML Notes for Pros](https://goalkicker.com/HTML5Book/HTML5NotesForProfessionals.pdf)
   - [Head First HTML with CSS 💵](https://www.amazon.com/Head-First-HTML-CSS-XHTML/dp/059610197X)
   - [HTML5 Pocket Reference 💵](https://www.amazon.com/HTML5-Pocket-Reference-Comprehensive-Indispensable/dp/1449363350)
-  
+
 - Courses
 
   - CodeCademy - [Learn HTML 💵](https://www.codecademy.com/learn/learn-html)
   - EDX - [HTML5 and CSS Fundemantals](https://www.edx.org/course/html5-and-css-fundamentals)
-  - FreeCodeCamp - [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+  - FreeCodeCamp - [Introduction to Basic HTML & HTML5 ⭐](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
   - Pluralsight - [HTML Fundamentals 💵](https://www.pluralsight.com/courses/html-fundamentals)
   - Scrimba - [Introduction to HTML](https://scrimba.com/learn/html)
   - Team Treehouse - [Introduction to HTML and CSS 💵](https://teamtreehouse.com/library/introduction-to-html-and-css)
   - The Odin Project - [HTML & CSS](https://www.theodinproject.com/courses/html-and-css)
   - Udemy - [HTML and CSS3 Course 💵](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
   - Udacity - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
-  - W3Schools - [HTML Tutorial](https://www.w3schools.com/html/)
+  - W3Schools - [HTML Tutorial ⭐](https://www.w3schools.com/html/)
   - Youtube - [HTML Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org)
 
 - Websites
-  
+
   - [HTML5 Doctor](http://html5doctor.com/) - A great reference for HTML Elements
   - [HTML-5-TUTORIAL](https://www.html-5-tutorial.com/) - Another Great Website for everything HTML
   - [HTML5 Up](http://html5up.net/) - Responsive HTML5 and CSS3 site templates.
@@ -106,12 +123,13 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 [👆 Back To Top](#table-of-contents)
 
 # CSS
+
 - Documentation
 
   - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/css)
   - [Extensive CSS Reference](https://tympanus.net/codrops/css_reference/)
   - [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
-  - MDN - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - MDN - [CSS ⭐](https://developer.mozilla.org/en-US/docs/Web/CSS)
   - Reference - [CSS Reference](https://cssreference.io/)
 
 - Books
@@ -123,7 +141,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - Courses
 
   - CodeCademy - [Learn CSS 💵](https://www.codecademy.com/learn/learn-css)
-  - FreeCodeCamp - [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+  - FreeCodeCamp - [Introduction to Basic CSS ⭐](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
   - Scrimba - [Introduction to CSS](https://scrimba.com/learn/introtocss)
   - Team Treehouse - [CSS Basics 💵](https://teamtreehouse.com/library/css-basics)
   - W3School - [CSS Tutorial](https://www.w3schools.com/css/)
@@ -192,7 +210,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - Documentation
 
   - Cheat Sheet - [OverAPI - Links To MDN](https://overapi.com/javascript)
-  - MDN - [JavaScript Reference]()
+  - MDN - [JavaScript Reference ⭐]()
   - MDN - [Operator Precedence Table]()
   - MDN - [JavaScript Event Refernce]()
 
@@ -200,22 +218,22 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
   - CodeCademy - [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
   - EDX - [Programming the Web with JavaScript](https://www.edx.org/course/programming-for-the-web-with-javascript)
-  - freeCodeCamp - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+  - freeCodeCamp - [JavaScript Algorithms and Data Structures ⭐](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
   - [GeekforGeeks](https://www.geeksforgeeks.org/javascript-tutorial/)
   - The Odin Project[Javascript Course- includes some backend related content too](https://www.theodinproject.com/courses/javascript)
-  - Wes Bos - [JavaScript30](https://javascript30.com/)
+  - Wes Bos - [JavaScript30 ⭐](https://javascript30.com/)
   - W3Schools - [JavaScript Tutorial](https://www.w3schools.com/js/DEFAULT.asp)
-  - Udemy [The Complete JavaScript Course 💵](https://www.udemy.com/course/the-complete-javascript-course/)
+  - Udemy [The Complete JavaScript Course 💵 ⭐](https://www.udemy.com/course/the-complete-javascript-course/)
 
 - Books
 
-  - [Eloquent JavaScript](https://eloquentjavascript.net/)
+  - [Eloquent JavaScript ⭐](https://eloquentjavascript.net/)
   - [JavaScript For Cats](http://jsforcats.com/)
   - [JavaScript Notes for Pros](https://books.goalkicker.com/JavaScriptBook/)
   - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   - [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja)
   - [Speaking JavaScript](http://speakingjs.com/es5/index.html)
-  - [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
+  - [You Don't Know JavaScript ⭐](https://github.com/getify/You-Dont-Know-JS)
   - [JavaScripts The Good Parts 💵](https://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596517742&linkCode=as2&tag=eldoradohills-20)
   - [JavaScrit and JQuery 💵](http://javascriptbook.com/)
 
@@ -276,10 +294,11 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - Articles
   - [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
   - [10 JavaScript concepts you need to know for interviews](https://codeburst.io/10-javascript-concepts-you-need-to-know-for-interviews-136df65ecce)
-  - [10 Interview QuestionsEvery JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+  - [10 Interview QuestionsEvery JavaScript Developer Should Know ⭐](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
   - [A Study Plan To Cure JavaScript Fatigue](https://www.freecodecamp.org/news/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1/)
-  - [How to Manage JavaScript Fatigue](https://auth0.com/blog/how-to-manage-javascript-fatigue/)
-    [👆 Back To Top](#table-of-contents)
+  - [How to Manage JavaScript Fatigue ⭐](https://auth0.com/blog/how-to-manage-javascript-fatigue/)
+
+[👆 Back To Top](#table-of-contents)
 
 # Git
 
@@ -287,7 +306,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
   - [A Guide to Git & Version Control](https://www.educative.io/courses/guide-to-git-and-version-control/)
   - [Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html)
-  - [Learn Git](https://www.codecademy.com/learn/learn-git)
+  - [Learn Git ⭐](https://www.codecademy.com/learn/learn-git)
   - [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/)
   - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git/)
   - [Getting Started with Git 💵](https://www.pluralsight.com/courses/getting-started-git/)
@@ -302,22 +321,24 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Git Extensions for Windows](https://github.com/gitextensions/gitextensions)
   - [Sourcetree](https://www.sourcetreeapp.com/)
 
+[👆 Back To Top](#table-of-contents)
+
 # React
 
 - Documentation
 
   - [React Cheatsheet](https://devhints.io/react)
-  - [React Docs](https://reactjs.org/docs/getting-started.html)
+  - [React Docs ⭐](https://reactjs.org/docs/getting-started.html)
 
 - Courses
 
-  - Egghead - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-  - freeCodeCamp - [Introduction to React](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+  - Egghead - [The Beginner's Guide to React ⭐](https://egghead.io/courses/the-beginner-s-guide-to-react)
+  - freeCodeCamp - [Introduction to React ⭐](https://www.freecodecamp.org/learn/front-end-libraries/react/)
   - FullStackOpen - [Introduction to React](https://fullstackopen.com/en/part1)
   - Pluralsight - [React Getting Started](https://www.pluralsight.com/courses/react-js-getting-started)
   - Scrimba - [Learn React](https://scrimba.com/course/glearnreact)
-  - Wes Bos - [React for Beginners](https://reactforbeginners.com/)
-  - EpicReact - [Epic React 💵](https://epicreact.dev/)
+  - Wes Bos - [React for Beginners ⭐](https://reactforbeginners.com/)
+  - EpicReact - [Epic React 💵 ⭐](https://epicreact.dev/)
 
 - Books
 
@@ -336,8 +357,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - Blog Sites
 
-  - [Kent C. Dodds' Blog](https://blog.kentcdodds.com/)
-  - [Official React Blog](https://reactjs.org/blog/)
+  - [Kent C. Dodds' Blog ⭐](https://blog.kentcdodds.com/)
+  - [Official React Blog ⭐](https://reactjs.org/blog/)
   - [useHooks Blog](https://usehooks.com/)
 
 - Youtube Channels
@@ -433,22 +454,22 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - Documentation
 
-  - MDN - [Getting started with Vue](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
+  - MDN - [Getting started with Vue ⭐](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
   - [Vue Cheatsheet](https://devhints.io/vue)
   - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
-  - [Vue Docs](https://vuejs.org/v2/guide/)
+  - [Vue Docs ⭐](https://vuejs.org/v2/guide/)
 
 - Courses
 
   - freeCodeCamp - [Learn Vue.js - Full Course for Beginners](https://www.freecodecamp.org/news/vue-js-full-course/)
   - Frontend Masters - [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/)
   - Laracasts - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step)
-  - Scotch - [Getting Started with Vue.js](https://scotch.io/courses/getting-started-with-vuejs?ref=home-start-here)
+  - Scotch - [Getting Started with Vue.js ⭐](https://scotch.io/courses/getting-started-with-vuejs?ref=home-start-here)
   - Testdriven - [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/)
   - Vue-Exercises Ninja Squad - [Become a Ninja with Vue 3](https://vue-exercises.ninja-squad.com)
   - Vuemastery - [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
   - VueSchool - [Learn Vue 💵](https://vueschool.io/)
-  - Vuemastery - [Premium Beginner to Advanced Vue Course 💵](https://www.vuemastery.com/courses)
+  - Vuemastery - [Premium Beginner to Advanced Vue Course 💵 ⭐](https://www.vuemastery.com/courses)
 
 - Books
 
@@ -499,7 +520,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - Blogs
 
   - [Aligator.io](https://alligator.io/vuejs/)
-  - [CSS-Tricks - Vue](https://css-tricks.com/guides/vue/)
+  - [CSS-Tricks - Vue ⭐](https://css-tricks.com/guides/vue/)
   - [The Vue Point](https://medium.com/the-vue-point)
   - [Vue.js Developers](https://vuejsdevelopers.com/)
 
@@ -797,17 +818,29 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Interviewing.io](https://interviewing.io/)
   - [Pramp](https://www.pramp.com/)
 
+- Project Pair Programming
+
+  - [Chingu](https://chingu.io/)
+
+- Open Source
+
+  - [Github Explore](https://github.com/explore)
+  - [First Contributions](https://firstcontributions.github.io/)
+  - [Good First Issue](https://goodfirstissue.dev/language/javascript)
+  - [Good First Issues](https://goodfirstissues.com/)
+  - [Open Source Fridays](https://opensourcefriday.com/)
+
+- YouTube Series
+  - Danny Thompson - [Ge A Job Using LinkedIn (Series)](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk)
 - Articles
   - [5 things you need to know in a programming interview](https://www.freecodecamp.org/news/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b/amp/)
   - [Finding your first remote job](https://joshwcomeau.com/career/remote-work-pt2/)
   - [How to Write a Developer Résumé Hiring Managers Will Actually Read](https://www.freecodecamp.org/news/how-to-write-a-resume-that-works/)
   - [How to Get a Software Engineer Job at Google and Other Top Tech Companies](https://www.freecodecamp.org/news/how-to-get-a-software-engineer-job-at-google-and-other-top-tech-companies-efa235a33a6d/)
   - [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
-  - [How to Get a Programming Job Without a Degree]()
   - [How To Get A Programming Job Without A Degree](https://selftaught.blog/get-programming-job-without-degree/)
   - [How to Get a Remote Developer Job and Become a Digital Nomad](https://www.codementor.io/@npostolovski/how-to-get-a-remote-developer-job-and-become-a-digital-nomad-if04nmm1s)
   - [How To Get Your First Web Developer Job: The Ultimate Guide for Junior Developers](https://careerfoundry.com/en/blog/web-development/how-to-get-your-first-web-developer-job-the-ultimate-guide-for-junior-developers/#2-where-should-i-look-for-web-development-jobs)
-  - [Resources that help me land a job at FANG]()
   - [Resources that help me land a job at FANG](https://towardsdatascience.com/these-are-all-the-resources-that-help-me-land-a-fang-job-452341dd6bed)
   - [Tips to get a job as a Developer](https://dev.to/devpato/tips-to-get-a-job-as-a-developer-4ic3)
   - [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/amp/)
