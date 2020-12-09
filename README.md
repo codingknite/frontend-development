@@ -18,7 +18,7 @@ Simply check out the resources and use the one that works best for you.
 
 - Resources with 💵 indicate that the resource is a paid resource.
 
-- Resources with ⭐ indicate learning resources I would recommended. This doesn't indicate that the unstarred resources are 'bad'. This is only meant to help absolute beginners. Check out the starred courses and choose which teaching style suits you the most. 
+- Resources with ⭐ indicate learning resources I would recommended for those starting out. This doesn't indicate that the unstarred resources are 'bad'. This is only meant to help absolute beginners. Check out the starred courses and choose which teaching style suits you the most. 
 Again, you don't have to do all of them. Practice & building projects is the best way to learn.
 
 
