@@ -767,6 +767,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [MyPerfectResume](https://www.myperfectresume.com/)
   - [ResumeWorded](https://resumeworded.com/)
   - [Resume.io](https://resume.io/)
+  - [Resume Maker](https://www.resumemaker.online/)
 
 - Resume Editing
   - [Grammarly](https://www.grammarly.com/)
