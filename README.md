@@ -193,10 +193,10 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [CSSBattle](https://cssbattle.dev) - Learn CSS through a fun code-golfing game
   - [CSS Easing functions](https://easings.net/) - An amazing collection of easing functions bo be used in CSS transitions and animations.
   - [CSS Diner](https://flukeout.github.io/) - Learn CSS Selectors through a game
-  - [CSS for People Who Hate CSS](https://paulcpederson.com/articles/css-for-peo
+  - [CSS for People Who Hate CSS](https://paulcpederson.com/articles/css-for-people-who-hate-css/)
   - [CSS Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid through a game
   - [CSS Layout](https://csslayout.io/) - A collection of popular layouts and patterns made with CSS
-  - [CSS reference by Codrops](http://tympanus.net/codrops/css_reference/)ple-who-hate-css/) -Excellent guide on how to write better, cleaner and more reusable CSS code.
+  - [CSS reference by Codrops](http://tympanus.net/codrops/css_reference/) - Excellent guide on how to write better, cleaner and more reusable CSS code.
   - [CSS-tricks](https://css-tricks.com) - A wonderful blog site for everything CSS
   - [Cubic Berzier Function Generator](https://cubic-bezier.com/#.17,.67,.83,.67) - Free insights about traffic, visitors and conversions.
   - [Flexbox Froggy](https://flexboxfroggy.com/) - Learn CSS Flexbox through a game
