@@ -18,9 +18,8 @@ Simply check out the resources and use the one that works best for you.
 
 - Resources with 💵 indicate that the resource is a paid resource.
 
-- Resources with ⭐ indicate learning resources I would recommended for those starting out. This doesn't indicate that the unstarred resources are 'bad'. This is only meant to help absolute beginners. Check out the starred courses and choose which teaching style suits you the most. 
-Again, you don't have to do all of them. Practice & building projects is the best way to learn.
-
+- Resources with ⭐ indicate learning resources I would recommended for those starting out. This doesn't indicate that the unstarred resources are 'bad'. This is only meant to help absolute beginners. Check out the starred courses and choose which teaching style suits you the most.
+  Again, you don't have to do all of them. Practice & building projects is the best way to learn.
 
 ## Contibuting
 
@@ -762,12 +761,12 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - Resume Templates
 
-  - [Canva]()
-  - [Creddle]()
+  - [Canva](https://www.canva.com/)
+  - [Creddle](http://creddle.io/)
   - [Harvard Office Of Career Services](https://ocs.fas.harvard.edu/guide-template-library)
-  - [MyPerfectResume]()
-  - [ResumeWorded]()
-  - [Resume.io]()
+  - [MyPerfectResume](https://www.myperfectresume.com/)
+  - [ResumeWorded](https://resumeworded.com/)
+  - [Resume.io](https://resume.io/)
 
 - Resume Editing
   - [Grammarly](https://www.grammarly.com/)
@@ -794,7 +793,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [React Jobs Board](https://reactjobsboard.com/c/remote-react-jobs)
   - [Remoters](https://remoters.net/jobs/)
   - [Remote Hub](https://remotehub.io/)
-  - [Remotehub]()
+  - [Remote Hunt](https://remotehunt.com/remote-jobs)
   - [Remoteco](https://remote.co/remote-jobs/developer/)
   - [Stackoverflow Jobs](https://stackoverflow.com/jobs)
   - [Startupers](https://www.startupers.com/)
