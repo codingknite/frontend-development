@@ -850,6 +850,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 # Newsletters
 
 - [CSS-Tricks](https://css-tricks.com/newsletters/)
+- [CSS Weekly](https://css-weekly.com/)
 - [FrontEnd Focus](https://frontendfoc.us/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Responsive Design Weekly](https://responsivedesign.is/newsletter/)
