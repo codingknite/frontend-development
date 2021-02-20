@@ -20,7 +20,7 @@ If you're already familiar with contributing to open source then follow these st
 5. Commit your changes and push the new branch
 6. Open and submit a Pull Request.
 
-If you need any help, feel free to ask [here.]()
+If you need any help, feel free to raise an issue.
 
 And that's it. Well, almost.
 
