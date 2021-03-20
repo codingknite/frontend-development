@@ -248,6 +248,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Hackerrank](https://www.hackerrank.com/)
   - [JavaScript Gekk]()
   - [Leetcode](https://leetcode.com/)
+  - [Mintbean](https://mintbean.io/) - Free learnathons instead of just algorithms.
   - [Pramp](https://www.pramp.com/#/)
   - [Project Euler](https://projecteuler.net/)
   - [SPOJ](https://www.spoj.com/)
