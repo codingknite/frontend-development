@@ -19,7 +19,6 @@ Simply check out the resources and use the one that works best for you.
 ## Key
 
 - Resources with 💵 indicate that the resource is a paid resource.
-- Again, you don't have to do all of them. Practice & building projects is the best way to learn.
 
 ## Contibuting
 
