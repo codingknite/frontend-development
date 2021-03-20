@@ -1,6 +1,8 @@
 ![Banner](/img/Banner.jpg "Banner")
 
-# Summary
+# Introduction
+
+[![Follow me](https://img.shields.io/twitter/follow/codingknite.svg?style=for-the-badge)](https://twitter.com/codingknite)
 
 This is a collection of resources for Frontend development.
 
@@ -29,7 +31,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 # Table of Contents
 
-- [Summary](#summary)
+- [Introduction](#introduction)
   - [Key](#key)
   - [Contibuting](#contibuting)
 - [Table of Contents](#table-of-contents)
@@ -56,7 +58,6 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Interview Prep](#interview-prep)
 - [Newsletters](#newsletters)
 - [Contributing](#contributing)
-- [Authors](#authors)
 
 # How the Internet Works
 
@@ -862,11 +863,3 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 You're very welcome to contribute to this list.
 
 Be sure to read [How to Contribute](CONTRIBUTING.MD) before making your contribution.
-
-# Authors
-
-[Joel P. Mugalu](https://twitter.com/CodingKnite)
-
-This repository exists because of the wonderful contributions made by [these Contributors.](https://github.com/developer-resources/frontend-development/graphs/contributors)
-
-[👆 Back To Top](#table-of-contents)
