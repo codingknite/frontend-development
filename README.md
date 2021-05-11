@@ -801,6 +801,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Women Who Code](http://womenwhocode.com/jobs)
   - [Working Nomads](https://www.workingnomads.co/remote-development-jobs)
   - [YC Startup Jobs](https://www.workatastartup.com/)
+  - [Circular](https://trycircular.com)
+  - [Honeypot](https://honeypot.io)
 
 - Freelance Jobs Sites
 
