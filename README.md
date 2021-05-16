@@ -243,10 +243,10 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Codewars](https://www.codewars.com/)
   - [CodinGame](https://www.codingame.com/)
   - [CodeForces](https://codeforces.com/)
+  - [DevProjects](https://www.codementor.io/projects/javascript) - Free real-world JavaScript projects.
   - [Exercism](https://exercism.io/)
   - [HackerEarth](https://www.hackerearth.com/)
   - [Hackerrank](https://www.hackerrank.com/)
-  - [JavaScript Gekk]()
   - [Leetcode](https://leetcode.com/)
   - [Mintbean](https://mintbean.io/) - Free learnathons instead of just algorithms.
   - [Pramp](https://www.pramp.com/#/)
@@ -348,6 +348,10 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [React from Zero 💵](https://www.newline.co/react-from-zero/)
   - [Road to React 💵](https://www.roadtoreact.com/)
 
+- Projects
+
+  - [Devprojects](https://www.codementor.io/projects/reactjs)
+
 - Podcasts
 
   - [React Round Up](https://devchat.tv/react-round-up)
@@ -440,6 +444,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [React Rally](http://www.reactrally.com/)
   - [ReactFest](https://reactfest.uk/)
   - [React Europe](https://www.react-europe.org/)
+
 - Community
   - [React Forum](https://discuss.reactjs.org/)
   - [Reactiflux](https://www.reactiflux.com/)
@@ -468,6 +473,9 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - Vuemastery - [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
   - VueSchool - [Learn Vue 💵](https://vueschool.io/)
   - Vuemastery - [Premium Beginner to Advanced Vue Course 💵 ](https://www.vuemastery.com/courses)
+
+- Projects
+  - DevProjects - [Free Vue Projects and Community](https://www.codementor.io/projects/vue)
 
 - Books
 
@@ -770,6 +778,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - Resume Editing
   - [Grammarly](https://www.grammarly.com/)
+
 - ATS Resources
 
   - [JobScan](https://www.jobscan.co/)
@@ -779,6 +788,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - Job Sites
 
   - [Angel List](https://angel.co/jobs)
+  - [Arc.dev - Remote Developer Jobs](https://arc.dev/)
   - [Find Remote Jobs](https://frontendremotejobs.com/)
   - [Github Jobs](https://jobs.github.com/)
   - [JavaScript Job](https://javascriptjob.xyz/)
@@ -806,6 +816,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - Freelance Jobs Sites
 
+  - [Codementor](https://www.codementor.io/)
   - [Freelancer](https://www.freelancer.com/)
   - [FlexJobs](https://www.flexjobs.com/)
   - [FreelancerMap](https://www.freelancermap.com/)
