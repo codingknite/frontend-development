@@ -1,24 +1,16 @@
-![Banner](/img/Banner.jpg "Banner")
+![Banner](/img/Banner.jpg 'Banner')
 
-# Introduction
+## Introduction
 
 [![Follow me](https://img.shields.io/twitter/follow/codingknite.svg?style=for-the-badge)](https://twitter.com/codingknite)
 
 This is a collection of resources for Frontend development.
 
-It will include a table of contents in order for you to navigate to the sections that matter the most to you.
+Most of the resources are free but we also included paid resources.
 
-We have made an effort to include as many free resources as possible. However we also understand that there are quality resources out there that might cost you a penny but totally worth it.
-We will be sure to indicate the resources that are paid.
+Resources labelled with 💵 indicate that the resource is a paid resource.
 
-If you're starting out with web development, you DON'T need to use every resource on this list. It is practically impossible to use all the resources listed in here.
-This is just a reference with most of the resources that can help you with frontend development. Use this as a reference. It is not a guide.
-
-Simply check out the resources and use the one that works best for you.
-
-## Key
-
-- Resources with 💵 indicate that the resource is a paid resource.
+If you're just starting, you DON'T need to use every resource on this list. It is practically impossible. Use this as a reference. It is not a guide.
 
 ## Contibuting
 
@@ -28,13 +20,8 @@ If you know of a resource that would be a great addition to this list, feel free
 
 Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
-# Table of Contents
+## Table of Contents
 
-- [Introduction](#introduction)
-  - [Key](#key)
-  - [Contibuting](#contibuting)
-- [Table of Contents](#table-of-contents)
-- [How the Internet Works](#how-the-internet-works)
 - [HTML](#html)
 - [CSS](#css)
 - [JavaScript](#javascript)
@@ -58,14 +45,15 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - [Newsletters](#newsletters)
 - [Contributing](#contributing)
 
-# How the Internet Works
+## How the Internet Works
 
-- Documentation and Articles
+### Documentation
+- [How does the Internet work? — MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
-  - HowStuffWorks - [How does the Internet Work?](https://computer.howstuffworks.com/internet/basics/internet.htm)
-  - Medium - [How the Internet Works](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=It%20is%20a%20network%20that,their%20source%20to%20their%20destination.)
-  - MDN - [How does the Internet work? ](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-  - Stanford - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+### Articles
+- [How does the Internet Work? — HowStuffWorks](https://computer.howstuffworks.com/internet/basics/internet.htm)
+- [How the Internet Works — Medium](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=It%20is%20a%20network%20that,their%20source%20to%20their%20destination.)
+-  [How Does the Internet Work? —Stanford](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 
 - Videos
 
@@ -440,6 +428,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Seth Webster](https://twitter.com/sethwebster)
 
 - Conferences
+
   - [ReactNext](https://react-next.com/)
   - [React Rally](http://www.reactrally.com/)
   - [ReactFest](https://reactfest.uk/)
@@ -475,6 +464,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - Vuemastery - [Premium Beginner to Advanced Vue Course 💵 ](https://www.vuemastery.com/courses)
 
 - Projects
+
   - DevProjects - [Free Vue Projects and Community](https://www.codementor.io/projects/vue)
 
 - Books
@@ -777,6 +767,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
   - [Resume Maker](https://www.resumemaker.online/)
 
 - Resume Editing
+
   - [Grammarly](https://www.grammarly.com/)
 
 - ATS Resources
