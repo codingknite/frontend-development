@@ -50,20 +50,20 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Documentation
 
-- [How does the Internet work? — MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- 📜[How does the Internet work? — MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
 ### Articles
 
-- [How does the Internet Work? — HowStuffWorks](https://computer.howstuffworks.com/internet/basics/internet.htm)
-- [How the Internet Works — Medium](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=It%20is%20a%20network%20that,their%20source%20to%20their%20destination.)
-- [How Does the Internet Work? — Stanford](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- 📜[How does the Internet Work? — HowStuffWorks](https://computer.howstuffworks.com/internet/basics/internet.htm)
+- 📜[How the Internet Works — Medium](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=It%20is%20a%20network%20that,their%20source%20to%20their%20destination.)
+- 📜[How Does the Internet Work? — Stanford](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 
 ### Videos
 
-- [What is the Internet KhanAcademy](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:introducing-the-internet/v/what-is-the-internet)
-- [The Internet: Crash Course Computer Science](https://www.youtube.com/watch?v=AEaKrq3SpW8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=30&ab_channel=CrashCourse)
-- [Computer Networks: Crash Course Computer Science](https://www.youtube.com/watch?v=3QhU9jd03a0&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=29&ab_channel=CrashCourse)
-- [The World Wide Web: Crash Course Computer Science](https://www.youtube.com/watch?v=guvsH5OFizE&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=31&ab_channel=CrashCourse)
+- 🎥[What is the Internet KhanAcademy](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:introducing-the-internet/v/what-is-the-internet)
+- 🎥[The Internet: Crash Course Computer Science](https://www.youtube.com/watch?v=AEaKrq3SpW8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=30&ab_channel=CrashCourse)
+- 🎥[Computer Networks: Crash Course Computer Science](https://www.youtube.com/watch?v=3QhU9jd03a0&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=29&ab_channel=CrashCourse)
+- 🎥[The World Wide Web: Crash Course Computer Science](https://www.youtube.com/watch?v=guvsH5OFizE&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=31&ab_channel=CrashCourse)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -71,18 +71,18 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Documentation
 
-- [Structuring the web with HTML MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-- [HTML Reference](https://htmlreference.io/)
+- 📜[Structuring the web with HTML MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- 📜[HTML Reference](https://htmlreference.io/)
 
 ### Cheat Sheets
 
-- [OverAPI](https://overapi.com/html)
-- [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
-- [HTML Entity Refernce](https://css-tricks.com/snippets/html/glyphs/)
+- 📜[OverAPI](https://overapi.com/html)
+- 📜[HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+- 📜[HTML Entity Refernce](https://css-tricks.com/snippets/html/glyphs/)
 
 ### Articles
 
-- [A simple guide to HTML <head> elements](https://htmlhead.dev/)
+- 📜[A simple guide to HTML <head> elements](https://htmlhead.dev/)
 
 ### Books
 
@@ -102,11 +102,11 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Websites
 
-- [HTML5 Doctor - A great reference for HTML Elements](http://html5doctor.com/)
-- [HTML-5-TUTORIAL - A Great Website for everything HTML](https://www.html-5-tutorial.com/)
-- [HTML5 Up - Responsive HTML5 and CSS3 site templates](http://html5up.net/)
-- [HTML Validator - Check if your HTML markup is valid and contains no errors.](https://validator.w3.org/)
-- [Templated - A collection of 845 free CSS & HTML5 site templates.](http://templated.co/)
+- 🌐[HTML5 Doctor - A great reference for HTML Elements](http://html5doctor.com/)
+- 🌐[HTML-5-TUTORIAL - A Great Website for everything HTML](https://www.html-5-tutorial.com/)
+- 🌐[HTML5 Up - Responsive HTML5 and CSS3 site templates](http://html5up.net/)
+- 🌐[HTML Validator - Check if your HTML markup is valid and contains no errors.](https://validator.w3.org/)
+- 🌐[Templated - A collection of 845 free CSS & HTML5 site templates.](http://templated.co/)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -114,13 +114,13 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Documentation
 
-- [Learn to style HTML using CSS - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- 📜[Learn to style HTML using CSS - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Cheat Sheets
 
-- [OverAPI CSS Cheat Sheet](https://overapi.com/css)
-- [Extensive CSS Reference](https://tympanus.net/codrops/css_reference/)
-- [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+- 📜[OverAPI CSS Cheat Sheet](https://overapi.com/css)
+- 📜[Extensive CSS Reference](https://tympanus.net/codrops/css_reference/)
+- 📜[Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
 
 ### Books
 
@@ -137,61 +137,61 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Frameworks and Libraries
 
-- [Base](https://getbase.org/)
-- [Bulma](https://bulma.io/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Animate.css](https://daneden.github.io/animate.css/)
-- [Dead Simple Grid](https://github.com/mourner/dead-simple-grid)
-- [Foundation](https://foundation.zurb.com/)
-- [Materialize CSS](https://materializecss.com/)
-- [Milligram](https://milligram.io/)
-- [Mustard UI](https://mustard-ui.com/)
-- [Picnic CSS](https://picnicss.com/)
-- [Pure](https://purecss.io/)
-- [Semantic UI](https://semantic-ui.com/)
-- [Spectre](https://picturepan2.github.io/spectre/)
-- [Skeleton](http://getskeleton.com/)
-- [Tachyons](https://tachyons.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Tent CSS](https://css.sitetent.com/)
-- [UI Kit](https://getuikit.com/)
+- 🌐[Base](https://getbase.org/)
+- 🌐[Bulma](https://bulma.io/)
+- 🌐[Bootstrap](https://getbootstrap.com/)
+- 🌐[Animate.css](https://daneden.github.io/animate.css/)
+- 🌐[Dead Simple Grid](https://github.com/mourner/dead-simple-grid)
+- 🌐[Foundation](https://foundation.zurb.com/)
+- 🌐[Materialize CSS](https://materializecss.com/)
+- 🌐[Milligram](https://milligram.io/)
+- 🌐[Mustard UI](https://mustard-ui.com/)
+- 🌐[Picnic CSS](https://picnicss.com/)
+- 🌐[Pure](https://purecss.io/)
+- 🌐[Semantic UI](https://semantic-ui.com/)
+- 🌐[Spectre](https://picturepan2.github.io/spectre/)
+- 🌐[Skeleton](http://getskeleton.com/)
+- 🌐[Tachyons](https://tachyons.io/)
+- 🌐[Tailwind CSS](https://tailwindcss.com/)
+- 🌐[Tent CSS](https://css.sitetent.com/)
+- 🌐[UI Kit](https://getuikit.com/)
 
 ### Practice your CSS Skills
 
-- [Codepen](http://codepen.io/)
-- [CodeSandbox](https://codesandbox.io/)
-- [CSS Deck](http://cssdeck.com/)
-- [Dablet](http://dabblet.com/)
-- [JS Bin](http://jsbin.com/)
-- [JSFiddle](https://jsfiddle.net/)
-- [Liveweave](http://liveweave.com/)
-- [Plunker](http://plnkr.co/)
-- [StackBlitz](https://stackblitz.com/)
+- 🌐[Codepen](http://codepen.io/)
+- 🌐[CodeSandbox](https://codesandbox.io/)
+- 🌐[CSS Deck](http://cssdeck.com/)
+- 🌐[Dablet](http://dabblet.com/)
+- 🌐[JS Bin](http://jsbin.com/)
+- 🌐[JSFiddle](https://jsfiddle.net/)
+- 🌐[Liveweave](http://liveweave.com/)
+- 🌐[Plunker](http://plnkr.co/)
+- 🌐[StackBlitz](https://stackblitz.com/)
 
 ### Style Guides
 
-- [AirBnb Style Guide - CSS](https://github.com/airbnb/css)
-- [CSS Guidelines](https://cssguidelin.es/)
-- [Google Style Guide - HTML & CSS](https://google.github.io/styleguide/htmlcssguide.html)
+- 📜[AirBnb Style Guide - CSS](https://github.com/airbnb/css)
+- 📜[CSS Guidelines](https://cssguidelin.es/)
+- 📜[Google Style Guide - HTML & CSS](https://google.github.io/styleguide/htmlcssguide.html)
 - [Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
 
 ### Websites
 
-- [**7 Days, 7 Websites** - Build 7 websites in 7 days](https://7days7websites.glitch.me/)
-- [**Can I use** - Up-to-date browser support tables for front-end technologies](https://caniuse.com/)
-- [**Clippy** - A tool to help use the new clip-path property](https://bennettfeely.com/clippy/)
-- [**CSSBattle** - Learn CSS through a fun code-golfing game](https://cssbattle.dev)
-- [**CSS Easing functions** - A collection of easing functions used in CSS transitions and animations.](https://easings.net/)
-- [**CSS Diner** - Learn CSS Selectors through a game](https://flukeout.github.io/)
-- [**CSS for People Who Hate CSS**](https://paulcpederson.com/articles/css-for-people-who-hate-css/)
-- [**CSS Grid Garden** - Learn CSS Grid through a game](https://cssgridgarden.com/)
-- [**CSS Layout** - A collection of popular layouts and patterns made with CSS](https://csslayout.io/)
-- [**CSS reference by Codrops** - Excellent guide on how to write better, cleaner and more reusable CSS code.](http://tympanus.net/codrops/css_reference/)
-- [**CSS-tricks** - A blog site for everything CSS](https://css-tricks.com)
-- [**Cubic Berzier Function Generator**](https://cubic-bezier.com/#.17,.67,.83,.67)
-- [**Flexbox Froggy** - Learn CSS Flexbox through a game](https://flexboxfroggy.com/)
-- [**Responsinator** - Check the responsiveness of a site across different devices.](https://www.responsinator.com/)
-- [**Responsive Grid System** - Quick flexible and easy fluid grid for easy responsive web design.](http://www.responsivegridsystem.com/)
+- 🌐[**7 Days, 7 Websites** - Build 7 websites in 7 days](https://7days7websites.glitch.me/)
+- 🌐[**Can I use** - Up-to-date browser support tables for front-end technologies](https://caniuse.com/)
+- 🌐[**Clippy** - A tool to help use the new clip-path property](https://bennettfeely.com/clippy/)
+- 🌐[**CSSBattle** - Learn CSS through a fun code-golfing game](https://cssbattle.dev)
+- 🌐[**CSS Easing functions** - A collection of easing functions used in CSS transitions and animations.](https://easings.net/)
+- 🌐[**CSS Diner** - Learn CSS Selectors through a game](https://flukeout.github.io/)
+- 🌐[**CSS for People Who Hate CSS**](https://paulcpederson.com/articles/css-for-people-who-hate-css/)
+- 🌐[**CSS Grid Garden** - Learn CSS Grid through a game](https://cssgridgarden.com/)
+- 🌐[**CSS Layout** - A collection of popular layouts and patterns made with CSS](https://csslayout.io/)
+- 🌐[**CSS reference by Codrops** - Excellent guide on how to write better, cleaner and more reusable CSS code.](http://tympanus.net/codrops/css_reference/)
+- 🌐[**CSS-tricks** - A blog site for everything CSS](https://css-tricks.com)
+- 🌐[**Cubic Berzier Function Generator**](https://cubic-bezier.com/#.17,.67,.83,.67)
+- 🌐[**Flexbox Froggy** - Learn CSS Flexbox through a game](https://flexboxfroggy.com/)
+- 🌐[**Responsinator** - Check the responsiveness of a site across different devices.](https://www.responsinator.com/)
+- 🌐[**Responsive Grid System** - Quick flexible and easy fluid grid for easy responsive web design.](http://www.responsivegridsystem.com/)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -199,12 +199,12 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Documentation
 
-- [JavaScript — Dynamic client-side scripting - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- 📜[JavaScript — Dynamic client-side scripting - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 ### Reference & Cheat Sheets
 
-- [JavaScript Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-- [JavaScript Cheat Sheet - OverAPI](https://overapi.com/javascript)
+- 📜[JavaScript Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- 📜[JavaScript Cheat Sheet - OverAPI](https://overapi.com/javascript)
 
 ### Courses
 
@@ -229,65 +229,65 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Challenge Websites
 
-- [AtCoder](https://atcoder.jp/)
-- [CodeChef](https://www.codechef.com/)
-- [Coderbyte](https://coderbyte.com/)
-- [Coderbyte](https://coderbyte.com/)
-- [Codewars](https://www.codewars.com/)
-- [CodinGame](https://www.codingame.com/)
-- [CodeForces](https://codeforces.com/)
-- [DevProjects - Free real-world JavaScript projects](https://www.codementor.io/projects/javascript)
-- [Exercism](https://exercism.io/)
-- [HackerEarth](https://www.hackerearth.com/)
-- [Hackerrank](https://www.hackerrank.com/)
-- [Leetcode](https://leetcode.com/)
-- [Pramp](https://www.pramp.com/#/)
-- [Project Euler](https://projecteuler.net/)
-- [SPOJ](https://www.spoj.com/)
-- [TopCoder](https://www.topcoder.com/)
+- 🌐[AtCoder](https://atcoder.jp/)
+- 🌐[CodeChef](https://www.codechef.com/)
+- 🌐[Coderbyte](https://coderbyte.com/)
+- 🌐[Coderbyte](https://coderbyte.com/)
+- 🌐[Codewars](https://www.codewars.com/)
+- 🌐[CodinGame](https://www.codingame.com/)
+- 🌐[CodeForces](https://codeforces.com/)
+- 🌐[DevProjects - Free real-world JavaScript projects](https://www.codementor.io/projects/javascript)
+- 🌐[Exercism](https://exercism.io/)
+- 🌐[HackerEarth](https://www.hackerearth.com/)
+- 🌐[Hackerrank](https://www.hackerrank.com/)
+- 🌐[Leetcode](https://leetcode.com/)
+- 🌐[Pramp](https://www.pramp.com/#/)
+- 🌐[Project Euler](https://projecteuler.net/)
+- 🌐[SPOJ](https://www.spoj.com/)
+- 🌐[TopCoder](https://www.topcoder.com/)
 
-- Snippets and cheatsheets
+### Snippets and cheatsheets
 
-  - [A ridiculous collection of cheatsheets](https://devhints.io/)
-  - [Favorite JavaScript utilities in single line of code](https://1loc.dev/)
-  - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-  - [Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code)
+- 📜[A ridiculous collection of cheatsheets](https://devhints.io/)
+- 📜[Favorite JavaScript utilities in single line of code](https://1loc.dev/)
+- 📜[Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- 📜[Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code)
 
 ### Style Guides
 
-- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-- [Standardjs](https://standardjs.com/)
+- 📜[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- 📜[Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- 📜[Standardjs](https://standardjs.com/)
 
 ### Visual Studio Code Extensions
 
-- [**Babel JavaScript** - Syntax highlighting for today's JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
-- [**Bracket Pair Colorizer 2** - Match brackets with same color](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-- [**Debugger for Chrome** - Debugging tool](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-- [**ESLint** - Code Linter](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [**Intellisense** - Code completion and Information](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-- [**Live Server** - Live Web Page Reload.](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [**NPM** - npm support for VsCode](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
-- [**Path Intellisense** - Auto-complete path files](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-- [**Prettier** - Code Formatting.](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [**Paste JSON as Code** - Copy JSON paste as JavaScript or Typescript](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
-- [**Quokka.js** - Prototyping playground that displays the results of an operation inside your IDE](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-- [**REST Client** - REST Client for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-- [**Settings Sync** - Synchronise your editor settings using Github.](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-- [**Snippets** - Snippets for JavaScript ES6 syntax and TypeScript.](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+- 🌐[**Babel JavaScript** - Syntax highlighting for today's JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
+- 🌐[**Bracket Pair Colorizer 2** - Match brackets with same color](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- 🌐[**Debugger for Chrome** - Debugging tool](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+- 🌐[**ESLint** - Code Linter](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- 🌐[**Intellisense** - Code completion and Information](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+- 🌐[**Live Server** - Live Web Page Reload.](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- 🌐[**NPM** - npm support for VsCode](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+- 🌐[**Path Intellisense** - Auto-complete path files](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- 🌐[**Prettier** - Code Formatting.](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- 🌐[**Paste JSON as Code** - Copy JSON paste as JavaScript or Typescript](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+- 🌐[**Quokka.js** - Prototyping playground that displays the results of an operation inside your IDE](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+- 🌐[**REST Client** - REST Client for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- 🌐[**Settings Sync** - Synchronise your editor settings using Github.](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- 🌐[**Snippets** - Snippets for JavaScript ES6 syntax and TypeScript.](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
 ### Websites
 
-- [HTML DOM](https://htmldom.dev/)
-- [this vs that](https://thisthat.dev/)
+- 🌐[HTML DOM](https://htmldom.dev/)
+- 🌐[this vs that](https://thisthat.dev/)
 
 ### Articles
 
-- [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
-- [10 JavaScript concepts you need to know for interviews](https://codeburst.io/10-javascript-concepts-you-need-to-know-for-interviews-136df65ecce)
-- [10 Interview QuestionsEvery JavaScript Developer Should Know ](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
-- [A Study Plan To Cure JavaScript Fatigue](https://www.freecodecamp.org/news/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1/)
-- [How to Manage JavaScript Fatigue ](https://auth0.com/blog/how-to-manage-javascript-fatigue/)
+- 📜[70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
+- 📜[10 JavaScript concepts you need to know for interviews](https://codeburst.io/10-javascript-concepts-you-need-to-know-for-interviews-136df65ecce)
+- 📜[10 Interview QuestionsEvery JavaScript Developer Should Know ](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- 📜[A Study Plan To Cure JavaScript Fatigue](https://www.freecodecamp.org/news/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1/)
+- 📜[How to Manage JavaScript Fatigue ](https://auth0.com/blog/how-to-manage-javascript-fatigue/)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -308,10 +308,10 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Tools
 
-- [Bitbucket](https://bitbucket.org/)
-- [Github](http://github.com/)
-- [Git Extensions for Windows](https://github.com/gitextensions/gitextensions)
-- [Sourcetree](https://www.sourcetreeapp.com/)
+- 🌐[Bitbucket](https://bitbucket.org/)
+- 🌐[Github](http://github.com/)
+- 🌐[Git Extensions for Windows](https://github.com/gitextensions/gitextensions)
+- 🌐[Sourcetree](https://www.sourcetreeapp.com/)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -319,11 +319,11 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Documentation
 
-- [React Official Docs ](https://reactjs.org/docs/getting-started.html)
+- 📜[React Official Docs ](https://reactjs.org/docs/getting-started.html)
 
 ### Cheat Sheets
 
-- [React Cheatsheet](https://devhints.io/react)
+- 📜[React Cheatsheet](https://devhints.io/react)
 
 ### Courses
 
@@ -347,8 +347,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Project Ideas
 
-- [Devprojects](https://www.codementor.io/projects/reactjs)
-- [DevChallenges](https://devchallenges.io/paths/front-end-developer)
+- 🌐[Devprojects](https://www.codementor.io/projects/reactjs)
+- 🌐[DevChallenges](https://devchallenges.io/paths/front-end-developer)
 
 ### Podcasts
 
@@ -357,75 +357,75 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Blog Sites
 
-- [Official React Blog ](https://reactjs.org/blog/)
-- [Kent C. Dodds' Blog ](https://blog.kentcdodds.com/)
-- [useHooks Blog](https://usehooks.com/)
+- 🌐[Official React Blog ](https://reactjs.org/blog/)
+- 🌐[Kent C. Dodds' Blog ](https://blog.kentcdodds.com/)
+- 🌐[useHooks Blog](https://usehooks.com/)
 
 ### Youtube Channels
 
-- [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
-- [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
-- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- 🎥[Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
+- 🎥[Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+- 🎥[freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- 🎥[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- 🎥[Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 
 ### React Tooling
 
-- [ESLint](https://eslint.org/)
-- [Lodash](https://lodash.com/)
-- [npm](https://www.npmjs.com/)
-- [React Sight](http://www.reactsight.com/)
-- [React Router](https://github.com/ReactTraining/react-router)
-- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-- [Storybook](https://storybook.js.org/)
+- 🌐[ESLint](https://eslint.org/)
+- 🌐[Lodash](https://lodash.com/)
+- 🌐[npm](https://www.npmjs.com/)
+- 🌐[React Sight](http://www.reactsight.com/)
+- 🌐[React Router](https://github.com/ReactTraining/react-router)
+- 🌐[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- 🌐[Storybook](https://storybook.js.org/)
 
 ### State Management
 
-- [Mobx](https://mobx.js.org/README.html)
-- [Recoil](https://github.com/facebookexperimental/Recoil)
-- [Redux](https://github.com/reduxjs/redux)
+- 🌐[Mobx](https://mobx.js.org/README.html)
+- 🌐[Recoil](https://github.com/facebookexperimental/Recoil)
+- 🌐[Redux](https://github.com/reduxjs/redux)
 
 ### UI Frameworks & Libraries
 
-- [Grommet](https://v2.grommet.io/components)
-- [Material UI](https://material-ui.com/)
-- [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
-- [Onsen UI](https://onsen.io/react/)
-- [Reactstrap](https://reactstrap.github.io/)
-- [React Bootstrap](https://react-bootstrap.github.io/)
-- [React Toolbox (Material Design)](http://react-toolbox.io/)
-- [Rebass](https://rebassjs.org/)
-- [Semantic UI React](https://react.semantic-ui.com/)
-- [Chakra UI](https://chakra-ui.com/)
+- 🌐[Grommet](https://v2.grommet.io/components)
+- 🌐[Material UI](https://material-ui.com/)
+- 🌐[Material Kit React](https://github.com/creativetimofficial/material-kit-react)
+- 🌐[Onsen UI](https://onsen.io/react/)
+- 🌐[Reactstrap](https://reactstrap.github.io/)
+- 🌐[React Bootstrap](https://react-bootstrap.github.io/)
+- 🌐[React Toolbox (Material Design)](http://react-toolbox.io/)
+- 🌐[Rebass](https://rebassjs.org/)
+- 🌐[Semantic UI React](https://react.semantic-ui.com/)
+- 🌐[Chakra UI](https://chakra-ui.com/)
 
 ### Unit Testing
 
-- [Enzyme](https://github.com/enzymejs/enzyme)
-- [Jest](https://jestjs.io/docs/en/tutorial-react)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- [Cypress](https://www.cypress.io/)
+- 🌐[Enzyme](https://github.com/enzymejs/enzyme)
+- 🌐[Jest](https://jestjs.io/docs/en/tutorial-react)
+- 🌐[React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+- 🌐[Cypress](https://www.cypress.io/)
 
 ### Create React App
 
-- [Create React App](https://github.com/facebook/create-react-app)
-- [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
-- [Divjoy](https://divjoy.com) 💵
+- 🌐[Create React App](https://github.com/facebook/create-react-app)
+- 🌐[React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+- 🌐[Divjoy](https://divjoy.com) 💵
 
 ### CSS in JS
 
-- [Styled Components](https://styled-components.com/)
-- [Emotion (css in js)](https://emotion.sh/)
+- 🌐[Styled Components](https://styled-components.com/)
+- 🌐[Emotion (css in js)](https://emotion.sh/)
 
 ### Remote Data Fetching
 
-- [Axios](https://axios-http.com/)
-- [React Query](https://react-query.tanstack.com/)
-- [swr](https://swr.vercel.app/)
+- 🌐[Axios](https://axios-http.com/)
+- 🌐[React Query](https://react-query.tanstack.com/)
+- 🌐[swr](https://swr.vercel.app/)
 
 ### Server Side Rendering
 
-- [Gatsby](https://www.gatsbyjs.com/)
-- [Next.js](https://nextjs.org/)
+- 🌐[Gatsby](https://www.gatsbyjs.com/)
+- 🌐[Next.js](https://nextjs.org/)
 
 ### Experts on Twitter
 
@@ -441,17 +441,17 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Conferences
 
-- [ReactNext](https://react-next.com/)
-- [React Rally](http://www.reactrally.com/)
-- [ReactFest](https://reactfest.uk/)
-- [React Europe](https://www.react-europe.org/)
+- 🌐[ReactNext](https://react-next.com/)
+- 🌐[React Rally](http://www.reactrally.com/)
+- 🌐[ReactFest](https://reactfest.uk/)
+- 🌐[React Europe](https://www.react-europe.org/)
 
 ### Community
 
-- [React Forum](https://discuss.reactjs.org/)
-- [Reactiflux](https://www.reactiflux.com/)
-- [Reddit](https://www.reddit.com/r/reactjs/)
-- [React Spectrum](https://spectrum.chat/react)
+- 🌐[React Forum](https://discuss.reactjs.org/)
+- 🌐[Reactiflux](https://www.reactiflux.com/)
+- 🌐[Reddit](https://www.reddit.com/r/reactjs/)
+- 🌐[React Spectrum](https://spectrum.chat/react)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -459,10 +459,10 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Documentation
 
-- [Getting started with Vue - MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
-- [Vue Cheatsheet](https://devhints.io/vue)
-- [Vue Cookbook](https://vuejs.org/v2/cookbook/)
-- [Vue Docs ](https://vuejs.org/v2/guide/)
+- 📜[Getting started with Vue - MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
+- 📜[Vue Cheatsheet](https://devhints.io/vue)
+- 📜[Vue Cookbook](https://vuejs.org/v2/cookbook/)
+- 📜[Vue Docs ](https://vuejs.org/v2/guide/)
 
 ### Courses
 
@@ -478,7 +478,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Project Ideas
 
-- DevProjects - [Free Vue Projects and Community](https://www.codementor.io/projects/vue)
+- 🌐[Free Vue Projects and Community - DevProjects](https://www.codementor.io/projects/vue)
 
 ### Books
 
@@ -507,226 +507,226 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Youtube Channels
 
-- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
-- [Vue NYC](https://www.youtube.com/vuenyc)
-- [VueConf EU](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw)
+- 🎥[freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- 🎥[Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- 🎥[Vue NYC](https://www.youtube.com/vuenyc)
+- 🎥[VueConf EU](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw)
 
 ### Tools
 
-- [Bit](https://github.com/teambit/bit)
-- [Bootstrap Vue](https://bootstrap-vue.js.org/)
-- [Nuxt.js](https://nuxtjs.org/)
-- [Onseen UI](https://onsen.io/vue/)
-- [Quansar Framework](http://quasar-framework.org/)
-- [Vue Dev Server](https://github.com/paulpflug/vue-dev-server)
-- [Vuex](https://vuex.vuejs.org/en/)
-- [Vue Router](https://router.vuejs.org/en/)
-- [Vue Dev Tools](https://github.com/vuejs/vue-devtools)
-- [Vue CLI](https://github.com/vuejs/vue-cli)
-- [Vuetify](https://vuetifyjs.com/en/)
+- 🌐[Bit](https://github.com/teambit/bit)
+- 🌐[Bootstrap Vue](https://bootstrap-vue.js.org/)
+- 🌐[Nuxt.js](https://nuxtjs.org/)
+- 🌐[Onseen UI](https://onsen.io/vue/)
+- 🌐[Quansar Framework](http://quasar-framework.org/)
+- 🌐[Vue Dev Server](https://github.com/paulpflug/vue-dev-server)
+- 🌐[Vuex](https://vuex.vuejs.org/en/)
+- 🌐[Vue Router](https://router.vuejs.org/en/)
+- 🌐[Vue Dev Tools](https://github.com/vuejs/vue-devtools)
+- 🌐[Vue CLI](https://github.com/vuejs/vue-cli)
+- 🌐[Vuetify](https://vuetifyjs.com/en/)
 
 ### Blogs
 
-- [Aligator.io](https://alligator.io/vuejs/)
-- [CSS-Tricks - Vue ](https://css-tricks.com/guides/vue/)
-- [The Vue Point](https://medium.com/the-vue-point)
-- [Vue.js Developers](https://vuejsdevelopers.com/)
+- 🌐[Aligator.io](https://alligator.io/vuejs/)
+- 🌐[CSS-Tricks - Vue ](https://css-tricks.com/guides/vue/)
+- 🌐[The Vue Point](https://medium.com/the-vue-point)
+- 🌐[Vue.js Developers](https://vuejsdevelopers.com/)
 
 ### Community
 
-- [Reddit](https://www.reddit.com/r/vuejs/)
-- [Vuejs Forum](https://forum.vuejs.org/)
-- [Vue Land](https://vue-land.js.org/)
+- 🌐[Reddit](https://www.reddit.com/r/vuejs/)
+- 🌐[Vuejs Forum](https://forum.vuejs.org/)
+- 🌐[Vue Land](https://vue-land.js.org/)
 
 ### Conferences
 
-- [Vue Conf](https://conf.vuejs.org/)
-- [Vue Conf US](http://us.vuejs.org/)
-- [Vue.js London](http://vuejs.london/)
-- [Vue.js Amsterdam](https://www.vuejs.amsterdam/)
+- 🌐[Vue Conf](https://conf.vuejs.org/)
+- 🌐[Vue Conf US](http://us.vuejs.org/)
+- 🌐[Vue.js London](http://vuejs.london/)
+- 🌐[Vue.js Amsterdam](https://www.vuejs.amsterdam/)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Browser extensions
 
-- [CSS Spider](https://cssspider.fresalabs.com/)
-- [Check Browsers Support 💵](https://checkbrowsers.support/)
-- [CSS Inspector 💵](https://cssinspector.com/)
-- [CSS Scan 💵](https://getcssscan.com/)
+- 🌐[CSS Spider](https://cssspider.fresalabs.com/)
+- 🌐[Check Browsers Support 💵](https://checkbrowsers.support/)
+- 🌐[CSS Inspector 💵](https://cssinspector.com/)
+- 🌐[CSS Scan 💵](https://getcssscan.com/)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Icons
 
-- [BoxIcons](https://boxicons.com/)
-- [CSS.gg](https://css.gg/)
-- [Font Awesome](https://fontawesome.com/?from=io)
-- [Flaticon](https://www.flaticon.com/home)
-- [Freepik](https://www.freepik.com/)
-- [Fontastic](http://fontastic.me/)
-- [Heroicons](https://heroicons.com/)
-- [Iconfactory](https://freeware.iconfactory.com/icons)
-- [Icons8](https://icons8.com/)
-- [Icontre](https://iconstore.co/)
-- [Iconjar](https://geticonjar.com/)
-- [IconFinder](https://www.iconfinder.com/free_icons)
-- [Iconshock](https://www.iconshock.com/free-icons/)
-- [Iconmonstr](https://iconmonstr.com/)
-- [Ionicons](https://ionicons.com/)
-- [Icomoon](https://icomoon.io/)
-- [Material Icons](https://material.io/resources/icons/)
-- [Pngtree](https://pngtree.com/free-icon)
-- [Swift Icons](https://www.swifticons.com/)
-- [UXWing](https://uxwing.com/)
+- 🌐[BoxIcons](https://boxicons.com/)
+- 🌐[CSS.gg](https://css.gg/)
+- 🌐[Font Awesome](https://fontawesome.com/?from=io)
+- 🌐[Flaticon](https://www.flaticon.com/home)
+- 🌐[Freepik](https://www.freepik.com/)
+- 🌐[Fontastic](http://fontastic.me/)
+- 🌐[Heroicons](https://heroicons.com/)
+- 🌐[Iconfactory](https://freeware.iconfactory.com/icons)
+- 🌐[Icons8](https://icons8.com/)
+- 🌐[Icontre](https://iconstore.co/)
+- 🌐[Iconjar](https://geticonjar.com/)
+- 🌐[IconFinder](https://www.iconfinder.com/free_icons)
+- 🌐[Iconshock](https://www.iconshock.com/free-icons/)
+- 🌐[Iconmonstr](https://iconmonstr.com/)
+- 🌐[Ionicons](https://ionicons.com/)
+- 🌐[Icomoon](https://icomoon.io/)
+- 🌐[Material Icons](https://material.io/resources/icons/)
+- 🌐[Pngtree](https://pngtree.com/free-icon)
+- 🌐[Swift Icons](https://www.swifticons.com/)
+- 🌐[UXWing](https://uxwing.com/)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Fonts and Typography
 
-- [1001Fonts](https://www.1001fonts.com/)
-- [Abstract Fonts](http://www.abstractfonts.com/)
-- [Befonts](https://befonts.com/)
-- [DaFont](https://www.dafont.com/)
-- [Google Fonts](https://fonts.google.com/)
-- [FFonts](https://www.ffonts.net/)
-- [FonstSpace](https://www.fontspace.com/)
-- [FontsArena](https://fontsarena.com/)
-- [Fontsquirrel](https://www.fontsquirrel.com/)
-- [Free Script Fonts](https://www.freescriptfonts.net/)
-- [FontSpace](https://www.fontspace.com/)
-- [MyFonts](https://www.myfonts.com/)
-- [PinSpiry Fonts](https://pinspiry.com/category/free-resources/fonts/)
-- [TypeTester](https://www.typetester.org/)
-- [Typo Guide](http://www.typogui.de/)
-- [Unblast](https://unblast.com/fonts/)
+- 🌐[1001Fonts](https://www.1001fonts.com/)
+- 🌐[Abstract Fonts](http://www.abstractfonts.com/)
+- 🌐[Befonts](https://befonts.com/)
+- 🌐[DaFont](https://www.dafont.com/)
+- 🌐[Google Fonts](https://fonts.google.com/)
+- 🌐[FFonts](https://www.ffonts.net/)
+- 🌐[FonstSpace](https://www.fontspace.com/)
+- 🌐[FontsArena](https://fontsarena.com/)
+- 🌐[Fontsquirrel](https://www.fontsquirrel.com/)
+- 🌐[Free Script Fonts](https://www.freescriptfonts.net/)
+- 🌐[FontSpace](https://www.fontspace.com/)
+- 🌐[MyFonts](https://www.myfonts.com/)
+- 🌐[PinSpiry Fonts](https://pinspiry.com/category/free-resources/fonts/)
+- 🌐[TypeTester](https://www.typetester.org/)
+- 🌐[Typo Guide](http://www.typogui.de/)
+- 🌐[Unblast](https://unblast.com/fonts/)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Illustrations
 
-- [Blob maker](https://www.blobmaker.app/)
-- [Blush](https://blush.design/)
-- [Draw Kit](https://drawkit.io/)
-- [IRA Design](https://iradesign.io/gallery/illustrations)
-- [Interfacer](https://interfacer.xyz/)
-- [Icons 8](https://icons8.com/ouch)
-- [Manypixels](https://gallery.manypixels.co/)
-- [Undraw](https://undraw.co/illustrations)
+- 🌐[Blob maker](https://www.blobmaker.app/)
+- 🌐[Blush](https://blush.design/)
+- 🌐[Draw Kit](https://drawkit.io/)
+- 🌐[IRA Design](https://iradesign.io/gallery/illustrations)
+- 🌐[Interfacer](https://interfacer.xyz/)
+- 🌐[Icons 8](https://icons8.com/ouch)
+- 🌐[Manypixels](https://gallery.manypixels.co/)
+- 🌐[Undraw](https://undraw.co/illustrations)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Optimization
 
-- [CSS Validator](https://jigsaw.w3.org/css-validator/)
-- [Google Analytics](https://marketingplatform.google.com/about/analytics/)
-- [Nibbler](https://nibbler.silktide.com/en_US)
-- [Namecheap](https://www.namecheap.com/)
-- [Optimizilla](http://optimizilla.com/)
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- [Sizzy](https://sizzy.co/)
-- [Usability Checklist](https://stayintech.com/info/UX)
-- [Who Is](https://who.is/)
-- [Woorank](https://www.woorank.com/)
+- 🌐[CSS Validator](https://jigsaw.w3.org/css-validator/)
+- 🌐[Google Analytics](https://marketingplatform.google.com/about/analytics/)
+- 🌐[Nibbler](https://nibbler.silktide.com/en_US)
+- 🌐[Namecheap](https://www.namecheap.com/)
+- 🌐[Optimizilla](http://optimizilla.com/)
+- 🌐[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- 🌐[Sizzy](https://sizzy.co/)
+- 🌐[Usability Checklist](https://stayintech.com/info/UX)
+- 🌐[Who Is](https://who.is/)
+- 🌐[Woorank](https://www.woorank.com/)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Color Inspiration
 
-- [0to255](https://www.0to255.com/)
-- [Coolors](https://coolors.co/)
-- [Color Hex](https://www.color-hex.com/)
-- [Color Hunt](https://colorhunt.co/)
-- [Flat UI Colors](https://flatuicolors.com/)
-- [LOL Color Palettes](https://www.webdesignrankings.com/resources/lolcolors/)
-- [Material Palette](https://www.materialpalette.com/)
-- [myColor Space](https://mycolor.space/)
-- [Paletton](http://paletton.com/)
-- [UIGradients](https://uigradients.com/#Kyoto)
+- 🌐[0to255](https://www.0to255.com/)
+- 🌐[Coolors](https://coolors.co/)
+- 🌐[Color Hex](https://www.color-hex.com/)
+- 🌐[Color Hunt](https://colorhunt.co/)
+- 🌐[Flat UI Colors](https://flatuicolors.com/)
+- 🌐[LOL Color Palettes](https://www.webdesignrankings.com/resources/lolcolors/)
+- 🌐[Material Palette](https://www.materialpalette.com/)
+- 🌐[myColor Space](https://mycolor.space/)
+- 🌐[Paletton](http://paletton.com/)
+- 🌐[UIGradients](https://uigradients.com/#Kyoto)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Images and Videos
 
-- [Burst](https://burst.shopify.com/)
-- [Coverr](http://www.coverr.co/)
-- [Canva](https://www.canva.com/photos/free/)
-- [Free Images](https://www.freeimages.com/)
-- [Flickr](https://www.flickr.com/)
-- [Gratisography](https://gratisography.com/)
-- [ISO Republic](http://isorepublic.com/)
-- [Life of Pix](https://www.lifeofpix.com/)
-- [Pexels](https://www.pexels.com/)
-- [Pixabay](https://pixabay.com/en/)
-- [Reshot](https://reshot.com/)
-- [Subtle Patterns](http://subtlepatterns.com/)
-- [Startup Stock Photos](http://startupstockphotos.com/)
-- [The Stocks](http://thestocks.im/)
-- [Unsplash](https://unsplash.com/)
+- 🌐[Burst](https://burst.shopify.com/)
+- 🌐[Coverr](http://www.coverr.co/)
+- 🌐[Canva](https://www.canva.com/photos/free/)
+- 🌐[Free Images](https://www.freeimages.com/)
+- 🌐[Flickr](https://www.flickr.com/)
+- 🌐[Gratisography](https://gratisography.com/)
+- 🌐[ISO Republic](http://isorepublic.com/)
+- 🌐[Life of Pix](https://www.lifeofpix.com/)
+- 🌐[Pexels](https://www.pexels.com/)
+- 🌐[Pixabay](https://pixabay.com/en/)
+- 🌐[Reshot](https://reshot.com/)
+- 🌐[Subtle Patterns](http://subtlepatterns.com/)
+- 🌐[Startup Stock Photos](http://startupstockphotos.com/)
+- 🌐[The Stocks](http://thestocks.im/)
+- 🌐[Unsplash](https://unsplash.com/)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Hosting Sites
 
-- [Amazon Web Services](https://aws.amazon.com/)
-- [Digital Ocean](https://www.digitalocean.com/)
-- [Firebase](https://firebase.google.com/)
-- [Github](https://pages.github.com/)
-- [Netlify](https://netlify.com/)
-- [Render](https://render.com/)
-- [Vercel](https://vercel.com/)
+- 🌐[Amazon Web Services](https://aws.amazon.com/)
+- 🌐[Digital Ocean](https://www.digitalocean.com/)
+- 🌐[Firebase](https://firebase.google.com/)
+- 🌐[Github](https://pages.github.com/)
+- 🌐[Netlify](https://netlify.com/)
+- 🌐[Render](https://render.com/)
+- 🌐[Vercel](https://vercel.com/)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Design Inspiration
 
-- [Awwwards](https://www.awwwards.com/)
-- [Behance](https://www.behance.net/)
-- [Call To idea](http://www.calltoidea.com/)
-- [Design Inspiration](https://www.designspiration.net/)
-- [Dribble](https://dribbble.com/)
-- [From Up North](http://www.fromupnorth.com/)
-- [Land Book](http://land-book.com/)
-- [Media Queries](http://mediaqueri.es/)
-- [One Page Love](https://onepagelove.com/)
-- [Pinterest](http://pinterest.com/)
-- [Site Inspire](http://www.siteinspire.com/)
-- [Site Inspire](https://www.siteinspire.com/)
-- [Template Monster](https://www.templatemonster.com/)
-- [UI Movement](https://uimovement.com/)
-- [Webdesign Inspiration](http://webdesign-inspiration.com/)
+- 🌐[Awwwards](https://www.awwwards.com/)
+- 🌐[Behance](https://www.behance.net/)
+- 🌐[Call To idea](http://www.calltoidea.com/)
+- 🌐[Design Inspiration](https://www.designspiration.net/)
+- 🌐[Dribble](https://dribbble.com/)
+- 🌐[From Up North](http://www.fromupnorth.com/)
+- 🌐[Land Book](http://land-book.com/)
+- 🌐[Media Queries](http://mediaqueri.es/)
+- 🌐[One Page Love](https://onepagelove.com/)
+- 🌐[Pinterest](http://pinterest.com/)
+- 🌐[Site Inspire](http://www.siteinspire.com/)
+- 🌐[Site Inspire](https://www.siteinspire.com/)
+- 🌐[Template Monster](https://www.templatemonster.com/)
+- 🌐[UI Movement](https://uimovement.com/)
+- 🌐[Webdesign Inspiration](http://webdesign-inspiration.com/)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Portfolio Inspiration
 
-- [Aral Tasher](https://araltasher.com/)
-- [Brittany Chiang](https://brittanychiang.com/)
-- [Fidalgo Pedro](https://fidalgo.dev/)
-- [Jack Jeznach](http://jacekjeznach.com/)
-- [Julia Johnson](https://www.juliacodes.com/)
-- [Matt Farley](http://mattfarley.ca/)
-- [Nathan Simpson](https://nathansimpson.design/)
-- [Developer Portfolios - Github Repo](https://github.com/emmabostian/developer-portfolios)
+- 🌐[Aral Tasher](https://araltasher.com/)
+- 🌐[Brittany Chiang](https://brittanychiang.com/)
+- 🌐[Fidalgo Pedro](https://fidalgo.dev/)
+- 🌐[Jack Jeznach](http://jacekjeznach.com/)
+- 🌐[Julia Johnson](https://www.juliacodes.com/)
+- 🌐[Matt Farley](http://mattfarley.ca/)
+- 🌐[Nathan Simpson](https://nathansimpson.design/)
+- 🌐[Developer Portfolios - Github Repo](https://github.com/emmabostian/developer-portfolios)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Youtube Channels
 
-- [Academind](https://www.youtube.com/c/Academind)
-- [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
-- [Ben Awad](https://www.youtube.com/user/99baddawg)
-- [Coding Phase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
-- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
-- [Clement Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
-- [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
-- [freeCodeCamp](https://www.youtube.com/c/FreeCodeCamp)
-- [Keep On Coding](https://www.youtube.com/channel/UCsLo154Krjwhoz8W00N8ItA)
-- [Programming With Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
-- [Leon Noel](https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)
-- [The Net Ninja](https://youtube.com/c/TheNetNinja)
-- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
-- [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/)
+- 🎥[Academind](https://www.youtube.com/c/Academind)
+- 🎥[Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
+- 🎥[Ben Awad](https://www.youtube.com/user/99baddawg)
+- 🎥[Coding Phase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
+- 🎥[Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+- 🎥[Clement Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+- 🎥[Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+- 🎥[freeCodeCamp](https://www.youtube.com/c/FreeCodeCamp)
+- 🎥[Keep On Coding](https://www.youtube.com/channel/UCsLo154Krjwhoz8W00N8ItA)
+- 🎥[Programming With Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+- 🎥[Leon Noel](https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)
+- 🎥[The Net Ninja](https://youtube.com/c/TheNetNinja)
+- 🎥[Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- 🎥[Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -772,20 +772,20 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Resume Templates
 
-- [Canva](https://www.canva.com/)
-- [Creddle](http://creddle.io/)
-- [Harvard Office Of Career Services](https://ocs.fas.harvard.edu/guide-template-library)
-- [MyPerfectResume](https://www.myperfectresume.com/)
-- [ResumeWorded](https://resumeworded.com/)
-- [Resume.io](https://resume.io/)
-- [Resume Maker](https://www.resumemaker.online/)
+- 🌐[Canva](https://www.canva.com/)
+- 🌐[Creddle](http://creddle.io/)
+- 🌐[Harvard Office Of Career Services](https://ocs.fas.harvard.edu/guide-template-library)
+- 🌐[MyPerfectResume](https://www.myperfectresume.com/)
+- 🌐[ResumeWorded](https://resumeworded.com/)
+- 🌐[Resume.io](https://resume.io/)
+- 🌐[Resume Maker](https://www.resumemaker.online/)
 
 ### Resume Editing
 
-- [Grammarly](https://www.grammarly.com/)
-- [JobScan](https://www.jobscan.co/)
-- [SkillSyncer](https://skillsyncer.com/)
-- [Top Resume](https://www.topresume.com/)
+- 🌐[Grammarly](https://www.grammarly.com/)
+- 🌐[JobScan](https://www.jobscan.co/)
+- 🌐[SkillSyncer](https://skillsyncer.com/)
+- 🌐[Top Resume](https://www.topresume.com/)
 
 ### Job Sites
 
@@ -846,23 +846,23 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### YouTube Series
 
-- [Get A Job Using LinkedIn - Danny Thompson](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk)
+- 🎥[Get A Job Using LinkedIn - Danny Thompson](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk)
 
 ### Articles
 
-- [5 things you need to know in a programming interview](https://www.freecodecamp.org/news/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b/amp/)
-- [Finding your first remote job - Joshua W. Cameau](https://joshwcomeau.com/career/remote-work-pt2/)
-- [How to Write a Developer Résumé Hiring Managers Will Actually Read](https://www.freecodecamp.org/news/how-to-write-a-resume-that-works/)
-- [How to Get a Software Engineer Job at Google and Other Top Tech Companies](https://www.freecodecamp.org/news/how-to-get-a-software-engineer-job-at-google-and-other-top-tech-companies-efa235a33a6d/)
-- [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
-- [How To Get A Programming Job Without A Degree](https://selftaught.blog/get-programming-job-without-degree/)
-- [How to Get a Remote Developer Job and Become a Digital Nomad](https://www.codementor.io/@npostolovski/how-to-get-a-remote-developer-job-and-become-a-digital-nomad-if04nmm1s)
-- [How To Get Your First Web Developer Job: The Ultimate Guide for Junior Developers](https://careerfoundry.com/en/blog/web-development/how-to-get-your-first-web-developer-job-the-ultimate-guide-for-junior-developers/#2-where-should-i-look-for-web-development-jobs)
-- [Resources that help me land a job at FANG](https://towardsdatascience.com/these-are-all-the-resources-that-help-me-land-a-fang-job-452341dd6bed)
-- [Tips to get a job as a Developer](https://dev.to/devpato/tips-to-get-a-job-as-a-developer-4ic3)
-- [The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/amp/)
-- [Want to Know How to Get a Remote Job? I Asked 30 Remote Companies - This is What They Said](https://www.freecodecamp.org/news/how-to-get-a-remote-job/)
-- [Why I studied full-time for 8 months for a Google interview](https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13/)
+- 📜[5 things you need to know in a programming interview](https://www.freecodecamp.org/news/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b/amp/)
+- 📜[Finding your first remote job - Joshua W. Cameau](https://joshwcomeau.com/career/remote-work-pt2/)
+- 📜[How to Write a Developer Résumé Hiring Managers Will Actually Read](https://www.freecodecamp.org/news/how-to-write-a-resume-that-works/)
+- 📜[How to Get a Software Engineer Job at Google and Other Top Tech Companies](https://www.freecodecamp.org/news/how-to-get-a-software-engineer-job-at-google-and-other-top-tech-companies-efa235a33a6d/)
+- 📜[How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+- 📜[How To Get A Programming Job Without A Degree](https://selftaught.blog/get-programming-job-without-degree/)
+- 📜[How to Get a Remote Developer Job and Become a Digital Nomad](https://www.codementor.io/@npostolovski/how-to-get-a-remote-developer-job-and-become-a-digital-nomad-if04nmm1s)
+- 📜[How To Get Your First Web Developer Job: The Ultimate Guide for Junior Developers](https://careerfoundry.com/en/blog/web-development/how-to-get-your-first-web-developer-job-the-ultimate-guide-for-junior-developers/#2-where-should-i-look-for-web-development-jobs)
+- 📜[Resources that help me land a job at FANG](https://towardsdatascience.com/these-are-all-the-resources-that-help-me-land-a-fang-job-452341dd6bed)
+- 📜[Tips to get a job as a Developer](https://dev.to/devpato/tips-to-get-a-job-as-a-developer-4ic3)
+- 📜[The 30-minute guide to rocking your next coding interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/amp/)
+- 📜[Want to Know How to Get a Remote Job? I Asked 30 Remote Companies - This is What They Said](https://www.freecodecamp.org/news/how-to-get-a-remote-job/)
+- 📜[Why I studied full-time for 8 months for a Google interview](https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13/)
 
 ## Newsletters
 
