@@ -86,19 +86,19 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Books
 
-- [HTML Notes for Pros](https://goalkicker.com/HTML5Book/HTML5NotesForProfessionals.pdf)
-- [Design and Build Websites 💵](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
-- [Head First HTML with CSS 💵](https://www.amazon.com/Head-First-HTML-CSS-XHTML/dp/059610197X)
-- [HTML5 Pocket Reference 💵](https://www.amazon.com/HTML5-Pocket-Reference-Comprehensive-Indispensable/dp/1449363350)
+- 📒[HTML Notes for Pros](https://goalkicker.com/HTML5Book/HTML5NotesForProfessionals.pdf)
+- 📒[Design and Build Websites 💵](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+- 📒[Head First HTML with CSS 💵](https://www.amazon.com/Head-First-HTML-CSS-XHTML/dp/059610197X)
+- 📒[HTML5 Pocket Reference 💵](https://www.amazon.com/HTML5-Pocket-Reference-Comprehensive-Indispensable/dp/1449363350)
 
 ### Courses
 
-- [HTML & CSS The Odin Project](https://www.theodinproject.com/courses/html-and-css)
-- [Introduction to HTML Scrimba](https://scrimba.com/learn/html)
-- [Introduction to Basic HTML & HTML5 FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
-- [HTML5 and CSS Fundemantals EDX](https://www.edx.org/course/html5-and-css-fundamentals)
-- [Learn HTML CodeCademy 💵](https://www.codecademy.com/learn/learn-html)
-- [Introduction to HTML and CSS Team Treehouse 💵](https://teamtreehouse.com/library/introduction-to-html-and-css)
+- 📝[HTML & CSS The Odin Project](https://www.theodinproject.com/courses/html-and-css)
+- 📝[Introduction to HTML Scrimba](https://scrimba.com/learn/html)
+- 📝[Introduction to Basic HTML & HTML5 FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+- 📝[HTML5 and CSS Fundemantals EDX](https://www.edx.org/course/html5-and-css-fundamentals)
+- 📝[Learn HTML CodeCademy 💵](https://www.codecademy.com/learn/learn-html)
+- 📝[Introduction to HTML and CSS Team Treehouse 💵](https://teamtreehouse.com/library/introduction-to-html-and-css)
 
 ### Websites
 
@@ -124,16 +124,16 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Books
 
-- [CSS Secrets 💵](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635)
-- [The CSS Pocket Guide 💵](https://www.amazon.com/CSS-Pocket-Guide-Peachpit/dp/0321732278)
-- [CSS: The Definitive Guide: Third Edition 💵](https://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330)
+- 📒[CSS Secrets 💵](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635)
+- 📒[The CSS Pocket Guide 💵](https://www.amazon.com/CSS-Pocket-Guide-Peachpit/dp/0321732278)
+- 📒[CSS: The Definitive Guide: Third Edition 💵](https://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330)
 
 ### Courses
 
-- [Introduction to CSS - Scrimba](https://scrimba.com/learn/introtocss)
-- [Introduction to Basic CSS - FreeCodeCamp ](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
-- [Learn CSS - CodeCademy💵](https://www.codecademy.com/learn/learn-css)
-- [CSS Basics - Team Treehouse 💵](https://teamtreehouse.com/library/css-basics)
+- 📝[Introduction to CSS - Scrimba](https://scrimba.com/learn/introtocss)
+- 📝[Introduction to Basic CSS - FreeCodeCamp ](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+- 📝[Learn CSS - CodeCademy💵](https://www.codecademy.com/learn/learn-css)
+- 📝[CSS Basics - Team Treehouse 💵](https://teamtreehouse.com/library/css-basics)
 
 ### Frameworks and Libraries
 
@@ -208,24 +208,24 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Courses
 
-- [Learn JavaScript - CodeCademy](https://www.codecademy.com/learn/introduction-to-javascript)
-- [Programming the Web with JavaScript - EDX ](https://www.edx.org/course/programming-for-the-web-with-javascript)
-- [JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
-- [JavaScript Tutorial - GeekforGeeks](https://www.geeksforgeeks.org/javascript-tutorial/)
-- [JavaScript30 - Wes Bos](https://javascript30.com/)
-- [The Complete JavaScript Course - Udemy💵 ](https://www.udemy.com/course/the-complete-javascript-course/)
+- 📝[Learn JavaScript - CodeCademy](https://www.codecademy.com/learn/introduction-to-javascript)
+- 📝[Programming the Web with JavaScript - EDX ](https://www.edx.org/course/programming-for-the-web-with-javascript)
+- 📝[JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+- 📝[JavaScript Tutorial - GeekforGeeks](https://www.geeksforgeeks.org/javascript-tutorial/)
+- 📝[JavaScript30 - Wes Bos](https://javascript30.com/)
+- 📝[The Complete JavaScript Course - Udemy💵 ](https://www.udemy.com/course/the-complete-javascript-course/)
 
 ### Books
 
-- [Eloquent JavaScript ](https://eloquentjavascript.net/)
-- [You Don't Know JavaScript ](https://github.com/getify/You-Dont-Know-JS)
-- [JavaScript Notes for Pros](https://books.goalkicker.com/JavaScriptBook/)
-- [JavaScript For Cats](http://jsforcats.com/)
-- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja)
-- [Speaking JavaScript](http://speakingjs.com/es5/index.html)
-- [JavaScripts The Good Parts💵](https://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596517742&linkCode=as2&tag=eldoradohills-20)
-- [JavaScrit and JQuery💵](http://javascriptbook.com/)
+- 📒[Eloquent JavaScript ](https://eloquentjavascript.net/)
+- 📒[You Don't Know JavaScript ](https://github.com/getify/You-Dont-Know-JS)
+- 📒[JavaScript Notes for Pros](https://books.goalkicker.com/JavaScriptBook/)
+- 📒[JavaScript For Cats](http://jsforcats.com/)
+- 📒[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- 📒[Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja)
+- 📒[Speaking JavaScript](http://speakingjs.com/es5/index.html)
+- 📒[JavaScripts The Good Parts💵](https://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596517742&linkCode=as2&tag=eldoradohills-20)
+- 📒[JavaScrit and JQuery💵](http://javascriptbook.com/)
 
 ### Challenge Websites
 
@@ -295,16 +295,16 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Courses
 
-- [A Guide to Git & Version Control](https://www.educative.io/courses/guide-to-git-and-version-control/)
-- [Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html)
-- [Learn Git ](https://www.codecademy.com/learn/learn-git)
-- [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/)
-- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git/)
-- [Getting Started with Git 💵](https://www.pluralsight.com/courses/getting-started-git/)
+- 📝[A Guide to Git & Version Control](https://www.educative.io/courses/guide-to-git-and-version-control/)
+- 📝[Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html)
+- 📝[Learn Git ](https://www.codecademy.com/learn/learn-git)
+- 📝[Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/)
+- 📝[Version Control with Git](https://www.coursera.org/learn/version-control-with-git/)
+- 📝[Getting Started with Git 💵](https://www.pluralsight.com/courses/getting-started-git/)
 
 ### Books
 
-- [Pro Git](https://git-scm.com/book/en/v2)
+- 📒[Pro Git](https://git-scm.com/book/en/v2)
 
 ### Tools
 
@@ -327,23 +327,23 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Courses
 
-- [The Beginner's Guide to React - Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react)
-- [Introduction to React - freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/react/)
-- [Introduction to React - FullStackOpen](https://fullstackopen.com/en/part1)
-- [React Getting Started - Pluralsight](https://www.pluralsight.com/courses/react-js-getting-started)
-- [Learn React - Scrimba](https://scrimba.com/course/glearnreact)
-- [React for Beginners - Wes Bos](https://reactforbeginners.com/)
-- [Epic React - Kent C. Dodds💵 ](https://epicreact.dev/)
+- 📝[The Beginner's Guide to React - Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- 📝[Introduction to React - freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+- 📝[Introduction to React - FullStackOpen](https://fullstackopen.com/en/part1)
+- 📝[React Getting Started - Pluralsight](https://www.pluralsight.com/courses/react-js-getting-started)
+- 📝[Learn React - Scrimba](https://scrimba.com/course/glearnreact)
+- 📝[React for Beginners - Wes Bos](https://reactforbeginners.com/)
+- 📝[Epic React - Kent C. Dodds💵 ](https://epicreact.dev/)
 
 ### Books
 
-- [Build Your Own React](https://pomb.us/build-your-own-react/)
-- [Pure React](https://daveceddia.com/pure-react/)
-- [React Explained](https://www.ostraining.com/books/react/)
-- [Under the hood ReactJS](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
-- [Fullstack React 💵](https://www.newline.co/fullstack-react/)
-- [React from Zero 💵](https://www.newline.co/react-from-zero/)
-- [Road to React 💵](https://www.roadtoreact.com/)
+- 📒[Build Your Own React](https://pomb.us/build-your-own-react/)
+- 📒[Pure React](https://daveceddia.com/pure-react/)
+- 📒[React Explained](https://www.ostraining.com/books/react/)
+- 📒[Under the hood ReactJS](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
+- 📒[Fullstack React 💵](https://www.newline.co/fullstack-react/)
+- 📒[React from Zero 💵](https://www.newline.co/react-from-zero/)
+- 📒[Road to React 💵](https://www.roadtoreact.com/)
 
 ### Project Ideas
 
@@ -352,8 +352,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Podcasts
 
-- [React Round Up](https://devchat.tv/react-round-up)
-- [The React Podcast](https://reactpodcast.com/)
+- 🎤[React Round Up](https://devchat.tv/react-round-up)
+- 🎤[The React Podcast](https://reactpodcast.com/)
 
 ### Blog Sites
 
@@ -429,15 +429,15 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Experts on Twitter
 
-- [Andrew Clark](https://twitter.com/acdlite)
-- [Brian Vaughn](https://twitter.com/brian_d_vaughn)
-- [Dan Abramov](https://twitter.com/dan_abramov)
-- [Kent C. Dodds](https://twitter.com/kentcdodds)
-- [Luna Ruan](https://twitter.com/lunaruan)
-- [Rachel Nabors](https://twitter.com/rachelnabors)
-- [Rick Hanlon](https://twitter.com/rickhanlonii)
-- [Sebastian Markbåge](https://twitter.com/sebmarkbage)
-- [Seth Webster](https://twitter.com/sethwebster)
+- 📱[Andrew Clark](https://twitter.com/acdlite)
+- 📱[Brian Vaughn](https://twitter.com/brian_d_vaughn)
+- 📱[Dan Abramov](https://twitter.com/dan_abramov)
+- 📱[Kent C. Dodds](https://twitter.com/kentcdodds)
+- 📱[Luna Ruan](https://twitter.com/lunaruan)
+- 📱[Rachel Nabors](https://twitter.com/rachelnabors)
+- 📱[Rick Hanlon](https://twitter.com/rickhanlonii)
+- 📱[Sebastian Markbåge](https://twitter.com/sebmarkbage)
+- 📱[Seth Webster](https://twitter.com/sethwebster)
 
 ### Conferences
 
@@ -466,15 +466,15 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Courses
 
-- [Learn Vue.js - Full Course for Beginners - freeCodeCamp](https://www.freecodecamp.org/news/vue-js-full-course/)
-- [Advanced Vue.js Features from the Ground Up - Frontend Masters](https://frontendmasters.com/courses/advanced-vue/)
-- [Learn Vue 2: Step By Step - Laracasts](https://laracasts.com/series/learn-vue-2-step-by-step)
-- [Getting Started with Vue.js - Scotch](https://scotch.io/courses/getting-started-with-vuejs?ref=home-start-here)
-- [Learn Vue by Building and Deploying a CRUD App - Testdriven](https://testdriven.io/courses/learn-vue/)
-- [Become a Ninja with Vue 3 - Vue-Exercises Ninja Squad](https://vue-exercises.ninja-squad.com)
-- [Intro to Vue 2 - Vuemastery](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
-- [Learn Vue - VueSchool💵](https://vueschool.io/)
-- [Premium Beginner to Advanced Vue Course - Vuemastery💵 ](https://www.vuemastery.com/courses)
+- 📝[Learn Vue.js - Full Course for Beginners - freeCodeCamp](https://www.freecodecamp.org/news/vue-js-full-course/)
+- 📝[Advanced Vue.js Features from the Ground Up - Frontend Masters](https://frontendmasters.com/courses/advanced-vue/)
+- 📝[Learn Vue 2: Step By Step - Laracasts](https://laracasts.com/series/learn-vue-2-step-by-step)
+- 📝[Getting Started with Vue.js - Scotch](https://scotch.io/courses/getting-started-with-vuejs?ref=home-start-here)
+- 📝[Learn Vue by Building and Deploying a CRUD App - Testdriven](https://testdriven.io/courses/learn-vue/)
+- 📝[Become a Ninja with Vue 3 - Vue-Exercises Ninja Squad](https://vue-exercises.ninja-squad.com)
+- 📝[Intro to Vue 2 - Vuemastery](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+- 📝[Learn Vue - VueSchool💵](https://vueschool.io/)
+- 📝[Premium Beginner to Advanced Vue Course - Vuemastery💵 ](https://www.vuemastery.com/courses)
 
 ### Project Ideas
 
@@ -482,28 +482,28 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Books
 
-- [Fullstack Vue 💵](https://www.fullstack.io/vue/)
-- [Full-Stack Web Development with Vue.js and Node 💵](https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144)
-- [Large Scale Apps with Vue 3 and TypeScript 💵](http://leanpub.com/vue-typescript/c/vaYXLEFWbMi7)
-- [Mastering Vue.js 💵](https://masteringvuejs.com)
-- [The Vue Handbook 💵](https://vuehandbook.com)
-- [The Mastery Of Vue.js 2 💵](https://leanpub.com/vuejs2)
-- [Testing Vue.js components with Jest 💵](https://leanpub.com/testingvuejscomponentswithjest)
-- [Vue.js: Understanding its Tools and Ecosystem 💵](https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem)
-- [Vue.js 2 Design Patterns and Best Practices 💵](https://www.amazon.com/dp/178883979X)
-- [Vue: Build & Deploy 💵](https://leanpub.com/vue-book)
-- [Vue.js: Up and Running 💵](http://shop.oreilly.com/product/0636920103455.do)
-- [Vue.js in Action 💵](https://www.manning.com/books/vue-js-in-action)
+- 📒[Fullstack Vue 💵](https://www.fullstack.io/vue/)
+- 📒[Full-Stack Web Development with Vue.js and Node 💵](https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144)
+- 📒[Large Scale Apps with Vue 3 and TypeScript 💵](http://leanpub.com/vue-typescript/c/vaYXLEFWbMi7)
+- 📒[Mastering Vue.js 💵](https://masteringvuejs.com)
+- 📒[The Vue Handbook 💵](https://vuehandbook.com)
+- 📒[The Mastery Of Vue.js 2 💵](https://leanpub.com/vuejs2)
+- 📒[Testing Vue.js components with Jest 💵](https://leanpub.com/testingvuejscomponentswithjest)
+- 📒[Vue.js: Understanding its Tools and Ecosystem 💵](https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem)
+- 📒[Vue.js 2 Design Patterns and Best Practices 💵](https://www.amazon.com/dp/178883979X)
+- 📒[Vue: Build & Deploy 💵](https://leanpub.com/vue-book)
+- 📒[Vue.js: Up and Running 💵](http://shop.oreilly.com/product/0636920103455.do)
+- 📒[Vue.js in Action 💵](https://www.manning.com/books/vue-js-in-action)
 
 ### Podcasts
 
-- [Cynical Developer Episode 99](https://cynicaldeveloper.com/podcast/99/)
-- [Enjoy the Vue](https://enjoythevue.io/)
-- [JavaScript Jabber Episode 276](https://devchat.tv/js-jabber/jsj-276-vue-js-with-maximilian-schwarzmuller/)
-- [Software Engineering Daily](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
-- [Syntax Episode 130](https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes)
-- [Vue News Podcast](https://news.vuejs.org/)
-- [Views on Vue](https://devchat.tv/views-on-vue)
+- 🎤[Cynical Developer Episode 99](https://cynicaldeveloper.com/podcast/99/)
+- 🎤[Enjoy the Vue](https://enjoythevue.io/)
+- 🎤[JavaScript Jabber Episode 276](https://devchat.tv/js-jabber/jsj-276-vue-js-with-maximilian-schwarzmuller/)
+- 🎤[Software Engineering Daily](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
+- 🎤[Syntax Episode 130](https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes)
+- 🎤[Vue News Podcast](https://news.vuejs.org/)
+- 🎤[Views on Vue](https://devchat.tv/views-on-vue)
 
 ### Youtube Channels
 
@@ -732,39 +732,39 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ## Podcasts
 
-- [codeNewbies](https://www.codenewbie.org/podcast)
-- [Commit Your Code](https://anchor.fm/commityourcode)
-- [Codepen Radio](https://blog.codepen.io/radio/)
-- [DevDiscuss](https://dev.to/devdiscuss)
-- [freeCodeCamp](https://freecodecamp.libsyn.com/)
-- [Frontend Happy Hour](https://frontendhappyhour.com/)
-- [Fullstack Radio](https://fullstackradio.com/)
-- [JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/)
-- [Ladybug Podcast](https://www.ladybug.dev/)
-- [Modern Web](https://www.thisdot.co/modern-web)
-- [Syntax](https://syntax.fm/)
-- [The Changelog](https://changelog.com/)
+- 🎤[codeNewbies](https://www.codenewbie.org/podcast)
+- 🎤[Commit Your Code](https://anchor.fm/commityourcode)
+- 🎤[Codepen Radio](https://blog.codepen.io/radio/)
+- 🎤[DevDiscuss](https://dev.to/devdiscuss)
+- 🎤[freeCodeCamp](https://freecodecamp.libsyn.com/)
+- 🎤[Frontend Happy Hour](https://frontendhappyhour.com/)
+- 🎤[Fullstack Radio](https://fullstackradio.com/)
+- 🎤[JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/)
+- 🎤[Ladybug Podcast](https://www.ladybug.dev/)
+- 🎤[Modern Web](https://www.thisdot.co/modern-web)
+- 🎤[Syntax](https://syntax.fm/)
+- 🎤[The Changelog](https://changelog.com/)
 
 [👆 Back To Top](#table-of-contents)
 
 ## Blogs
 
-- [Codrops](https://tympanus.net/codrops/)
-- [CSS-Tricks](https://www.css-tricks.com/)
-- [Dev.to](https://dev.to/)
-- [Echo.Js](https://www.echojs.com/)
-- [freeCodeCamp](https://freecodecamp.org/news)
-- [Front End Front](https://frontendfront.com/)
-- [Frontend Focus](https://frontendfoc.us/)
-- [Hacker News](https://news.ycombinator.com/)
-- [Hackernoon](http://hackernoon.com/)
-- [Hashnode](https://hashnode.com/)
-- [Medium](https://medium.com/)
-- [Stackoverflow](http://stackoverflow.com/)
-- [SitePoint](http://www.sitepoint.com/)
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [Scotch](https://scotch.io/)
-- [Web Designer Depot](http://www.webdesignerdepot.com/)
+- ✍[Codrops](https://tympanus.net/codrops/)
+- ✍[CSS-Tricks](https://www.css-tricks.com/)
+- ✍[Dev.to](https://dev.to/)
+- ✍[Echo.Js](https://www.echojs.com/)
+- ✍[freeCodeCamp](https://freecodecamp.org/news)
+- ✍[Front End Front](https://frontendfront.com/)
+- ✍[Frontend Focus](https://frontendfoc.us/)
+- ✍[Hacker News](https://news.ycombinator.com/)
+- ✍[Hackernoon](http://hackernoon.com/)
+- ✍[Hashnode](https://hashnode.com/)
+- ✍[Medium](https://medium.com/)
+- ✍[Stackoverflow](http://stackoverflow.com/)
+- ✍[SitePoint](http://www.sitepoint.com/)
+- ✍[Smashing Magazine](https://www.smashingmagazine.com/)
+- ✍[Scotch](https://scotch.io/)
+- ✍[Web Designer Depot](http://www.webdesignerdepot.com/)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -789,60 +789,60 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Job Sites
 
-- [Angel List](https://angel.co/jobs)
-- [Arc.dev - Remote Developer Jobs](https://arc.dev/)
-- [Find Remote Jobs](https://frontendremotejobs.com/)
-- [Github Jobs](https://jobs.github.com/)
-- [JavaScript Job](https://javascriptjob.xyz/)
-- [JustRemote](https://justremote.co/remote-developer-jobs)
-- [Jobspresso](https://jobspresso.co/remote-work/)
-- [JSRemotely](https://jsremotely.com/)
-- [Jr Dev Jobs](http://jrdevjobs.com/)
-- [Mashable Job Board](https://jobs.mashable.com/)
-- [Outsourcely](https://www.outsourcely.com/)
-- [Powertofly Jobs](https://powertofly.com/jobs/?location=Remote)
-- [Producthunt Jobs](https://www.producthunt.com/jobs?categories=Engineering&remote_ok=true)
-- [React Jobs Board](https://reactjobsboard.com/c/remote-react-jobs)
-- [Remoters](https://remoters.net/jobs/)
-- [Remote Hub](https://remotehub.io/)
-- [Remote Hunt](https://remotehunt.com/remote-jobs)
-- [Remoteco](https://remote.co/remote-jobs/developer/)
-- [Stackoverflow Jobs](https://stackoverflow.com/jobs)
-- [Startupers](https://www.startupers.com/)
-- [We Work Remotely](https://weworkremotely.com/remote-jobs/)
-- [Women Who Code](http://womenwhocode.com/jobs)
-- [Working Nomads](https://www.workingnomads.co/remote-development-jobs)
-- [YC Startup Jobs](https://www.workatastartup.com/)
-- [Circular](https://trycircular.com)
-- [Honeypot](https://honeypot.io)
+- 🌐[Angel List](https://angel.co/jobs)
+- 🌐[Arc.dev - Remote Developer Jobs](https://arc.dev/)
+- 🌐[Find Remote Jobs](https://frontendremotejobs.com/)
+- 🌐[Github Jobs](https://jobs.github.com/)
+- 🌐[JavaScript Job](https://javascriptjob.xyz/)
+- 🌐[JustRemote](https://justremote.co/remote-developer-jobs)
+- 🌐[Jobspresso](https://jobspresso.co/remote-work/)
+- 🌐[JSRemotely](https://jsremotely.com/)
+- 🌐[Jr Dev Jobs](http://jrdevjobs.com/)
+- 🌐[Mashable Job Board](https://jobs.mashable.com/)
+- 🌐[Outsourcely](https://www.outsourcely.com/)
+- 🌐[Powertofly Jobs](https://powertofly.com/jobs/?location=Remote)
+- 🌐[Producthunt Jobs](https://www.producthunt.com/jobs?categories=Engineering&remote_ok=true)
+- 🌐[React Jobs Board](https://reactjobsboard.com/c/remote-react-jobs)
+- 🌐[Remoters](https://remoters.net/jobs/)
+- 🌐[Remote Hub](https://remotehub.io/)
+- 🌐[Remote Hunt](https://remotehunt.com/remote-jobs)
+- 🌐[Remoteco](https://remote.co/remote-jobs/developer/)
+- 🌐[Stackoverflow Jobs](https://stackoverflow.com/jobs)
+- 🌐[Startupers](https://www.startupers.com/)
+- 🌐[We Work Remotely](https://weworkremotely.com/remote-jobs/)
+- 🌐[Women Who Code](http://womenwhocode.com/jobs)
+- 🌐[Working Nomads](https://www.workingnomads.co/remote-development-jobs)
+- 🌐[YC Startup Jobs](https://www.workatastartup.com/)
+- 🌐[Circular](https://trycircular.com)
+- 🌐[Honeypot](https://honeypot.io)
 
 ### Freelance Jobs Sites
 
-- [Codementor](https://www.codementor.io/)
-- [Freelancer](https://www.freelancer.com/)
-- [FlexJobs](https://www.flexjobs.com/)
-- [FreelancerMap](https://www.freelancermap.com/)
-- [Gun.io](https://www.gun.io/)
-- [Guru](https://www.guru.com/d/jobs/)
-- [People Per Hour](https://www.peopleperhour.com/)
-- [Upwork](https://www.upwork.com/)
+- 🌐[Codementor](https://www.codementor.io/)
+- 🌐[Freelancer](https://www.freelancer.com/)
+- 🌐[FlexJobs](https://www.flexjobs.com/)
+- 🌐[FreelancerMap](https://www.freelancermap.com/)
+- 🌐[Gun.io](https://www.gun.io/)
+- 🌐[Guru](https://www.guru.com/d/jobs/)
+- 🌐[People Per Hour](https://www.peopleperhour.com/)
+- 🌐[Upwork](https://www.upwork.com/)
 
 ### Mock Interviews
 
-- [Interviewing.io](https://interviewing.io/)
-- [Pramp](https://www.pramp.com/)
+- 🌐[Interviewing.io](https://interviewing.io/)
+- 🌐[Pramp](https://www.pramp.com/)
 
 ### Project Pair Programming
 
-- [Chingu](https://chingu.io/)
+- 🌐[Chingu](https://chingu.io/)
 
 ### Open Source
 
-- [Github Explore](https://github.com/explore)
-- [First Contributions](https://firstcontributions.github.io/)
-- [Good First Issue](https://goodfirstissue.dev/language/javascript)
-- [Good First Issues](https://goodfirstissues.com/)
-- [Open Source Fridays](https://opensourcefriday.com/)
+- 🌐[Github Explore](https://github.com/explore)
+- 🌐[First Contributions](https://firstcontributions.github.io/)
+- 🌐[Good First Issue](https://goodfirstissue.dev/language/javascript)
+- 🌐[Good First Issues](https://goodfirstissues.com/)
+- 🌐[Open Source Fridays](https://opensourcefriday.com/)
 
 ### YouTube Series
 
@@ -866,12 +866,12 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ## Newsletters
 
-- [CSS-Tricks](https://css-tricks.com/newsletters/)
-- [CSS Weekly](https://css-weekly.com/)
-- [FrontEnd Focus](https://frontendfoc.us/)
-- [JavaScript Weekly](https://javascriptweekly.com/)
-- [Responsive Design Weekly](https://responsivedesign.is/newsletter/)
-- [Smashing News Letter](https://www.smashingmagazine.com/the-smashing-newsletter/)
+- 🌐[CSS-Tricks](https://css-tricks.com/newsletters/)
+- 🌐[CSS Weekly](https://css-weekly.com/)
+- 🌐[FrontEnd Focus](https://frontendfoc.us/)
+- 🌐[JavaScript Weekly](https://javascriptweekly.com/)
+- 🌐[Responsive Design Weekly](https://responsivedesign.is/newsletter/)
+- 🌐[Smashing News Letter](https://www.smashingmagazine.com/the-smashing-newsletter/)
 
 [👆 Back To Top](#table-of-contents)
 
