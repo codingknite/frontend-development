@@ -91,6 +91,16 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "chinchang",
+      "name": "Kushagra Gour",
+      "avatar_url": "https://avatars.githubusercontent.com/u/379918?v=4",
+      "profile": "https://cssbattle.dev/",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
