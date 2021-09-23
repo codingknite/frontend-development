@@ -101,6 +101,15 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "nathsimpson",
+      "name": "Nathan Simpson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12689383?v=4",
+      "profile": "https://github.com/nathsimpson",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7

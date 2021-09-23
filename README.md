@@ -901,6 +901,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://binyam.in/"><img src="https://avatars.githubusercontent.com/u/39805353?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Binyamin Aron Green</b></sub></a><br /><a href="#content-binyamin" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=binyamin" title="Documentation">📖</a></td>
     <td align="center"><a href="https://cssbattle.dev/"><img src="https://avatars.githubusercontent.com/u/379918?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kushagra Gour</b></sub></a><br /><a href="#content-chinchang" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=chinchang" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/nathsimpson"><img src="https://avatars.githubusercontent.com/u/12689383?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nathan Simpson</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=nathsimpson" title="Documentation">📖</a></td>
   </tr>
 </table>
 
