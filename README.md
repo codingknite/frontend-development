@@ -892,6 +892,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://codingknite.com/"><img src="https://avatars.githubusercontent.com/u/70036189?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joel P. Mugalu</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=codingknite" title="Documentation">📖</a> <a href="#content-codingknite" title="Content">🖋</a> <a href="#maintenance-codingknite" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/ChinmayMhatre"><img src="https://avatars.githubusercontent.com/u/51131670?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chinmay Mhatre</b></sub></a><br /><a href="#content-ChinmayMhatre" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=ChinmayMhatre" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://twitter.com/nghuuphuoc"><img src="https://avatars.githubusercontent.com/u/57786711?v=4?s=100" width="100px;" alt=""/><br /><sub><b>phuoc-ng</b></sub></a><br /><a href="#content-phuoc-ng" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=phuoc-ng" title="Documentation">📖</a></td>
   </tr>
 </table>
 
