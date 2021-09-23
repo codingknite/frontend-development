@@ -29,16 +29,12 @@ And that's it. Well, almost.
 Please be sure to keep the following in mind before adding a new resource:
 
 - Make sure you indicate whether the resource is a paid resource. Do that by adding 💵 at the end of the resource name.
-- If your resource is a course, please indicate the platform or instructor of the course before it's name.
+- If your resource is a course, article or piece of documentation, please indicate the platform or instructor of the resource.
 
-  `course platform / intructor - [course name](course link)`
+  `- [Resource — Instructor/Author/Platform](resource link)`
 
-  The same applies if your resource is a documentation.
-
-- Do not provide descriptions unless indicated or done with other resources on the repo.
-- We accept all resources but most favourably resources that you've used before or you know are of exceptional quality.
-- If you would like to add a new category, open an issue to inform the contributor before hand.
-- Make sure your resource doesn't exist in the repo before making your contribution
+- Please share resources that you've used or know are of exceptional quality as many beginners use this repo.
+- Please double check to make sure your resource doesn't already exist in the repo before making your contribution
 - Double check to make sure the link to your resource is working.
 
 And that's it.
