@@ -17,6 +17,18 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/70036189?v=4",
       "profile": "https://codingknite.com/",
       "contributions": [
+        "doc",
+        "content",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "ChinmayMhatre",
+      "name": "Chinmay Mhatre",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51131670?v=4",
+      "profile": "https://github.com/ChinmayMhatre",
+      "contributions": [
+        "content",
         "doc"
       ]
     }
