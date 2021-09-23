@@ -903,6 +903,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://cssbattle.dev/"><img src="https://avatars.githubusercontent.com/u/379918?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kushagra Gour</b></sub></a><br /><a href="#content-chinchang" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=chinchang" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/nathsimpson"><img src="https://avatars.githubusercontent.com/u/12689383?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nathan Simpson</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=nathsimpson" title="Documentation">📖</a></td>
     <td align="center"><a href="https://mintbean.io/"><img src="https://avatars.githubusercontent.com/u/4856944?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Monarch Wadia</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=monarchwadia" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://medium.com/@qjli"><img src="https://avatars.githubusercontent.com/u/75322?v=4?s=100" width="100px;" alt=""/><br /><sub><b>QJ Li</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=qjnz" title="Documentation">📖</a></td>
   </tr>
 </table>
 
