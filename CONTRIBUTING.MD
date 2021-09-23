@@ -44,3 +44,23 @@ Please be sure to keep the following in mind before adding a new resource:
 And that's it.
 
 Thanks for making this repo better for everyone.❤
+
+# Adding Contributors
+
+At the end of the README, we add everyone who contributed to the repo. After making your contribution, run the following command in your terminal to add yourself.
+
+```shell
+yarn contributors:add <github-username> <contributtion-type>
+```
+
+Replace `<github-username>` with your github username.
+
+Replace `<contribution-type>` with the type of contribution you made. Use [this list](https://allcontributors.org/docs/en/emoji-key) for a reference of several types. Most commonly used are `doc` and `content`.
+
+Separate with commas if you're adding more than one.
+
+#### Example
+
+```shell
+yarn contributors:add codingknite doc,content
+```
