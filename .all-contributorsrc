@@ -1,0 +1,25 @@
+{
+  "projectName": "frontend-development",
+  "projectOwner": "codingknite",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md",
+    "CONTRIBUTING.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "codingknite",
+      "name": "Joel P. Mugalu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70036189?v=4",
+      "profile": "https://codingknite.com/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
