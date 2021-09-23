@@ -41,6 +41,16 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "gragland",
+      "name": "Gabe Ragland",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1481077?v=4",
+      "profile": "https://divjoy.com/",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
