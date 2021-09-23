@@ -898,6 +898,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/AlexNodex"><img src="https://avatars.githubusercontent.com/u/17162626?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AlexNodex</b></sub></a><br /><a href="#content-AlexNodex" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=AlexNodex" title="Documentation">📖</a></td>
     <td align="center"><a href="https://arun.app/"><img src="https://avatars.githubusercontent.com/u/22396000?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arun</b></sub></a><br /><a href="#content-h7y" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=h7y" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://binyam.in/"><img src="https://avatars.githubusercontent.com/u/39805353?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Binyamin Aron Green</b></sub></a><br /><a href="#content-binyamin" title="Content">🖋</a> <a href="https://github.com/codingknite/frontend-development/commits?author=binyamin" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
