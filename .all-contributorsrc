@@ -51,6 +51,16 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "i786m",
+      "name": "Imran Mohamed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71926855?v=4",
+      "profile": "https://www.imranbmohamed.com/",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
