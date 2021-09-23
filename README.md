@@ -909,6 +909,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://zoranjambor.com/"><img src="https://avatars.githubusercontent.com/u/515906?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zoran Jambor</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=ZoranJambor" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/jenniferfu0811"><img src="https://avatars.githubusercontent.com/u/25816882?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jenniferfu0811</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=jenniferfu0811" title="Documentation">📖</a></td>
   </tr>
 </table>
 
