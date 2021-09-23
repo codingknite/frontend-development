@@ -71,6 +71,16 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "h7y",
+      "name": "Arun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22396000?v=4",
+      "profile": "https://arun.app/",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
