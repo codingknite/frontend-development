@@ -907,6 +907,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://sayemon10.github.io/"><img src="https://avatars.githubusercontent.com/u/35277447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>S. M. Abdul Aziz</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=sayemon10" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/xerosic"><img src="https://avatars.githubusercontent.com/u/42121005?v=4?s=100" width="100px;" alt=""/><br /><sub><b>xerosic</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=xerosic" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://zoranjambor.com/"><img src="https://avatars.githubusercontent.com/u/515906?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zoran Jambor</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=ZoranJambor" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->

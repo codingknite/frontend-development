@@ -146,6 +146,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ZoranJambor",
+      "name": "Zoran Jambor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/515906?v=4",
+      "profile": "https://zoranjambor.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
