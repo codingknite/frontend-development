@@ -1,0 +1,24 @@
+{
+  "name": "frontend-development",
+  "version": "1.0.0",
+  "description": "![Banner](/img/Banner.jpg 'Banner')",
+  "main": "index.js",
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributtors:generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingknite/frontend-development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingknite/frontend-development/issues"
+  },
+  "homepage": "https://github.com/codingknite/frontend-development#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^6.20.0"
+  }
+}
