@@ -193,7 +193,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[**Responsinator** - Check the responsiveness of a site across different devices.](https://www.responsinator.com/)
 - 🌐[**Responsive Grid System** - Quick flexible and easy fluid grid for easy responsive web design.](http://www.responsivegridsystem.com/)
 - 🌐[**Beautiful CSS box-shadow examples** - A curated collection of 90+ free beautiful box-shadow, click to copy.](https://getcssscan.com/css-box-shadow-examples)
-- 🌐[**Beautiful CSS bouttons examples** - A curated collection of 80+ free beautiful buttons, click to copy.](https://getcssscan.com/css-buttons-examples)
+- 🌐[**Beautiful CSS buttons examples** - A curated collection of 80+ free beautiful buttons, click to copy.](https://getcssscan.com/css-buttons-examples)
 
 [👆 Back To Top](#table-of-contents)
 
