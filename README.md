@@ -192,6 +192,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[**Flexbox Froggy** - Learn CSS Flexbox through a game](https://flexboxfroggy.com/)
 - 🌐[**Responsinator** - Check the responsiveness of a site across different devices.](https://www.responsinator.com/)
 - 🌐[**Responsive Grid System** - Quick flexible and easy fluid grid for easy responsive web design.](http://www.responsivegridsystem.com/)
+- 🌐[**Beautiful CSS box-shadow examples** - A curated collection of 90+ free beautiful box-shadow, click to copy.](https://getcssscan.com/css-box-shadow-examples)
+- 🌐[**Beautiful CSS buttons examples** - A curated collection of 80+ free beautiful buttons, click to copy.](https://getcssscan.com/css-buttons-examples)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -910,6 +912,7 @@ Thanks goes to these wonderful people
   <tr>
     <td align="center"><a href="https://zoranjambor.com/"><img src="https://avatars.githubusercontent.com/u/515906?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zoran Jambor</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=ZoranJambor" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/jenniferfu0811"><img src="https://avatars.githubusercontent.com/u/25816882?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jenniferfu0811</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=jenniferfu0811" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://twitter.com/gvrizzo"><img src="https://avatars.githubusercontent.com/u/7696343?v=4&s=100" width="100px;" alt=""/><br /><sub><b>gvrizzo</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=guivr" title="Documentation">📖</a></td>
   </tr>
 </table>
 
