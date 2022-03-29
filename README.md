@@ -114,7 +114,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Documentation
 
-- 📜[Learn to style HTML using CSS - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- 📜[Learn to style HTML using CSS - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)\
+- 📜[CSS Tutorial](https://www.scaler.com/topics/css/)
 
 ### Cheat Sheets
 
