@@ -216,6 +216,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📝[JavaScript Tutorial - GeekforGeeks](https://www.geeksforgeeks.org/javascript-tutorial/)
 - 📝[JavaScript30 - Wes Bos](https://javascript30.com/)
 - 📝[The Complete JavaScript Course - Udemy💵 ](https://www.udemy.com/course/the-complete-javascript-course/)
+- 📝[Learn Javascript From Scratch - Scaler](https://www.scaler.com/topics/javascript/)  
 
 ### Books
 
