@@ -207,6 +207,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - 📜[JavaScript Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 - 📜[JavaScript Cheat Sheet - OverAPI](https://overapi.com/javascript)
+- 📜[JavaScript book - Eloquent Js] (https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf) 
 
 ### Courses
 
