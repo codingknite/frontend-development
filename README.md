@@ -363,6 +363,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[Official React Blog ](https://reactjs.org/blog/)
 - 🌐[Kent C. Dodds' Blog ](https://blog.kentcdodds.com/)
 - 🌐[useHooks Blog](https://usehooks.com/)
+- 🌐[Hashnode Blog](https://loki11.hashnode.dev/reactjs)
 
 ### Youtube Channels
 
