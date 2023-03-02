@@ -127,6 +127,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📒[CSS Secrets 💵](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635)
 - 📒[The CSS Pocket Guide 💵](https://www.amazon.com/CSS-Pocket-Guide-Peachpit/dp/0321732278)
 - 📒[CSS: The Definitive Guide: Third Edition 💵](https://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330)
+- 📒[Tiny CSS Projects 💵](https://www.manning.com/books/tiny-css-projects)
 
 ### Courses
 
