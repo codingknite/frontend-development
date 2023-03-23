@@ -348,6 +348,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📒[Fullstack React 💵](https://www.newline.co/fullstack-react/)
 - 📒[React from Zero 💵](https://www.newline.co/react-from-zero/)
 - 📒[Road to React 💵](https://www.roadtoreact.com/)
+- 📒[Build a Frontend Web Framework (From Scratch) 💵](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch)
 
 ### Project Ideas
 
