@@ -99,7 +99,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📝[HTML5 and CSS Fundemantals EDX](https://www.edx.org/course/html5-and-css-fundamentals)
 - 📝[Learn HTML CodeCademy 💵](https://www.codecademy.com/learn/learn-html)
 - 📝[Introduction to HTML and CSS Team Treehouse 💵](https://teamtreehouse.com/library/introduction-to-html-and-css)
-
+- 📝[Learn HTML in Detail](https://www.scaler.com/topics/html/)
 ### Websites
 
 - 🌐[HTML5 Doctor - A great reference for HTML Elements](http://html5doctor.com/)
