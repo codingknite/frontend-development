@@ -26,25 +26,26 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 2. [**HTML**](#html)
 3. [**CSS**](#css)
 4. [**JavaScript**](#javascript)
-5. [**Git**](#git)
-6. [**React**](#react)
-7. [**Vue**](#vue)
-8. [**Browser Extensions**](#browser-extensions)
-9. [**Icons**](#icons)
-10. [**Fonts and Typography**](#fonts-and-typography)
-11. [**Illustrations**](#illustrations)
-12. [**Optimization**](#optimization)
-13. [**Color Inspiration**](#color-inspiration)
-14. [**Images and Videos**](#images-and-videos)
-15. [**Hosting Sites**](#hosting-sites)
-16. [**Design Inspiration**](#design-inspiration)
-17. [**Portfolio Inspiration**](#portfolio-inspiration)
-18. [**Youtube Channels**](#youtube-channels)
-19. [**Podcasts**](#podcasts)
-20. [**Blogs**](#blogs)
-21. [**Interview Prep**](#interview-prep)
-22. [**Newsletters**](#newsletters)
-23. [**Contributing**](#contributing)
+5. [**TypeScript**](#typescript)
+6. [**Git**](#git)
+7. [**React**](#react)
+8. [**Vue**](#vue)
+9. [**Browser Extensions**](#browser-extensions)
+10. [**Icons**](#icons)
+11. [**Fonts and Typography**](#fonts-and-typography)
+12. [**Illustrations**](#illustrations)
+13. [**Optimization**](#optimization)
+14. [**Color Inspiration**](#color-inspiration)
+15. [**Images and Videos**](#images-and-videos)
+16. [**Hosting Sites**](#hosting-sites)
+17. [**Design Inspiration**](#design-inspiration)
+18. [**Portfolio Inspiration**](#portfolio-inspiration)
+19. [**Youtube Channels**](#youtube-channels)
+20. [**Podcasts**](#podcasts)
+21. [**Blogs**](#blogs)
+22. [**Interview Prep**](#interview-prep)
+23. [**Newsletters**](#newsletters)
+24. [**Contributing**](#contributing)
 
 ## How the Internet Works
 
@@ -230,6 +231,16 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📒[Speaking JavaScript](http://speakingjs.com/es5/index.html)
 - 📒[JavaScripts The Good Parts💵](https://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596517742&linkCode=as2&tag=eldoradohills-20)
 - 📒[JavaScrit and JQuery💵](http://javascriptbook.com/)
+
+## TypeScript
+
+### Documentation
+
+- 📜[TypeScript Documentation](https://www.typescriptlang.org/docs/)
+
+### Books
+
+- 📒[The Concise TypeScript Book](https://github.com/gibbok/typescript-book/)
 
 ### Challenge Websites
 
