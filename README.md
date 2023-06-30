@@ -917,7 +917,7 @@ Thanks goes to these wonderful people
   <tr>
     <td align="center"><a href="https://zoranjambor.com/"><img src="https://avatars.githubusercontent.com/u/515906?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zoran Jambor</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=ZoranJambor" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/jenniferfu0811"><img src="https://avatars.githubusercontent.com/u/25816882?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jenniferfu0811</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=jenniferfu0811" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://twitter.com/gvrizzo"><img src="https://avatars.githubusercontent.com/u/7696343?v=4&s=100" width="100px;" alt=""/><br /><sub><b>gvrizzo</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=guivr" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/devjhex"><img src="https://avatars.githubusercontent.com/u/124887722?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jonah Ssegawa</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=devjhex" title="Documentation">📖</a></td>
   </tr>
 </table>
 
