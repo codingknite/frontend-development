@@ -12,7 +12,7 @@ Resources labelled with 💵 indicate that the resource is a paid resource.
 
 If you're just starting, you DON'T need to use every resource on this list. It is practically impossible. Use this as a reference. It is not a guide.
 
-## Contibuting
+## Contributing
 
 We Invite as many contributions as possible.
 
