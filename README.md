@@ -310,6 +310,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 ### Books
 
 - 📒[Pro Git](https://git-scm.com/book/en/v2)
+- 📒[Git Notes for Professionals](https://books.goalkicker.com/GitBook/)
 
 ### Tools
 
