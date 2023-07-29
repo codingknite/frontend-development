@@ -128,6 +128,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📒[The CSS Pocket Guide 💵](https://www.amazon.com/CSS-Pocket-Guide-Peachpit/dp/0321732278)
 - 📒[CSS: The Definitive Guide: Third Edition 💵](https://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330)
 - 📒[Tiny CSS Projects 💵](https://www.manning.com/books/tiny-css-projects)
+- 📒[CSS Notes for Professionals](https://books.goalkicker.com/CSSBook/)
 
 ### Courses
 
@@ -309,6 +310,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 ### Books
 
 - 📒[Pro Git](https://git-scm.com/book/en/v2)
+- 📒[Git Notes for Professionals](https://books.goalkicker.com/GitBook/)
 
 ### Tools
 
