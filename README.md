@@ -28,23 +28,24 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 4. [**JavaScript**](#javascript)
 5. [**Git**](#git)
 6. [**React**](#react)
-7. [**Vue**](#vue)
-8. [**Browser Extensions**](#browser-extensions)
-9. [**Icons**](#icons)
-10. [**Fonts and Typography**](#fonts-and-typography)
-11. [**Illustrations**](#illustrations)
-12. [**Optimization**](#optimization)
-13. [**Color Inspiration**](#color-inspiration)
-14. [**Images and Videos**](#images-and-videos)
-15. [**Hosting Sites**](#hosting-sites)
-16. [**Design Inspiration**](#design-inspiration)
-17. [**Portfolio Inspiration**](#portfolio-inspiration)
-18. [**Youtube Channels**](#youtube-channels)
-19. [**Podcasts**](#podcasts)
-20. [**Blogs**](#blogs)
-21. [**Interview Prep**](#interview-prep)
-22. [**Newsletters**](#newsletters)
-23. [**Contributing**](#contributing)
+7. [**Angular**](#angular)
+8. [**Vue**](#vue)
+9. [**Browser Extensions**](#browser-extensions)
+10. [**Icons**](#icons)
+11. [**Fonts and Typography**](#fonts-and-typography)
+12. [**Illustrations**](#illustrations)
+13. [**Optimization**](#optimization)
+14. [**Color Inspiration**](#color-inspiration)
+15. [**Images and Videos**](#images-and-videos)
+16. [**Hosting Sites**](#hosting-sites)
+17. [**Design Inspiration**](#design-inspiration)
+18. [**Portfolio Inspiration**](#portfolio-inspiration)
+19. [**Youtube Channels**](#youtube-channels)
+20. [**Podcasts**](#podcasts)
+21. [**Blogs**](#blogs)
+22. [**Interview Prep**](#interview-prep)
+23. [**Newsletters**](#newsletters)
+24. [**Contributing**](#contributing)
 
 ## How the Internet Works
 
@@ -459,6 +460,69 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[Reactiflux](https://www.reactiflux.com/)
 - 🌐[Reddit](https://www.reddit.com/r/reactjs/)
 - 🌐[React Spectrum](https://spectrum.chat/react)
+
+[👆 Back To Top](#table-of-contents)
+
+## Angular
+
+### Documentation
+
+- 📜[Angular Official Docs](https://angular.io/docs)
+
+### Cheat Sheets
+
+- 📜[Angular Official Cheatsheet](https://angular.io/guide/cheatsheet)
+- 📜[Zero To Mastery](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
+
+### Courses
+
+- 📝[Angular - The Complete Guide (2023 Edition) - Udemy💵](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+- 📝[Angular Core Deep Dive - Beginner to Advanced (Angular 16) - Udemy💵](https://www.udemy.com/course/angular-course/)
+- 📝[Angular Universal In Depth (Angular 16) - Udemy💵](https://www.udemy.com/course/angular-universal-course/)
+
+### Blog Sites
+
+- 🌐[Angular Blog](https://blog.angular.io/)
+- 🌐[Angular In Depth](https://indepth.dev/angular)
+- 🌐[Angular University](https://blog.angular-university.io/)
+
+### Youtube Channels & Playlists
+
+- 🎥[Angular Official](https://www.youtube.com/@Angular)
+- 🎥[Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A)
+
+### Angular Tooling
+
+- 🌐[Angular CLI](https://cli.angular.io/)
+- 🌐[Nx](https://nx.dev/getting-started/intro)
+
+### State Management
+
+- 🌐[NGRX](https://ngrx.io/)
+- 🌐[NGXS](https://ngxs.io/)
+- 🌐[Elf](https://ngneat.github.io/elf/)
+
+### UI Frameworks & Libraries
+
+- 🌐[Angular Material](https://material.angular.io/)
+- 🌐[NG Bootstrap](https://ng-bootstrap.github.io/#/home)
+- 🌐[NG Zorro (Ant Design)](https://ng.ant.design/docs/introduce/en)
+
+### Angular Experts
+
+- 📱[Minko Gechev](https://twitter.com/mgechev)
+- 📱[Santosh Yadav](https://twitter.com/santoshyadavdev)
+- 📱[Stephen Fluin](https://twitter.com/stephenfluin)
+
+### Conferences
+
+- 🌐[ng-conf](https://www.ng-conf.org/)
+- 🌐[ngVikings](https://ngvikings.org/)
+
+### Community
+
+- 🌐[Angular Forum - Dev.to](https://dev.to/t/angular)
+- 🌐[Angular Reddit](https://www.reddit.com/r/Angular2/)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -920,6 +984,7 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://zoranjambor.com/"><img src="https://avatars.githubusercontent.com/u/515906?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zoran Jambor</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=ZoranJambor" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/jenniferfu0811"><img src="https://avatars.githubusercontent.com/u/25816882?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jenniferfu0811</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=jenniferfu0811" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/devjhex"><img src="https://avatars.githubusercontent.com/u/124887722?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jonah Ssegawa</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=devjhex" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Aru-Ku"><img src="https://avatars.githubusercontent.com/u/47110396?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ArunKumar Nadikattu</b></sub></a><br /><a href="https://github.com/codingknite/frontend-development/commits?author=Aru-Ku" title="Documentation">📖</a> <a href="#content-Aru-Ku" title="Content">🖋</a></td>
   </tr>
 </table>
 
