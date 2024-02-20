@@ -78,7 +78,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - 📜[OverAPI](https://overapi.com/html)
 - 📜[HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
-- 📜[HTML Entity Refernce](https://css-tricks.com/snippets/html/glyphs/)
+- 📜[HTML Entity Reference](https://css-tricks.com/snippets/html/glyphs/)
 
 ### Articles
 
