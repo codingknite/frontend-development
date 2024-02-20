@@ -39,7 +39,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 15. [**Hosting Sites**](#hosting-sites)
 16. [**Design Inspiration**](#design-inspiration)
 17. [**Portfolio Inspiration**](#portfolio-inspiration)
-18. [**Youtube Channels**](#youtube-channels)
+18. [**YouTube Channels**](#youtube-channels)
 19. [**Podcasts**](#podcasts)
 20. [**Blogs**](#blogs)
 21. [**Interview Prep**](#interview-prep)
@@ -65,6 +65,10 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🎥[Computer Networks: Crash Course Computer Science](https://www.youtube.com/watch?v=3QhU9jd03a0&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=29&ab_channel=CrashCourse)
 - 🎥[The World Wide Web: Crash Course Computer Science](https://www.youtube.com/watch?v=guvsH5OFizE&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=31&ab_channel=CrashCourse)
 
+### Websites
+
+- 🌐[WebGlossary.info](https://webglossary.info/)
+
 [👆 Back To Top](#table-of-contents)
 
 ## HTML
@@ -78,6 +82,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - 📜[OverAPI](https://overapi.com/html)
 - 📜[HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+- 📜[HTML Elements Index](https://meiert.com/en/indices/html-elements/)
 - 📜[HTML Entity Reference](https://css-tricks.com/snippets/html/glyphs/)
 
 ### Articles
@@ -90,6 +95,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📒[Design and Build Websites 💵](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
 - 📒[Head First HTML with CSS 💵](https://www.amazon.com/Head-First-HTML-CSS-XHTML/dp/059610197X)
 - 📒[HTML5 Pocket Reference 💵](https://www.amazon.com/HTML5-Pocket-Reference-Comprehensive-Indispensable/dp/1449363350)
+- 📒[Upgrade Your HTML series 💵](https://www.amazon.com/dp/B0B4SD84B2/)
 
 ### Courses
 
@@ -100,6 +106,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📝[Learn HTML CodeCademy 💵](https://www.codecademy.com/learn/learn-html)
 - 📝[Introduction to HTML and CSS Team Treehouse 💵](https://teamtreehouse.com/library/introduction-to-html-and-css)
 - 📝[Learn HTML in Detail](https://www.scaler.com/topics/html/)
+
 ### Websites
 
 - 🌐[HTML5 Doctor - A great reference for HTML Elements](http://html5doctor.com/)
@@ -368,7 +375,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[Kent C. Dodds' Blog ](https://blog.kentcdodds.com/)
 - 🌐[useHooks Blog](https://usehooks.com/)
 
-### Youtube Channels
+### YouTube Channels
 
 - 🎥[Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
 - 🎥[Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
@@ -512,7 +519,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🎤[Vue News Podcast](https://news.vuejs.org/)
 - 🎤[Views on Vue](https://devchat.tv/views-on-vue)
 
-### Youtube Channels
+### YouTube Channels
 
 - 🎥[freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - 🎥[Traversy Media](https://www.youtube.com/user/TechGuyWeb)
@@ -555,7 +562,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 [👆 Back To Top](#table-of-contents)
 
-## Browser extensions
+## Browser Extensions
 
 - 🌐[CSS Spider](https://cssspider.fresalabs.com/)
 - 🌐[Check Browsers Support 💵](https://checkbrowsers.support/)
@@ -719,7 +726,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 [👆 Back To Top](#table-of-contents)
 
-## Youtube Channels
+## YouTube Channels
 
 - 🎥[Academind](https://www.youtube.com/c/Academind)
 - 🎥[Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
@@ -763,6 +770,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - ✍[Echo.Js](https://www.echojs.com/)
 - ✍[freeCodeCamp](https://freecodecamp.org/news)
 - ✍[Front End Front](https://frontendfront.com/)
+- ✍[Frontend Dogma](https://frontenddogma.com/)
 - ✍[Frontend Focus](https://frontendfoc.us/)
 - ✍[Hacker News](https://news.ycombinator.com/)
 - ✍[Hackernoon](http://hackernoon.com/)
