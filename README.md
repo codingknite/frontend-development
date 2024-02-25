@@ -1,4 +1,4 @@
-![Banner](/img/Banner.jpg 'Banner')
+![Banner](/img/Banner.jpg "Banner")
 
 ## Introduction
 
@@ -57,6 +57,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📜[How does the Internet Work? — HowStuffWorks](https://computer.howstuffworks.com/internet/basics/internet.htm)
 - 📜[How the Internet Works — Medium](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=It%20is%20a%20network%20that,their%20source%20to%20their%20destination.)
 - 📜[How Does the Internet Work? — Stanford](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- 📜[How Does the Internet Work? — cs.fyi](https://cs.fyi/guide/how-does-internet-work)
+- 📜[How Does the Internet Work? — roadmap.sh](https://roadmap.sh/guides/what-is-internet)
 
 ### Videos
 
@@ -100,6 +102,8 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📝[Learn HTML CodeCademy 💵](https://www.codecademy.com/learn/learn-html)
 - 📝[Introduction to HTML and CSS Team Treehouse 💵](https://teamtreehouse.com/library/introduction-to-html-and-css)
 - 📝[Learn HTML in Detail](https://www.scaler.com/topics/html/)
+- 📝[HTML Introduction W3Schools](https://www.w3schools.com/html/html_intro.asp)
+
 ### Websites
 
 - 🌐[HTML5 Doctor - A great reference for HTML Elements](http://html5doctor.com/)
@@ -218,7 +222,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📝[JavaScript Tutorial - GeekforGeeks](https://www.geeksforgeeks.org/javascript-tutorial/)
 - 📝[JavaScript30 - Wes Bos](https://javascript30.com/)
 - 📝[The Complete JavaScript Course - Udemy💵 ](https://www.udemy.com/course/the-complete-javascript-course/)
-- 📝[Learn Javascript From Scratch - Scaler](https://www.scaler.com/topics/javascript/)  
+- 📝[Learn Javascript From Scratch - Scaler](https://www.scaler.com/topics/javascript/)
 
 ### Books
 
