@@ -586,6 +586,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[Pngtree](https://pngtree.com/free-icon)
 - 🌐[Swift Icons](https://www.swifticons.com/)
 - 🌐[UXWing](https://uxwing.com/)
+- 🌐[SVGRepo](https://www.svgrepo.com)
 
 [👆 Back To Top](#table-of-contents)
 
@@ -620,6 +621,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[Icons 8](https://icons8.com/ouch)
 - 🌐[Manypixels](https://gallery.manypixels.co/)
 - 🌐[Undraw](https://undraw.co/illustrations)
+- 🌐[StorySet](https://storyset.com)
 
 [👆 Back To Top](#table-of-contents)
 
