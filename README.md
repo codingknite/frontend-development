@@ -121,6 +121,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📜[OverAPI CSS Cheat Sheet](https://overapi.com/css)
 - 📜[Extensive CSS Reference](https://tympanus.net/codrops/css_reference/)
 - 📜[Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+- 📜[Tailwind CSS Cheat Sheet(v4 and v3)](https://kombai.com/tailwind/cheat-sheet/)
 
 ### Books
 
