@@ -196,6 +196,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[**Responsive Grid System** - Quick flexible and easy fluid grid for easy responsive web design.](http://www.responsivegridsystem.com/)
 - 🌐[**Beautiful CSS box-shadow examples** - A curated collection of 90+ free beautiful box-shadow, click to copy.](https://getcssscan.com/css-box-shadow-examples)
 - 🌐[**Beautiful CSS buttons examples** - A curated collection of 80+ free beautiful buttons, click to copy.](https://getcssscan.com/css-buttons-examples)
+- 🌐[**CSSnippets** - A collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more.](https://cssnippets.shefali.dev/)
 
 [👆 Back To Top](#table-of-contents)
 
