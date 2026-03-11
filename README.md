@@ -502,6 +502,9 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📒[Vue.js: Up and Running 💵](http://shop.oreilly.com/product/0636920103455.do)
 - 📒[Vue.js in Action 💵](https://www.manning.com/books/vue-js-in-action)
 
+### Challenge Websites
+- 🌐[FrontendAtlas](https://frontendatlas.com/coding?tech=vue)
+
 ### Podcasts
 
 - 🎤[Cynical Developer Episode 99](https://cynicaldeveloper.com/podcast/99/)
