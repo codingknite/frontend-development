@@ -794,6 +794,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[JobScan](https://www.jobscan.co/)
 - 🌐[SkillSyncer](https://skillsyncer.com/)
 - 🌐[Top Resume](https://www.topresume.com/)
+- 🌐[Resumegrade](https://resumegrade.ai)
 
 ### Job Sites
 
