@@ -139,6 +139,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 ### Frameworks and Libraries
 
+- 🌐[Notchify](https://notchify.vercel.app/) 
 - 🌐[Base](https://getbase.org/)
 - 🌐[Bulma](https://bulma.io/)
 - 🌐[Bootstrap](https://getbootstrap.com/)
