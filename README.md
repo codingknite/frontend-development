@@ -787,6 +787,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[ResumeWorded](https://resumeworded.com/)
 - 🌐[Resume.io](https://resume.io/)
 - 🌐[Resume Maker](https://www.resumemaker.online/)
+- 🌐[ResumeOrbitz](https://resumeorbitz.com/) - AI-powered resume builder with ATS scoring & keyword gap analysis
 
 ### Resume Editing
 
