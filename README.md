@@ -792,6 +792,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - 🌐[Grammarly](https://www.grammarly.com/)
 - 🌐[JobScan](https://www.jobscan.co/)
+- 🌐[ResumeAI](https://withresumeai.com/)
 - 🌐[SkillSyncer](https://skillsyncer.com/)
 - 🌐[Top Resume](https://www.topresume.com/)
 
