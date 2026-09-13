@@ -231,6 +231,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 📒[Speaking JavaScript](http://speakingjs.com/es5/index.html)
 - 📒[JavaScripts The Good Parts💵](https://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596517742&linkCode=as2&tag=eldoradohills-20)
 - 📒[JavaScrit and JQuery💵](http://javascriptbook.com/)
+- 📒[The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 
 ### Challenge Websites
 
