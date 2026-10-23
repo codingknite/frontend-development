@@ -162,7 +162,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 
 - 🌐[Codepen](http://codepen.io/)
 - 🌐[CodeSandbox](https://codesandbox.io/)
-- 🌐[CSS Deck](http://cssdeck.com/)
+- 🌐[Coddy HTML Playground](https://coddy.tech/playground/html)
 - 🌐[Dablet](http://dabblet.com/)
 - 🌐[JS Bin](http://jsbin.com/)
 - 🌐[JSFiddle](https://jsfiddle.net/)
